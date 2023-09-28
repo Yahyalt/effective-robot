@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SiCepat</name>
+   <tag></tag>
+   <elementGuidId>66e1a1c3-352c-4bf2-ad02-1b8a119bab27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#createcustomer-customerregister-customermanagementSiCepatmatoption-preferedexpedition-createcustomer > span.mat-option-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='createcustomer-customerregister-customermanagementSiCepatmatoption-preferedexpedition-createcustomer']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>945d9090-eb5c-4b57-b0b8-36a38ecf87b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>cf15f9a4-c7ca-4091-86e1-18989e0baef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> SiCepat </value>
+      <webElementGuid>e67c5bac-f887-4213-beec-8813e1690e38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createcustomer-customerregister-customermanagementSiCepatmatoption-preferedexpedition-createcustomer&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>f3a8b1c9-6d28-44a5-87f3-95a1dc5a63a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='createcustomer-customerregister-customermanagementSiCepatmatoption-preferedexpedition-createcustomer']/span</value>
+      <webElementGuid>18d47f1e-ea39-4f91-bdd1-80b6d043b523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JNT'])[1]/following::span[1]</value>
+      <webElementGuid>91889215-ab50-4f6b-8496-3d189778fab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JNE Express'])[1]/following::span[2]</value>
+      <webElementGuid>451b5f00-6b0d-4c01-be01-3b794e82a6ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reguler (Cashless)-J&amp;T Express'])[1]/preceding::span[1]</value>
+      <webElementGuid>4f1eaaa6-5b31-4697-a4c7-3e44735d42be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ali Express'])[1]/preceding::span[2]</value>
+      <webElementGuid>3973b72f-5314-4506-8d74-85efe16aeded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SiCepat']/parent::*</value>
+      <webElementGuid>e51ca3e2-044e-4500-a700-b70f291276a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[3]/span</value>
+      <webElementGuid>9604457c-9292-437e-8b91-9b6cde06465e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' SiCepat ' or . = ' SiCepat ')]</value>
+      <webElementGuid>16466b5b-53ec-440f-98b4-84ad51d2d900</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

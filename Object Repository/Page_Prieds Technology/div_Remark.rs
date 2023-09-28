@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Remark</name>
+   <tag></tag>
+   <elementGuidId>a3791da0-1488-4da0-b047-319acc4c22f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c165-48</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-0-1']/div/app-create-customer/div/mat-card/mat-card-content/div[2]/div/mat-form-field[7]/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b4ad1b2f-f2ef-46a4-b34b-03f34a890366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c165-48</value>
+      <webElementGuid>7201ea93-028e-463f-9419-b895d2caa513</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Remark </value>
+      <webElementGuid>33a1c08b-8762-4432-87cd-fe6023dad3a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-0-1&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c282-65 ng-trigger ng-trigger-translateTab&quot;]/app-create-customer[@class=&quot;ng-star-inserted&quot;]/div[1]/mat-card[@class=&quot;mat-card mat-focus-indicator&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/div[2]/div[1]/mat-form-field[@class=&quot;mat-form-field fit-card ng-tns-c165-48 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c165-48&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c165-48&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c165-48&quot;]</value>
+      <webElementGuid>c6ab3324-efe7-4058-a9ff-61acaba2e270</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-0-1']/div/app-create-customer/div/mat-card/mat-card-content/div[2]/div/mat-form-field[7]/div/div/div[3]</value>
+      <webElementGuid>9aed2e80-8fdb-485c-96de-677394347cbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City'])[1]/following::div[14]</value>
+      <webElementGuid>24a379e3-db69-4ff2-8f6c-e485626aee08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[28]</value>
+      <webElementGuid>ceda5651-fff6-486e-bace-97d58cd7267a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NPWP'])[1]/preceding::div[12]</value>
+      <webElementGuid>fc67029c-6680-4812-bb55-366af9385dc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field[7]/div/div/div[3]</value>
+      <webElementGuid>e7d5d0b6-b9f5-4c58-ac2c-b0b78b072b94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Remark ' or . = ' Remark ')]</value>
+      <webElementGuid>d79f48dd-03fc-4ce4-bee6-e1b4ab5b7976</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

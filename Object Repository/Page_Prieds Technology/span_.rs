@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>0ca01baa-7c48-49e2-a357-da5511f44b77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-select-placeholder.ng-tns-c240-62.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-select[@id='createcustomer-customerregister-customermanagementmatselect-termofpayment-createcustomer']/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ac524c62-3b41-463c-9857-9f3630bcfe2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-placeholder ng-tns-c240-62 ng-star-inserted</value>
+      <webElementGuid>1730c927-fb07-4b98-a36a-3ac7ca16f7cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>ad6afe19-0af6-4bdc-a021-5f270556f523</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createcustomer-customerregister-customermanagementmatselect-termofpayment-createcustomer&quot;)/div[@class=&quot;mat-select-trigger ng-tns-c240-62&quot;]/div[@class=&quot;mat-select-value ng-tns-c240-62&quot;]/span[@class=&quot;mat-select-placeholder ng-tns-c240-62 ng-star-inserted&quot;]</value>
+      <webElementGuid>7af686a9-cb0c-4114-8bc4-151abe5bb928</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-select[@id='createcustomer-customerregister-customermanagementmatselect-termofpayment-createcustomer']/div/div/span</value>
+      <webElementGuid>2f47e5b4-9e14-4bc0-b431-bafdf3fbed2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prefered Expedition'])[1]/following::span[1]</value>
+      <webElementGuid>7d808954-0680-478d-81be-a74d035a2521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Province'])[1]/following::span[2]</value>
+      <webElementGuid>8286846e-f87c-4cae-8c1c-1645b51cfdda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Term Of Payment'])[1]/preceding::span[1]</value>
+      <webElementGuid>504ed9d5-1b8d-47dd-ac39-693c3bc6a177</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Term Of Payment Duration'])[1]/preceding::span[2]</value>
+      <webElementGuid>8990a5b6-2440-4b7d-a091-2e3da102d159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field[7]/div/div/div[3]/mat-select/div/div/span</value>
+      <webElementGuid>e0d284af-f0c7-4492-ba2b-fcd8aee44fd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' ' or . = ' ')]</value>
+      <webElementGuid>deff35f7-8668-4584-a306-a6d5626e43df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

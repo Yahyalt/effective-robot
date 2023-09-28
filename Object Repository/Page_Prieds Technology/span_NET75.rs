@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_NET75</name>
+   <tag></tag>
+   <elementGuidId>0ab7c764-ffea-49fc-868c-9a58a4c10f51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#createcustomer-customerregister-customermanagementNET75matoption-termofpayment-createcustomer > span.mat-option-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='createcustomer-customerregister-customermanagementNET75matoption-termofpayment-createcustomer']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e388fc90-76f8-4ac2-9b1a-6b62d9eea283</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>71a4251e-0add-49ef-91a1-eac2f9510fd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> NET75 </value>
+      <webElementGuid>72193225-6f11-4cee-b7b7-d7b2c9a7d6d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createcustomer-customerregister-customermanagementNET75matoption-termofpayment-createcustomer&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>6eb5380f-82a9-456d-ae63-45076e2b8abd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='createcustomer-customerregister-customermanagementNET75matoption-termofpayment-createcustomer']/span</value>
+      <webElementGuid>a5ab890f-77bd-409f-8ce4-20bcb4981ca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NET60'])[1]/following::span[1]</value>
+      <webElementGuid>26e47e4e-b191-4a2d-9880-ad7246853f58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NET45'])[1]/following::span[2]</value>
+      <webElementGuid>3f46d231-b5e9-4679-ba66-01ecd0752628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NET90'])[1]/preceding::span[1]</value>
+      <webElementGuid>ed72cccb-5b12-4e20-a971-88326e239fe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom'])[1]/preceding::span[2]</value>
+      <webElementGuid>12cd8a45-b0ec-44b5-9b5e-1ff84d54ba88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='NET75']/parent::*</value>
+      <webElementGuid>4a605584-7d5e-4bee-8874-3c8d4e847e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[6]/span</value>
+      <webElementGuid>2a3a8a7c-8935-4e0c-9563-e65c1516e56c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' NET75 ' or . = ' NET75 ')]</value>
+      <webElementGuid>ef4ea8ad-f98e-4b2f-9c0a-755800894182</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

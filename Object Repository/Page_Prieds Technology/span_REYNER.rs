@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_REYNER</name>
+   <tag></tag>
+   <elementGuidId>e0da2203-312e-40ef-93e9-38c5efc076b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#createcustomer-customerregister-customermanagementREYNERmatoption-salesmanid-createcustomer > span.mat-option-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='createcustomer-customerregister-customermanagementREYNERmatoption-salesmanid-createcustomer']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8db5e66b-a833-4289-bd9b-9e4a4be3489c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>c604ce12-3bee-49b8-9f44-d72cdec3f1aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> REYNER </value>
+      <webElementGuid>27b30624-b425-488e-8b37-681a4634da35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createcustomer-customerregister-customermanagementREYNERmatoption-salesmanid-createcustomer&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>822c114d-3dfe-487e-bd70-09ae5c22b479</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='createcustomer-customerregister-customermanagementREYNERmatoption-salesmanid-createcustomer']/span</value>
+      <webElementGuid>38f515e2-b9ed-40c8-8f0d-e966c041728f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACCURATE'])[1]/following::span[1]</value>
+      <webElementGuid>073f9c59-9fef-4ef0-9566-30623eda67f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::span[2]</value>
+      <webElementGuid>7a62afff-6d65-475a-ab2c-6e290078cf3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Support/Help'])[1]/preceding::span[1]</value>
+      <webElementGuid>be40a687-7a48-46b2-8e8c-08b4d7fc55b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Language'])[1]/preceding::span[1]</value>
+      <webElementGuid>b05bc9ed-023e-46f7-b564-1c9d49194fc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='REYNER']/parent::*</value>
+      <webElementGuid>a5362b86-f42d-4850-a947-f6543ca5dae4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[2]/span</value>
+      <webElementGuid>c421a022-cf28-4c26-b8bc-a353f67a4fcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' REYNER ' or . = ' REYNER ')]</value>
+      <webElementGuid>813edd74-1df3-4859-ba54-925887bb0fe3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

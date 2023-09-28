@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Generate ID</name>
+   <tag></tag>
+   <elementGuidId>86c8cf61-ccf1-43b5-b1cc-58eb6cf5a79c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#createcustomer-customerregister-customermanagementbutton-generatecustomerid-createcustomer > span.mat-button-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='createcustomer-customerregister-customermanagementbutton-generatecustomerid-createcustomer']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>44e45a1e-5d2f-40b7-8d4e-c7c50acfa93e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>3530eade-1a59-4177-a0a5-c34cd9800af0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Generate ID </value>
+      <webElementGuid>fe395bd7-8fd4-4513-b4eb-3b6bff736c26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createcustomer-customerregister-customermanagementbutton-generatecustomerid-createcustomer&quot;)/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>99ad4e89-0e1d-4ad5-9cf6-99feeb7d23e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='createcustomer-customerregister-customermanagementbutton-generatecustomerid-createcustomer']/span</value>
+      <webElementGuid>ea78903b-f89f-43b7-b494-931689760ea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Max file size 3Mb. Please upload file with example .jpg .jpeg .png and .pdf format'])[1]/following::span[3]</value>
+      <webElementGuid>fec3ac17-caed-4ace-b868-f465a1a7f61a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::span[1]</value>
+      <webElementGuid>aa767660-c040-4844-9892-76b578c20b48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Support/Help'])[1]/preceding::span[2]</value>
+      <webElementGuid>bf894aff-39be-4e26-bc2b-2238afa6499e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Generate ID']/parent::*</value>
+      <webElementGuid>33a6cab4-0356-4f64-b85d-7c5164c35c92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button/span</value>
+      <webElementGuid>bbec1e55-b838-404a-a39a-6a616477724b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Generate ID ' or . = ' Generate ID ')]</value>
+      <webElementGuid>807d92b3-aae8-48f6-ae2f-e9f1dea001e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Province</name>
+   <tag></tag>
+   <elementGuidId>f9487c99-1bfd-4750-854b-5a77cf6f9f9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c165-54</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-0-1']/div/app-create-customer/div/mat-card/mat-card-content/div[2]/div[2]/mat-form-field[5]/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9bbb7f65-2b68-4aaf-ae37-7361f494bb12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c165-54</value>
+      <webElementGuid>ea33376c-286d-4080-b5fc-d3517df86f54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Province </value>
+      <webElementGuid>72c1f7d2-1d68-46af-bfb0-fe221025092b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-0-1&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c282-65 ng-trigger ng-trigger-translateTab&quot;]/app-create-customer[@class=&quot;ng-star-inserted&quot;]/div[1]/mat-card[@class=&quot;mat-card mat-focus-indicator&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/div[2]/div[2]/mat-form-field[@class=&quot;mat-form-field fit-card ng-tns-c165-54 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c165-54&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c165-54&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c165-54&quot;]</value>
+      <webElementGuid>ce8c8bdb-0d72-4803-9e11-4c61faa23cec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-0-1']/div/app-create-customer/div/mat-card/mat-card-content/div[2]/div[2]/mat-form-field[5]/div/div/div[3]</value>
+      <webElementGuid>86c0c17e-7316-4d96-a11a-afb4f5aa0eb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Region'])[1]/following::div[14]</value>
+      <webElementGuid>64c86e3a-a1fb-44fa-acc9-b4f33507692c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact No'])[1]/following::div[28]</value>
+      <webElementGuid>1fc58d67-b2b9-4325-b117-2900b48dd86d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prefered Expedition'])[1]/preceding::div[12]</value>
+      <webElementGuid>c0c75f0f-8799-4a68-8bd6-ef5213676007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/mat-form-field[5]/div/div/div[3]</value>
+      <webElementGuid>05672edb-7f37-4693-8578-e56a0e93394d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Province ' or . = ' Province ')]</value>
+      <webElementGuid>20840a10-d01a-405f-9905-289c706e824d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
