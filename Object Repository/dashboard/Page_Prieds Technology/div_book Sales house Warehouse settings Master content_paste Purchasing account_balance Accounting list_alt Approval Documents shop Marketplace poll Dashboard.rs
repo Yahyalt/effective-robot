@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_book Sales house Warehouse settings Master content_paste Purchasing account_balance Accounting list_alt Approval Documents shop Marketplace poll Dashboard</name>
+   <tag></tag>
+   <elementGuidId>45fdfccd-0269-475a-9d9c-640b0aa88df0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-menu-display/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9b4bcacc-3ba3-4cbb-9f16-e3cf01e0536d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayout</name>
+      <type>Main</type>
+      <value>column</value>
+      <webElementGuid>4476f0cb-e49a-41e7-8575-a4738d09b78e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayoutgap</name>
+      <type>Main</type>
+      <value>8px</value>
+      <webElementGuid>35462122-1cb3-4565-acdc-49fee6defc58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c338-5</value>
+      <webElementGuid>ac376326-c6f4-4759-8706-8c3dfb6b372b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>book Sales house Warehouse settings Master content_paste Purchasing account_balance Accounting list_alt Approval Documents shop Marketplace poll Dashboard </value>
+      <webElementGuid>d1fc7179-4b03-481f-bef5-8e37ae77541a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-oms-master[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-menu-display[@class=&quot;ng-tns-c338-5&quot;]/div[@class=&quot;ng-tns-c338-5 menu-transition ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c338-5&quot;]</value>
+      <webElementGuid>324a067f-1bd6-42b2-83c7-f82771e170c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-menu-display/div/div[2]</value>
+      <webElementGuid>5d1e3640-9763-4c52-ab75-da87f89be9da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'book Sales house Warehouse settings Master content_paste Purchasing account_balance Accounting list_alt Approval Documents shop Marketplace poll Dashboard ' or . = 'book Sales house Warehouse settings Master content_paste Purchasing account_balance Accounting list_alt Approval Documents shop Marketplace poll Dashboard ')]</value>
+      <webElementGuid>f6d25cb4-6f2c-4e77-9aef-a990cd5f3004</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

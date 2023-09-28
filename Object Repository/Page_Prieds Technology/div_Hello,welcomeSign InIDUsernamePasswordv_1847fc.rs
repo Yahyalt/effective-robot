@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hello,welcomeSign InIDUsernamePasswordv_1847fc</name>
+   <tag></tag>
+   <elementGuidId>25963936-d05b-44ca-a741-78443167fe5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.style-main</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>57289924-4721-49e4-a938-03ce601baed8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayout</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>c5cd7977-e9da-4d62-864d-383b1f6f4191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayoutalign</name>
+      <type>Main</type>
+      <value>center center</value>
+      <webElementGuid>4b080674-a8ac-455d-b9bd-223fc05c39ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style-main</value>
+      <webElementGuid>29630715-07f4-4ad0-a007-ee16bf43aac3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hello,welcome!Sign InID/UsernamePasswordvisibility_offLoginVersion: 0.1.119Forgot password ?Need an Account? Sign Up</value>
+      <webElementGuid>15f41fb8-d3f6-45bb-80be-b0209f49a132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;style-main&quot;]</value>
+      <webElementGuid>d15daa89-6b2d-4345-b910-4a821a85c2e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div</value>
+      <webElementGuid>9f2efb4e-6543-47b3-a76b-fbd97f588593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Hello,welcome!Sign InID/UsernamePasswordvisibility_offLoginVersion: 0.1.119Forgot password ?Need an Account? Sign Up' or . = 'Hello,welcome!Sign InID/UsernamePasswordvisibility_offLoginVersion: 0.1.119Forgot password ?Need an Account? Sign Up')]</value>
+      <webElementGuid>09c14b27-7074-4487-bc2a-fedd6c7539bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

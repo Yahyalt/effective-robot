@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_TESTING QA WMS LITE_banner-top</name>
+   <tag></tag>
+   <elementGuidId>4786f113-c921-4bfd-b6e2-e37fc2cda15b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://prototype-prieds-assets.s3.ap-southeast-1.amazonaws.com/PRIEDS/DOCUMENT/content-banner1.jpg')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.banner-top</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>704f6e70-4616-4430-8062-6955cd747d8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>banner-top</value>
+      <webElementGuid>84125ec4-19a8-4024-bafa-43114710e4e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://prototype-prieds-assets.s3.ap-southeast-1.amazonaws.com/PRIEDS/DOCUMENT/content-banner1.jpg</value>
+      <webElementGuid>1de08786-0d85-4563-9de0-39ca7529ba58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-oms-master[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[1]/div[2]/app-home-landing-page[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;body-banner ng-star-inserted&quot;]/carousel[@class=&quot;banner&quot;]/div[@class=&quot;carousel slide&quot;]/div[@class=&quot;carousel-inner&quot;]/slide[@class=&quot;item carousel-item ng-star-inserted active&quot;]/div[@class=&quot;item active&quot;]/img[@class=&quot;banner-top&quot;]</value>
+      <webElementGuid>e1b86b4b-365a-4ed9-924b-24ef65335665</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://prototype-prieds-assets.s3.ap-southeast-1.amazonaws.com/PRIEDS/DOCUMENT/content-banner1.jpg')]</value>
+      <webElementGuid>8a7841a0-3089-4b59-b614-39cf1ea0f3eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//slide/div/img</value>
+      <webElementGuid>664375d2-ddc2-43de-9880-15ab9875c49e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://prototype-prieds-assets.s3.ap-southeast-1.amazonaws.com/PRIEDS/DOCUMENT/content-banner1.jpg']</value>
+      <webElementGuid>5ea0825a-86b2-4712-9821-1f8cda89c3cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

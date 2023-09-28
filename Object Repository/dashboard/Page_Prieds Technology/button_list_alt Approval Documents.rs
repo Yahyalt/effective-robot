@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_list_alt Approval Documents</name>
+   <tag></tag>
+   <elementGuidId>54640713-ca8a-4167-9d73-7289da2eaf43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='menu_approval_documents']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_approval_documents</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c519ab60-f832-4bf7-bc9e-4dc8d50d408a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator button-transition mat-button mat-button-base ng-star-inserted</value>
+      <webElementGuid>3e368767-9efe-4e9b-bcaa-7f913390fa35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_approval_documents</value>
+      <webElementGuid>ab2e4616-230a-413e-aae8-6a72234fb769</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-13</value>
+      <webElementGuid>4fe28b7b-06e4-4354-a8fe-6de0c60415e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>list_alt Approval Documents </value>
+      <webElementGuid>8bd5e24c-9ab9-459b-91d8-01fae5eb2982</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_approval_documents&quot;)</value>
+      <webElementGuid>967c7014-91f7-4426-a79a-3619e345c3b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='menu_approval_documents']</value>
+      <webElementGuid>1ffe6571-2c69-4516-bd50-27661d985f7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounting'])[1]/following::button[1]</value>
+      <webElementGuid>0c491dc6-67a0-48fc-b7d0-53c28a080712</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchasing'])[1]/following::button[2]</value>
+      <webElementGuid>dd1e00f3-fc3d-4d61-9fe1-67452d38940d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marketplace'])[1]/preceding::button[1]</value>
+      <webElementGuid>84da7e6b-6a79-48a0-95e1-28646384987e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-menu-element[6]/button</value>
+      <webElementGuid>e2d6819e-8165-4715-936c-ff2a4f65ce5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'menu_approval_documents' and (text() = 'list_alt Approval Documents ' or . = 'list_alt Approval Documents ')]</value>
+      <webElementGuid>02efb631-a75f-4133-8300-8db5dc4f01d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

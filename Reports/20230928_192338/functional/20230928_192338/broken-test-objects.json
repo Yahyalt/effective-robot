@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/update customer/Page_Prieds Technology/div_Contact No",
+      "brokenLocator": "//mat-dialog-container[@id\u003d\u0027mat-dialog-6\u0027]/details-edit-customer-management-modal/div/mat-dialog-content/div/mat-form-field[4]/div/div/div[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Salesman ID\u0027])[2]/following::div[14]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230928_192338/functional/20230928_192338/Object Repository/update customer/Page_Prieds Technology/div_Contact No_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/update customer/Page_Prieds Technology/div_Remark",
+      "brokenLocator": "//mat-dialog-container[@id\u003d\u0027mat-dialog-6\u0027]/details-edit-customer-management-modal/div/mat-dialog-content/div/mat-form-field[6]/div/div/div[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027PIC\u0027])[2]/following::div[14]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230928_192338/functional/20230928_192338/Object Repository/update customer/Page_Prieds Technology/div_Remark_neighbor.png"
+    }
+  ]
+}

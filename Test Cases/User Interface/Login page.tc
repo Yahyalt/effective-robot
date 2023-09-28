@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>to make sure login page load properly</description>
+   <name>Login page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5793b08-c38d-47b9-b41d-15b246636ef1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_poll Dashboard</name>
+   <tag></tag>
+   <elementGuidId>41a2885c-b39f-417c-b160-51eea1b9f2b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='menu_dashboard']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_dashboard</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>27799c05-8f1a-49b0-92f6-b591b0afb85f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator button-transition mat-button mat-button-base ng-star-inserted</value>
+      <webElementGuid>f38f62d2-f481-427c-9afe-f23fdc4484dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_dashboard</value>
+      <webElementGuid>5990c826-aa32-443c-93b7-2c28c1065926</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-15</value>
+      <webElementGuid>c4d06f06-e0fc-4900-9cd9-b7aeca031c9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>poll Dashboard </value>
+      <webElementGuid>3af12011-7a40-4aa2-8a63-7d9c0d4d933d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_dashboard&quot;)</value>
+      <webElementGuid>5e12a543-9b7d-4e75-a2e9-bea3cf1e1dab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='menu_dashboard']</value>
+      <webElementGuid>b56e0baf-7786-4bd7-af16-08a101824e4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marketplace'])[1]/following::button[1]</value>
+      <webElementGuid>4e0516be-8416-42b1-9ca0-3e37a6740bbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Documents'])[1]/following::button[2]</value>
+      <webElementGuid>a44d67a1-81e1-4f07-b18f-6d4ea4b01864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/preceding::button[1]</value>
+      <webElementGuid>748547ab-b3be-48fa-b18e-a615a16a9eb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-menu-element[8]/button</value>
+      <webElementGuid>12656a9c-7357-4b89-a92e-fd45e9a18ee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'menu_dashboard' and (text() = 'poll Dashboard ' or . = 'poll Dashboard ')]</value>
+      <webElementGuid>34e4a84e-dd69-4441-b3b9-35db06bf2474</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

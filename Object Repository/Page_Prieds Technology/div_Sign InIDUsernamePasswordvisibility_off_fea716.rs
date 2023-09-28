@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sign InIDUsernamePasswordvisibility_off_fea716</name>
+   <tag></tag>
+   <elementGuidId>58127ead-4d44-4180-9a4c-863c3cbe50c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='welcome!'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.style-smallphone > div:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>09baeae7-369c-42de-abf4-728c0f8f10fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxflex</name>
+      <type>Main</type>
+      <value>50%</value>
+      <webElementGuid>71321579-c84b-41db-8993-0e3aa7249e42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayout</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>b814ce7c-3bde-430a-9a23-c45dbc2976de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayoutgap</name>
+      <type>Main</type>
+      <value>8px</value>
+      <webElementGuid>8f7514ec-2283-4faa-9d91-fea54f1920b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign InID/UsernamePasswordvisibility_offLoginVersion: 0.1.119Forgot password ?Need an Account? Sign Up</value>
+      <webElementGuid>d17babfa-6e1e-4318-96e5-f10c98c006eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;style-main&quot;]/div[@class=&quot;style-smallphone&quot;]/div[2]</value>
+      <webElementGuid>d932186a-a4cd-4576-8d84-d24a61f2f4a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='welcome!'])[1]/following::div[1]</value>
+      <webElementGuid>eb0b54a4-e98a-4d3e-ac16-18497b2e1fd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello,'])[1]/following::div[1]</value>
+      <webElementGuid>92bdd699-d1de-43cb-8e60-0f635e99f2ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>f624722a-f53b-40b0-a827-332be8bb268f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sign InID/UsernamePasswordvisibility_offLoginVersion: 0.1.119Forgot password ?Need an Account? Sign Up' or . = 'Sign InID/UsernamePasswordvisibility_offLoginVersion: 0.1.119Forgot password ?Need an Account? Sign Up')]</value>
+      <webElementGuid>2fc2341a-d026-4e87-b845-93c96024eed0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

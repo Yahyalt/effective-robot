@@ -1,0 +1,140 @@
+1
+00:00:00,001 --> 00:00:01,859
+1. openBrowser("")
+
+2
+00:00:01,860 --> 00:00:07,425
+5. navigateToUrl("https://sandbox.product.prieds.com/")
+
+3
+00:00:07,426 --> 00:00:07,823
+9. click(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"))
+
+4
+00:00:07,823 --> 00:00:08,179
+13. click(findTestObject("Object Repository/Page_Prieds Technology/img_Hello,_style-people"))
+
+5
+00:00:08,179 --> 00:00:08,546
+17. click(findTestObject("Object Repository/Page_Prieds Technology/div_IDUsername"))
+
+6
+00:00:08,546 --> 00:00:09,203
+21. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2")
+
+7
+00:00:09,212 --> 00:00:09,607
+25. setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g==")
+
+8
+00:00:09,607 --> 00:00:10,005
+29. click(findTestObject("Object Repository/Page_Prieds Technology/span_Login"))
+
+9
+00:00:10,006 --> 00:00:16,001
+33. click(findTestObject("Object Repository/Page_Prieds Technology/div_Master"))
+
+10
+00:00:16,002 --> 00:00:16,811
+37. click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management"))
+
+11
+00:00:16,812 --> 00:00:18,397
+41. click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register"))
+
+12
+00:00:18,398 --> 00:00:19,750
+45. click(findTestObject("Object Repository/Page_Prieds Technology/span_Salesman ID"))
+
+13
+00:00:19,751 --> 00:00:20,331
+49. click(findTestObject("Object Repository/Page_Prieds Technology/span_REYNER"))
+
+14
+00:00:20,331 --> 00:00:22,036
+53. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Salesman ID_createcustomer-customerre_2602e6"), "Customer-UMKM" + RandomStringUtils.randomNumeric(5))
+
+15
+00:00:22,036 --> 00:00:23,138
+57. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Customer Name_createcustomer-customer_9f598b"), "UMKM")
+
+16
+00:00:23,139 --> 00:00:23,706
+61. click(findTestObject("Object Repository/Page_Prieds Technology/div_Email"))
+
+17
+00:00:23,706 --> 00:00:24,724
+65. setText(findTestObject("Object Repository/Page_Prieds Technology/input_PIC_createcustomer-customerregister-c_7d29d8"), "umkm@mailinator.com")
+
+18
+00:00:24,724 --> 00:00:25,845
+69. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Email_createcustomer-customerregister_6409b8"), "Sleman")
+
+19
+00:00:25,846 --> 00:00:26,418
+73. click(findTestObject("Object Repository/Page_Prieds Technology/div_Remark"))
+
+20
+00:00:26,418 --> 00:00:27,489
+77. setText(findTestObject("Object Repository/Page_Prieds Technology/input_City_createcustomer-customerregister-_1096a9"), "umkm")
+
+21
+00:00:27,489 --> 00:00:27,940
+81. click(findTestObject("Object Repository/Page_Prieds Technology/div_NPWP"))
+
+22
+00:00:27,940 --> 00:00:28,500
+85. click(findTestObject("Object Repository/Page_Prieds Technology/div_NPWP"))
+
+23
+00:00:28,500 --> 00:00:29,642
+89. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Remark_createcustomer-customerregiste_e3ba5d"), "08.178.554.2-123.321")
+
+24
+00:00:29,642 --> 00:00:30,664
+93. setText(findTestObject("Object Repository/Page_Prieds Technology/input_NPWP_createcustomer-customerregister-_b2e4d8"), "umkm")
+
+25
+00:00:30,665 --> 00:00:31,804
+97. setText(findTestObject("Object Repository/Page_Prieds Technology/textarea_Tier_createcustomer-customerregist_831bae"), "gang mawar")
+
+26
+00:00:31,805 --> 00:00:33,171
+101. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Address 2_createcustomer-customerregi_b33ca3"), "001122334455")
+
+27
+00:00:33,172 --> 00:00:34,299
+105. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Contact No_createcustomer-customerreg_0f8d35"), "Sleman")
+
+28
+00:00:34,299 --> 00:00:34,866
+109. click(findTestObject("Object Repository/Page_Prieds Technology/div_Province"))
+
+29
+00:00:34,867 --> 00:00:36,043
+113. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Region_createcustomer-customerregiste_b1824f"), "Special region of yogyakarta")
+
+30
+00:00:36,043 --> 00:00:37,138
+117. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e"), "")
+
+31
+00:00:37,138 --> 00:00:37,616
+121. click(findTestObject("Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e"))
+
+32
+00:00:37,616 --> 00:00:38,213
+125. click(findTestObject("Object Repository/Page_Prieds Technology/span_SiCepat"))
+
+33
+00:00:38,214 --> 00:00:38,779
+129. click(findTestObject("Object Repository/Page_Prieds Technology/span_"))
+
+34
+00:00:38,780 --> 00:00:39,345
+133. click(findTestObject("Object Repository/Page_Prieds Technology/span_NET75"))
+
+35
+00:00:39,346 --> 00:00:40,639
+137. uploadFile(findTestObject("Object Repository/Page_Prieds Technology/mat-icon_add"), "C:\Users\LENOVO\git\effective-robot\Object Repository")
+

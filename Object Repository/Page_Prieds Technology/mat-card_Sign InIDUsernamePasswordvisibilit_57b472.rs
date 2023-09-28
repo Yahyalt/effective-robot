@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-card_Sign InIDUsernamePasswordvisibilit_57b472</name>
+   <tag></tag>
+   <elementGuidId>6b5ceef5-53a4-40e2-b7d3-a026cbfb104b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='welcome!'])[1]/following::mat-card[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>mat-card.mat-card.mat-focus-indicator.main-box</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-card</value>
+      <webElementGuid>b391d5af-88e2-4f59-8bd8-fa08d05488c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayout</name>
+      <type>Main</type>
+      <value>column</value>
+      <webElementGuid>d3e6fec3-940c-4d1b-afc2-ab5ad38b1931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayoutgap</name>
+      <type>Main</type>
+      <value>8px</value>
+      <webElementGuid>255305f7-8984-42d3-9079-801bf79e39bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-card mat-focus-indicator main-box</value>
+      <webElementGuid>231c3dd9-9957-46a4-861a-9a75087900ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign InID/UsernamePasswordvisibility_offLoginVersion: 0.1.119Forgot password ?</value>
+      <webElementGuid>efb0c6ef-d92d-41fe-8009-94c7398dc2f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;style-main&quot;]/div[@class=&quot;style-smallphone&quot;]/div[2]/div[1]/mat-card[@class=&quot;mat-card mat-focus-indicator main-box&quot;]</value>
+      <webElementGuid>9950355d-a7f6-46df-aed7-a87713f3df7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='welcome!'])[1]/following::mat-card[1]</value>
+      <webElementGuid>2b13a6da-11e4-4a7f-8350-f92f30bd6372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello,'])[1]/following::mat-card[1]</value>
+      <webElementGuid>95a4fb1b-d54e-4f02-af6a-ef77069e28ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-card</value>
+      <webElementGuid>01dbcbd6-14ca-4024-b21c-e3a34b245128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-card[(text() = 'Sign InID/UsernamePasswordvisibility_offLoginVersion: 0.1.119Forgot password ?' or . = 'Sign InID/UsernamePasswordvisibility_offLoginVersion: 0.1.119Forgot password ?')]</value>
+      <webElementGuid>71670931-3b6a-47b0-b818-035e2fd6f40f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

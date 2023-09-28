@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_System  OMS</name>
+   <tag></tag>
+   <elementGuidId>a9634221-3427-4aa5-92a0-469bdf0c14b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='button-system-systemchanger']/span/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#button-system-systemchanger > span.mat-button-wrapper > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>784ed97b-2c14-4a99-a25e-bae3d3e79324</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> System : OMS </value>
+      <webElementGuid>d5e4c2bf-e8f5-467c-8ad8-f0f6f9293a36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;button-system-systemchanger&quot;)/span[@class=&quot;mat-button-wrapper&quot;]/div[1]</value>
+      <webElementGuid>e7a40d3c-ef24-4054-9d50-8beb741b487b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='button-system-systemchanger']/span/div</value>
+      <webElementGuid>57590417-32e8-423a-b62a-ffd2730bcc94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location : SITE A'])[1]/following::div[3]</value>
+      <webElementGuid>c54b46a2-d680-4114-973f-b0b645d68376</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salesman: REYNER'])[1]/following::div[6]</value>
+      <webElementGuid>7fdc385e-9ef4-4302-a6a3-44f33991b350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thu, 28 Sep 2023 05:51 PM'])[1]/preceding::div[6]</value>
+      <webElementGuid>2dbdc654-494e-452d-8e52-12cee1cb2f4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='System : OMS']/parent::*</value>
+      <webElementGuid>eeb06283-2dd2-496a-80a0-524a4a945ba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-system-changer/button/span/div</value>
+      <webElementGuid>ec787636-9576-45ee-b3b1-2ff80e826094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' System : OMS ' or . = ' System : OMS ')]</value>
+      <webElementGuid>71d4d4b1-648d-4522-9b54-f5c98a8f1cfa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
