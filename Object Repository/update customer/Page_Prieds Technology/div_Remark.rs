@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Remark</name>
+   <tag></tag>
+   <elementGuidId>8ea28156-4124-4ef6-b218-5ecc809bc110</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c165-118</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-6']/details-edit-customer-management-modal/div/mat-dialog-content/div/mat-form-field[6]/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>22ca911d-8c36-4d53-9499-a33a8c22e64f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c165-118</value>
+      <webElementGuid>9e0e4a6b-5f11-4a81-a63f-80cf05faa87e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Remark </value>
+      <webElementGuid>1dcd9551-cabb-4ead-91bf-ea7587e07f54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-6&quot;)/details-edit-customer-management-modal[@class=&quot;ng-star-inserted&quot;]/div[1]/mat-dialog-content[@class=&quot;mat-dialog-content&quot;]/div[@class=&quot;ng-valid ng-dirty ng-touched&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c165-118 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-should-float mat-form-field-has-label ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c165-118&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c165-118&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c165-118&quot;]</value>
+      <webElementGuid>f9bfdff7-3fc5-4b18-ac83-ee2efd125d91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-6']/details-edit-customer-management-modal/div/mat-dialog-content/div/mat-form-field[6]/div/div/div[3]</value>
+      <webElementGuid>3572f954-4810-4ce7-9488-23908a70a609</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PIC'])[2]/following::div[14]</value>
+      <webElementGuid>db89707e-9b89-4006-99aa-f210b158ea6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact No'])[2]/following::div[28]</value>
+      <webElementGuid>11d447db-30fe-43d3-aa9d-ba1269f88444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::div[12]</value>
+      <webElementGuid>46619700-829c-4638-a699-e9c51bbbe80b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field[6]/div/div/div[3]</value>
+      <webElementGuid>106e5b80-c212-48a7-9e5c-72b1f1e48e01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Remark ' or . = ' Remark ')]</value>
+      <webElementGuid>c246c665-b4b9-4e11-a710-e7d82e2059ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

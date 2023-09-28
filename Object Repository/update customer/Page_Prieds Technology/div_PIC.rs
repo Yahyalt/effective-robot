@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PIC</name>
+   <tag></tag>
+   <elementGuidId>7e023ee4-2969-453e-8174-9aeaae2e5fc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c165-117</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-6']/details-edit-customer-management-modal/div/mat-dialog-content/div/mat-form-field[5]/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dfbc3992-9388-4ee7-a3b4-f549fdcc3b67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c165-117</value>
+      <webElementGuid>8b225293-4d95-4d72-8007-7ceb491335e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> PIC </value>
+      <webElementGuid>0a972e29-6b2c-4899-bf68-39f29f7a9070</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-6&quot;)/details-edit-customer-management-modal[@class=&quot;ng-star-inserted&quot;]/div[1]/mat-dialog-content[@class=&quot;mat-dialog-content&quot;]/div[@class=&quot;ng-valid ng-dirty ng-touched&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c165-117 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-should-float mat-form-field-has-label ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c165-117&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c165-117&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c165-117&quot;]</value>
+      <webElementGuid>79d43c84-5f68-43ea-b721-7445bb5821bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-6']/details-edit-customer-management-modal/div/mat-dialog-content/div/mat-form-field[5]/div/div/div[3]</value>
+      <webElementGuid>500670d9-5be9-45f6-aefb-dbd1c54d83e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact No'])[2]/following::div[14]</value>
+      <webElementGuid>5e0ee803-095b-4ce9-b3c5-8d530359fcac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salesman ID'])[2]/following::div[28]</value>
+      <webElementGuid>1e962223-90ff-496d-b096-44591fa5f669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remark'])[1]/preceding::div[12]</value>
+      <webElementGuid>c461d9b6-060f-4da9-8625-31f60c8aaeab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field[5]/div/div/div[3]</value>
+      <webElementGuid>142efecb-a1e5-4f07-ad43-d590da14b4da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' PIC ' or . = ' PIC ')]</value>
+      <webElementGuid>73ef2dba-171d-4407-acdb-2caabab33dc5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
