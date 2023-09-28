@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b9d67beb-5c60-4202-826a-cacbe8268fa2</webElementGuid>
+      <webElementGuid>5d10a231-16a5-4715-aeee-0d898922642d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Region</value>
-      <webElementGuid>9febd32f-9f6a-40f7-8a16-2bba50ab75d3</webElementGuid>
+      <webElementGuid>b500c601-5b5e-4030-85f4-acf6e1f56271</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-input-element mat-form-field-autofill-control ng-tns-c165-53 cdk-text-field-autofill-monitored ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>4b1a25d7-288f-4641-ab77-465062ad0937</webElementGuid>
+      <webElementGuid>9ce55d27-3afc-40a7-9ecb-26e046f547fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>createcustomer-customerregister-customermanagementinput-region-createcustomer</value>
-      <webElementGuid>f2718523-2c65-4b11-8c16-0c183e6cb9a3</webElementGuid>
+      <webElementGuid>9f6108c1-b499-4b48-9968-8b51845edb06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e61437c2-1a28-48ef-ae76-e7bd87d65832</webElementGuid>
+      <webElementGuid>c2f374f1-3e78-4930-aafd-4e80791c849a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c46cf815-33f0-4f31-9318-ca95c23bb7c6</webElementGuid>
+      <webElementGuid>ef692418-fc68-4f50-9d8b-244e47b40860</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;createcustomer-customerregister-customermanagementinput-region-createcustomer&quot;)</value>
-      <webElementGuid>e0dcff0c-3c5c-4ddc-86fe-9bf47f11bf0c</webElementGuid>
+      <webElementGuid>7762b3e5-9b7b-4dec-b5f8-e39c91a7eba1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='createcustomer-customerregister-customermanagementinput-region-createcustomer']</value>
-      <webElementGuid>26ad1323-19d4-4583-9559-327d0116b466</webElementGuid>
+      <webElementGuid>29073863-290f-45b8-beb4-5a5b0365720e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-tab-body[@id='mat-tab-content-0-1']/div/app-create-customer/div/mat-card/mat-card-content/div[2]/div[2]/mat-form-field[4]/div/div/div[3]/input</value>
-      <webElementGuid>66e6dbda-b47a-4889-92f4-0191743ff777</webElementGuid>
+      <webElementGuid>6c6eb9ba-8b31-4855-b8c7-007569ac6a62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/mat-form-field[4]/div/div/div[3]/input</value>
-      <webElementGuid>b6c5c114-d2d4-4772-b417-139a3dede054</webElementGuid>
+      <webElementGuid>43127b14-c12f-4d1c-891b-ccae227db00a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Region' and @id = 'createcustomer-customerregister-customermanagementinput-region-createcustomer']</value>
-      <webElementGuid>6208043f-9b2d-4ce1-af58-154e87cfc1d1</webElementGuid>
+      <webElementGuid>52d38d2b-f021-4179-a677-b5ad69d74ec0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>0609de96-5230-45e5-b53a-6ea8b3e64324</webElementGuid>
+      <webElementGuid>8512d729-b832-4c7f-919f-54e542a8b449</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-form-field-infix ng-tns-c165-0</value>
-      <webElementGuid>c441ce03-1256-4973-b87b-42c2bbf23f23</webElementGuid>
+      <webElementGuid>a419366e-a6a5-427f-85f4-4fff7a6e6c47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>ID/Username</value>
-      <webElementGuid>1717ca05-1ab9-4a41-9798-250ec8030f6e</webElementGuid>
+      <webElementGuid>bea8c998-1236-41b3-a488-89f527a05e94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;style-main&quot;]/div[@class=&quot;style-smallphone&quot;]/div[2]/div[1]/mat-card[@class=&quot;mat-card mat-focus-indicator main-box&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/div[@class=&quot;username-password-form&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c165-0 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label ng-pristine ng-valid ng-touched mat-form-field-hide-placeholder&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c165-0&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c165-0&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c165-0&quot;]</value>
-      <webElementGuid>e6251316-a9fb-43b0-824a-f8a65325f26e</webElementGuid>
+      <webElementGuid>cb1de659-524c-4518-a197-5d13a7ab629e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/following::div[12]</value>
-      <webElementGuid>d7f12a6c-a856-4844-ac3e-91b5d3c6a2b2</webElementGuid>
+      <webElementGuid>80fa662e-f269-4db6-8c91-4f93ac28a968</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='welcome!'])[1]/following::div[15]</value>
-      <webElementGuid>e28e3f6e-080c-49b3-abe0-617ba2f3adf8</webElementGuid>
+      <webElementGuid>f4cf2b7a-3569-46f4-b468-74739d601ddf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[12]</value>
-      <webElementGuid>e0512fa0-b63f-459b-91d5-378d09852449</webElementGuid>
+      <webElementGuid>9d405bd0-230a-4db9-b96a-bf1657c16c02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]</value>
-      <webElementGuid>24a5ff04-e142-4bad-b804-d83e8447864c</webElementGuid>
+      <webElementGuid>574a1424-8680-45fe-b8ba-6a8a9e942466</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'ID/Username' or . = 'ID/Username')]</value>
-      <webElementGuid>7d7de674-3341-4e8c-87dd-db677618f470</webElementGuid>
+      <webElementGuid>cdda7a6b-d2c8-45ee-a103-1bde7ca67868</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

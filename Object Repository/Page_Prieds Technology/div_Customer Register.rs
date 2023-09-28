@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>d5aac2a5-9af1-4f58-a3e7-7e7bbe152340</webElementGuid>
+      <webElementGuid>90d46152-7d4e-4f28-83cf-96657dd70de9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-tab-label-content</value>
-      <webElementGuid>14988e54-4776-43a9-88a4-74822e8e4403</webElementGuid>
+      <webElementGuid>6ce12d55-d286-4182-856a-0881dcfce0f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Customer Register</value>
-      <webElementGuid>05c5b7c3-b3ce-4fba-8b07-9bfb2e9f8e9d</webElementGuid>
+      <webElementGuid>96e97050-25dd-4c56-883a-6bbf73239ee2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-tab-label-0-1&quot;)/div[@class=&quot;mat-tab-label-content&quot;]</value>
-      <webElementGuid>90189f50-f1a4-4209-8366-a994c5ab9d1d</webElementGuid>
+      <webElementGuid>c9f90cb5-a142-4d66-a821-5aaa77f0ea98</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mat-tab-label-0-1']/div</value>
-      <webElementGuid>e32ee44f-2d8a-4a50-9266-0476a95be7b2</webElementGuid>
+      <webElementGuid>943764dd-bfd0-4ed9-ac60-2b9d5b943235</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer List'])[1]/following::div[2]</value>
-      <webElementGuid>cf756d52-bad1-4ac9-8a89-cbb11a74b423</webElementGuid>
+      <webElementGuid>b78bc8b4-626e-4a46-a93a-6e956d22bc26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Management'])[1]/following::div[15]</value>
-      <webElementGuid>f39e06a2-4e02-4adf-bac6-84becc586844</webElementGuid>
+      <webElementGuid>3ba054b1-68a5-4a15-9ca5-d615137de382</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Register Import'])[1]/preceding::div[2]</value>
-      <webElementGuid>9244f4ff-878a-483d-a72f-802e8c4c4882</webElementGuid>
+      <webElementGuid>f870d3db-267b-4bff-a41d-f21577a39be6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer ID'])[1]/preceding::div[6]</value>
-      <webElementGuid>e1581d1c-d099-4708-9ac1-4c2d04e57270</webElementGuid>
+      <webElementGuid>19951677-caa1-42da-9d20-dcf6b2a332e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Customer Register']/parent::*</value>
-      <webElementGuid>457493fb-b4a1-4709-8bf9-c83e7d3a100b</webElementGuid>
+      <webElementGuid>989516c7-dc8c-42e6-88bc-528d3376c7af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div</value>
-      <webElementGuid>39327a5c-2ab3-4b62-9cc5-2acf6c759edb</webElementGuid>
+      <webElementGuid>58e4c41c-c3bc-4ccf-aadd-bdfab8d3ff1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Customer Register' or . = 'Customer Register')]</value>
-      <webElementGuid>ccfcdecf-12af-463a-9d68-372bf3513444</webElementGuid>
+      <webElementGuid>f239814f-982a-4a50-b3c4-b42541591686</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

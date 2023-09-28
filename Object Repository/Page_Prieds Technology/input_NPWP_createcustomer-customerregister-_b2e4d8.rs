@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6ca40750-51bd-4c2f-93fb-aa6bc13af45a</webElementGuid>
+      <webElementGuid>139bd9f0-fe35-421d-8d4f-2286115d294e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>af582280-4322-4b65-a6d8-e4f6d5dffa3f</webElementGuid>
+      <webElementGuid>0498c862-ec7f-49f4-9a6a-84ca02ab031a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-input-element mat-form-field-autofill-control mat-autocomplete-trigger ng-tns-c165-60 cdk-text-field-autofill-monitored ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>b78b046d-70dc-4841-8f50-b11c6abff590</webElementGuid>
+      <webElementGuid>1b614d10-0e61-4648-aed8-28371bc1b82d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>createcustomer-customerregister-customermanagementinput-tier-createcustomerinput-autocomplete-component</value>
-      <webElementGuid>cf542a0c-fde8-4b5c-a157-2005c2cdf0ee</webElementGuid>
+      <webElementGuid>fd911be1-ea12-4b82-a311-125899e68f02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Tier</value>
-      <webElementGuid>8e427c98-ce6e-4921-b9aa-8a4e832e24ce</webElementGuid>
+      <webElementGuid>debf10b3-1825-4809-8536-b1d44fc256fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>35c94a7e-70e3-4126-9da0-083e2661b65f</webElementGuid>
+      <webElementGuid>7016df39-6dae-4b46-90ce-f86cfc5dac04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>694a476e-95e3-4e02-b18a-002f6690db84</webElementGuid>
+      <webElementGuid>13ea56da-fe29-4b28-8e94-f86fe33a5d54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>b9eed997-1da7-4a4c-a46a-7a6c086e02ef</webElementGuid>
+      <webElementGuid>a3e7d638-3f12-4b52-8000-4b67bf7a7d13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>6c3233bf-065c-4f3a-811d-63387e466c53</webElementGuid>
+      <webElementGuid>558c907e-96ed-476e-a24d-eef7f2a14a42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>1ce2ff7d-a6cf-4d30-8cf3-17b8a30cf52a</webElementGuid>
+      <webElementGuid>b27ef964-011a-45c9-ba2b-54a105a6289b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>92feeed4-2927-415d-9acb-7d1d773f173f</webElementGuid>
+      <webElementGuid>2adff4cc-e90c-453f-9d3d-bedb8f456109</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>a8b65581-7a67-4d3a-9fb1-a8dc705af7e4</webElementGuid>
+      <webElementGuid>342c5330-8573-47d0-a8fd-8a28a155e7de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;createcustomer-customerregister-customermanagementinput-tier-createcustomerinput-autocomplete-component&quot;)</value>
-      <webElementGuid>bf2e50d5-85f7-4e0c-bb7c-a39162fc4531</webElementGuid>
+      <webElementGuid>d238b5d8-b7af-4893-b435-0431a2f1e40c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='createcustomer-customerregister-customermanagementinput-tier-createcustomerinput-autocomplete-component']</value>
-      <webElementGuid>c2f30ea1-0316-4bf5-a819-6dc001610889</webElementGuid>
+      <webElementGuid>6c78cd0f-db51-4ea9-a4fe-dc656814c19b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-tab-body[@id='mat-tab-content-0-1']/div/app-create-customer/div/mat-card/mat-card-content/div[2]/div/app-auto-complete/mat-form-field/div/div/div[3]/input</value>
-      <webElementGuid>a7a4f20f-d162-4ff1-be16-3946dd06813c</webElementGuid>
+      <webElementGuid>87a5a37c-4ae2-49e8-9652-5900c875fe52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-auto-complete/mat-form-field/div/div/div[3]/input</value>
-      <webElementGuid>75a8af9b-2faf-4b63-9fc1-ce8f12af83eb</webElementGuid>
+      <webElementGuid>ada000b6-1817-43e2-bda1-b837f2a22e3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +150,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'createcustomer-customerregister-customermanagementinput-tier-createcustomerinput-autocomplete-component' and @placeholder = 'Tier']</value>
-      <webElementGuid>fca4b0c9-c9a7-4eff-a9dc-3bb408604292</webElementGuid>
+      <webElementGuid>817ba5a2-cda3-45f5-ac9f-213422845fdd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

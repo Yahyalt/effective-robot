@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>26f9d010-482c-423c-a406-6353712cd6ef</webElementGuid>
+      <webElementGuid>a5ec6b5f-c4ca-4f44-ba56-12a16126b61c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-form-field-infix ng-tns-c165-46</value>
-      <webElementGuid>9b1c2e03-84e5-4ddc-b333-95c400732756</webElementGuid>
+      <webElementGuid>fb129d61-4496-44d9-884b-1d365cac8858</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Email </value>
-      <webElementGuid>1ed1b13d-e2b7-44c4-b507-0196e146dc8a</webElementGuid>
+      <webElementGuid>19a684fd-5f0a-4ae6-ab88-59bbbae8f14c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-tab-content-0-1&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c282-65 ng-trigger ng-trigger-translateTab&quot;]/app-create-customer[@class=&quot;ng-star-inserted&quot;]/div[1]/mat-card[@class=&quot;mat-card mat-focus-indicator&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/div[2]/div[1]/mat-form-field[@class=&quot;mat-form-field fit-card ng-tns-c165-46 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c165-46&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c165-46&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c165-46&quot;]</value>
-      <webElementGuid>2443c943-c302-4494-973d-9fc755f8e0de</webElementGuid>
+      <webElementGuid>84f77f75-dd9c-478a-972f-326a13399920</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-tab-body[@id='mat-tab-content-0-1']/div/app-create-customer/div/mat-card/mat-card-content/div[2]/div/mat-form-field[5]/div/div/div[3]</value>
-      <webElementGuid>6bfd225d-62e4-4d95-a458-f33dff56d68f</webElementGuid>
+      <webElementGuid>5b678721-89ed-4a0e-9884-79c69f03e356</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PIC'])[1]/following::div[14]</value>
-      <webElementGuid>011b8833-34c1-47f9-97ba-bd5572e52c96</webElementGuid>
+      <webElementGuid>7fed8384-5d51-4c0f-9b0c-397ccd9627a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Name'])[1]/following::div[28]</value>
-      <webElementGuid>520cf0aa-008e-44c2-a53c-afb8b1178fc5</webElementGuid>
+      <webElementGuid>4402547a-ffbd-4df7-833b-6ebd34b922fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='City'])[1]/preceding::div[12]</value>
-      <webElementGuid>5f5e097b-8a52-4b59-8527-07b589c3adde</webElementGuid>
+      <webElementGuid>3bdf4e13-2f0f-4817-a0f5-b693b35cf5b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-form-field[5]/div/div/div[3]</value>
-      <webElementGuid>d6d6e6b8-ab7d-461c-a898-a6af63169111</webElementGuid>
+      <webElementGuid>8ac2ad90-3ab8-44b6-aea5-3c99ade59442</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' Email ' or . = ' Email ')]</value>
-      <webElementGuid>e5ad6c7d-c7b6-4ff4-89e7-15c535adcc60</webElementGuid>
+      <webElementGuid>9cb54b4e-39f3-4990-92f5-3c1e396c724e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

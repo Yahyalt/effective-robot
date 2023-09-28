@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>9bbb7f65-2b68-4aaf-ae37-7361f494bb12</webElementGuid>
+      <webElementGuid>e0c81187-bdca-4c1b-855e-0b3f398c04b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-form-field-infix ng-tns-c165-54</value>
-      <webElementGuid>ea33376c-286d-4080-b5fc-d3517df86f54</webElementGuid>
+      <webElementGuid>5e60b9c9-66f1-4df5-b5c9-6be48a0034b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Province </value>
-      <webElementGuid>72c1f7d2-1d68-46af-bfb0-fe221025092b</webElementGuid>
+      <webElementGuid>f8715a3c-ff17-4dd1-93a1-5a8b4e2a29fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-tab-content-0-1&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c282-65 ng-trigger ng-trigger-translateTab&quot;]/app-create-customer[@class=&quot;ng-star-inserted&quot;]/div[1]/mat-card[@class=&quot;mat-card mat-focus-indicator&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/div[2]/div[2]/mat-form-field[@class=&quot;mat-form-field fit-card ng-tns-c165-54 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c165-54&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c165-54&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c165-54&quot;]</value>
-      <webElementGuid>ce8c8bdb-0d72-4803-9e11-4c61faa23cec</webElementGuid>
+      <webElementGuid>712829bd-4bbd-4eb7-b005-68aaf6257081</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-tab-body[@id='mat-tab-content-0-1']/div/app-create-customer/div/mat-card/mat-card-content/div[2]/div[2]/mat-form-field[5]/div/div/div[3]</value>
-      <webElementGuid>86c0c17e-7316-4d96-a11a-afb4f5aa0eb4</webElementGuid>
+      <webElementGuid>50a13ea4-111b-45ac-a49e-8177d2443add</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Region'])[1]/following::div[14]</value>
-      <webElementGuid>64c86e3a-a1fb-44fa-acc9-b4f33507692c</webElementGuid>
+      <webElementGuid>ff4cc54d-349b-4870-a605-055de97dde3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact No'])[1]/following::div[28]</value>
-      <webElementGuid>1fc58d67-b2b9-4325-b117-2900b48dd86d</webElementGuid>
+      <webElementGuid>9f2bf9de-94a4-4f8d-9d6a-0e3d933ec0cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prefered Expedition'])[1]/preceding::div[12]</value>
-      <webElementGuid>c0c75f0f-8799-4a68-8bd6-ef5213676007</webElementGuid>
+      <webElementGuid>09ebda5d-74e8-462a-9879-f99c7fed2048</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/mat-form-field[5]/div/div/div[3]</value>
-      <webElementGuid>05672edb-7f37-4693-8578-e56a0e93394d</webElementGuid>
+      <webElementGuid>1fff1794-6d62-43be-827e-01147407553f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' Province ' or . = ' Province ')]</value>
-      <webElementGuid>20840a10-d01a-405f-9905-289c706e824d</webElementGuid>
+      <webElementGuid>de839ed4-8c6a-4d84-abfa-97caa0b84fc4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

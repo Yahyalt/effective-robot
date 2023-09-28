@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>945d9090-eb5c-4b57-b0b8-36a38ecf87b3</webElementGuid>
+      <webElementGuid>75c2f354-ddb6-4da0-82d5-a942cc005fae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-option-text</value>
-      <webElementGuid>cf15f9a4-c7ca-4091-86e1-18989e0baef7</webElementGuid>
+      <webElementGuid>59062501-ec71-401d-843b-343ff279201a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> SiCepat </value>
-      <webElementGuid>e67c5bac-f887-4213-beec-8813e1690e38</webElementGuid>
+      <webElementGuid>2ae6f377-eb0f-4497-8a63-ccdbe42f6cdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;createcustomer-customerregister-customermanagementSiCepatmatoption-preferedexpedition-createcustomer&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
-      <webElementGuid>f3a8b1c9-6d28-44a5-87f3-95a1dc5a63a4</webElementGuid>
+      <webElementGuid>f81a8eae-263b-4a9a-b208-ca1ef8ad942b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-option[@id='createcustomer-customerregister-customermanagementSiCepatmatoption-preferedexpedition-createcustomer']/span</value>
-      <webElementGuid>18d47f1e-ea39-4f91-bdd1-80b6d043b523</webElementGuid>
+      <webElementGuid>66f36fba-6c4d-478e-b4ca-a781217af68f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='JNT'])[1]/following::span[1]</value>
-      <webElementGuid>91889215-ab50-4f6b-8496-3d189778fab4</webElementGuid>
+      <webElementGuid>02df7afc-6306-4ba8-9235-3672aab515d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='JNE Express'])[1]/following::span[2]</value>
-      <webElementGuid>451b5f00-6b0d-4c01-be01-3b794e82a6ed</webElementGuid>
+      <webElementGuid>b5cddd7d-5cac-46c8-b005-8e3fb41ec855</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reguler (Cashless)-J&amp;T Express'])[1]/preceding::span[1]</value>
-      <webElementGuid>4f1eaaa6-5b31-4697-a4c7-3e44735d42be</webElementGuid>
+      <webElementGuid>170cd50f-70fb-4d95-9f54-0ce5ee9e1143</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ali Express'])[1]/preceding::span[2]</value>
-      <webElementGuid>3973b72f-5314-4506-8d74-85efe16aeded</webElementGuid>
+      <webElementGuid>96e17e39-03be-428b-99c1-e6b850a16713</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='SiCepat']/parent::*</value>
-      <webElementGuid>e51ca3e2-044e-4500-a700-b70f291276a7</webElementGuid>
+      <webElementGuid>f3a42a43-6d5d-4238-90c5-7040b0e5eb71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-option[3]/span</value>
-      <webElementGuid>9604457c-9292-437e-8b91-9b6cde06465e</webElementGuid>
+      <webElementGuid>54cd2ea7-55bf-45ba-bd33-624d77dc764c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' SiCepat ' or . = ' SiCepat ')]</value>
-      <webElementGuid>16466b5b-53ec-440f-98b4-84ad51d2d900</webElementGuid>
+      <webElementGuid>0efec61b-6343-42e8-bca0-dcf4a5dc2be7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

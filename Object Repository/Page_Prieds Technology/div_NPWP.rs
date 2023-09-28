@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ee78d54a-7bd7-45b9-b608-11c099c29320</webElementGuid>
+      <webElementGuid>d1f81c78-9c44-49f4-a2fc-7b581b347267</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-form-field-infix ng-tns-c165-49</value>
-      <webElementGuid>f530b557-1484-41a6-a9b9-598d6cd2edda</webElementGuid>
+      <webElementGuid>4db94c55-a388-445b-9c1b-f5d8a78994cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> NPWP </value>
-      <webElementGuid>ea12662d-f983-49cd-b5b7-0061891ecdac</webElementGuid>
+      <webElementGuid>bae20bb9-4848-42e5-a188-3e2f217c4455</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-tab-content-0-1&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c282-65 ng-trigger ng-trigger-translateTab&quot;]/app-create-customer[@class=&quot;ng-star-inserted&quot;]/div[1]/mat-card[@class=&quot;mat-card mat-focus-indicator&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/div[2]/div[1]/mat-form-field[@class=&quot;mat-form-field fit-card ng-tns-c165-49 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c165-49&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c165-49&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c165-49&quot;]</value>
-      <webElementGuid>53d5a7a2-d60e-40bb-901a-2ecbbf4b73ca</webElementGuid>
+      <webElementGuid>5fd1bdf7-5607-490c-b0d1-a9efc3a77093</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-tab-body[@id='mat-tab-content-0-1']/div/app-create-customer/div/mat-card/mat-card-content/div[2]/div/mat-form-field[8]/div/div/div[3]</value>
-      <webElementGuid>ba34376f-f17a-4f12-b0f4-e82a30130750</webElementGuid>
+      <webElementGuid>1f1589b5-5c86-457d-a4a4-da6edd6366e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Remark'])[1]/following::div[14]</value>
-      <webElementGuid>9781a9db-e673-4092-831e-275c914b3d47</webElementGuid>
+      <webElementGuid>140c5c6b-d7b5-4c1c-be16-c565e1e74c19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='City'])[1]/following::div[28]</value>
-      <webElementGuid>7d195b0c-cc70-4472-9af5-294abc82ab95</webElementGuid>
+      <webElementGuid>ffa68544-1871-4977-acbb-5498a245c9c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tier'])[1]/preceding::div[12]</value>
-      <webElementGuid>8b2ce067-4884-4641-9871-87c3a62a222b</webElementGuid>
+      <webElementGuid>fb381770-2d8e-4181-93aa-b52404c43229</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-form-field[8]/div/div/div[3]</value>
-      <webElementGuid>23276b4f-98bd-4198-8766-941f693df3fc</webElementGuid>
+      <webElementGuid>6ad90c0b-9837-4cc1-98c2-23035e8b7f3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' NPWP ' or . = ' NPWP ')]</value>
-      <webElementGuid>135c309e-19a7-455e-80de-8ed4b450b5ab</webElementGuid>
+      <webElementGuid>00cdcadc-a6e5-4420-b7bb-d801c7cf420a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

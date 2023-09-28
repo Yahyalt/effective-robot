@@ -44,8 +44,8 @@ WebUI.click(findTestObject('Object Repository/Page_Prieds Technology/span_Salesm
 
 WebUI.click(findTestObject('Object Repository/Page_Prieds Technology/span_REYNER'))
 
-WebUI.setText(findTestObject('Page_Prieds Technology/input_Salesman ID_createcustomer-customerre_2602e6'), 'Customer-UMKM' + 
-    RandomStringUtils.randomNumeric(5))
+WebUI.setText(findTestObject('Object Repository/Page_Prieds Technology/input_Salesman ID_createcustomer-customerre_2602e6'), 
+    'Customer-UMKM' + RandomStringUtils.randomNumeric(5))
 
 WebUI.setText(findTestObject('Object Repository/Page_Prieds Technology/input_Customer Name_createcustomer-customer_9f598b'), 
     'UMKM')
@@ -98,6 +98,12 @@ WebUI.click(findTestObject('Object Repository/Page_Prieds Technology/span_'))
 
 WebUI.click(findTestObject('Object Repository/Page_Prieds Technology/span_NET75'))
 
+WebUI.click(findTestObject('Object Repository/Page_Prieds Technology/mat-icon_add'))
+
+WebUI.uploadFile(findTestObject('Object Repository/Page_Prieds Technology/mat-icon_add'), 'C:\\Users\\LENOVO\\git\\effective-robot\\Object Repository')
+FilePath = WebUI.getAttribute(findTestObject('Object Repository/Page_Prieds Technology/mat-icon_add'), 'value')
+WebUI.verifyMatch(FilePath, 'C:\\Users\\LENOVO\\git\\effective-robot\\Object Repository', false)
+
 WebUI.click(findTestObject('Object Repository/Page_Prieds Technology/span_Generate ID'))
 
 WebUI.click(findTestObject('Object Repository/Page_Prieds Technology/span_Submit'))
@@ -105,6 +111,4 @@ WebUI.click(findTestObject('Object Repository/Page_Prieds Technology/span_Submit
 WebUI.click(findTestObject('Object Repository/Page_Prieds Technology/span_Yes'))
 
 WebUI.click(findTestObject('Object Repository/Page_Prieds Technology/div_Customer List'))
-
-WebUI.click(findTestObject('Object Repository/Page_Prieds Technology/mat-icon_more_vert'))
 

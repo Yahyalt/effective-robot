@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e388fc90-76f8-4ac2-9b1a-6b62d9eea283</webElementGuid>
+      <webElementGuid>dbf568cb-596b-49b3-88ef-97d643add831</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-option-text</value>
-      <webElementGuid>71a4251e-0add-49ef-91a1-eac2f9510fd8</webElementGuid>
+      <webElementGuid>52c2eec1-c1cf-4a6f-b483-164babc77567</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> NET75 </value>
-      <webElementGuid>72193225-6f11-4cee-b7b7-d7b2c9a7d6d7</webElementGuid>
+      <webElementGuid>3855d482-f0f0-437a-be78-322378a620e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;createcustomer-customerregister-customermanagementNET75matoption-termofpayment-createcustomer&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
-      <webElementGuid>6eb5380f-82a9-456d-ae63-45076e2b8abd</webElementGuid>
+      <webElementGuid>0c69731d-9df3-4b17-b2df-666de5aaa5f3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-option[@id='createcustomer-customerregister-customermanagementNET75matoption-termofpayment-createcustomer']/span</value>
-      <webElementGuid>a5ab890f-77bd-409f-8ce4-20bcb4981ca5</webElementGuid>
+      <webElementGuid>bc327060-cc9e-4ed6-870a-c113e596507d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NET60'])[1]/following::span[1]</value>
-      <webElementGuid>26e47e4e-b191-4a2d-9880-ad7246853f58</webElementGuid>
+      <webElementGuid>f220184d-bcb4-4c25-a9a6-1bbd15028bdb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NET45'])[1]/following::span[2]</value>
-      <webElementGuid>3f46d231-b5e9-4679-ba66-01ecd0752628</webElementGuid>
+      <webElementGuid>dede0dba-4d4d-4bb0-af9b-a742e9dfc74a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NET90'])[1]/preceding::span[1]</value>
-      <webElementGuid>ed72cccb-5b12-4e20-a971-88326e239fe1</webElementGuid>
+      <webElementGuid>eecb1ba3-bc7a-4129-b53e-1794daf131db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom'])[1]/preceding::span[2]</value>
-      <webElementGuid>12cd8a45-b0ec-44b5-9b5e-1ff84d54ba88</webElementGuid>
+      <webElementGuid>1d88e098-9fd9-4e96-ad66-9d94313ac7f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='NET75']/parent::*</value>
-      <webElementGuid>4a605584-7d5e-4bee-8874-3c8d4e847e2c</webElementGuid>
+      <webElementGuid>bf89004a-c219-4abd-a1b2-eb692f2eb53d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-option[6]/span</value>
-      <webElementGuid>2a3a8a7c-8935-4e0c-9563-e65c1516e56c</webElementGuid>
+      <webElementGuid>d9c9146a-d2db-405f-b214-b18aa34f2aa8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' NET75 ' or . = ' NET75 ')]</value>
-      <webElementGuid>ef4ea8ad-f98e-4b2f-9c0a-755800894182</webElementGuid>
+      <webElementGuid>1e34d2d7-cdc9-4b9b-b782-fe9b210bc1ec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

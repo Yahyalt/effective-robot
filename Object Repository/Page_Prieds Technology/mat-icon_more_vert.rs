@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>mat-icon</value>
-      <webElementGuid>703f2dd2-b909-4ed5-a546-3b693959f4dd</webElementGuid>
+      <webElementGuid>5240b7e2-60ae-4d57-a040-d86ff695b5f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>e0cdd2d3-f5f6-4886-90b6-9b88b97db346</webElementGuid>
+      <webElementGuid>0c5654e0-43ca-47e3-8176-aa17ea5ad4ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-icon notranslate material-icons mat-icon-no-color</value>
-      <webElementGuid>f8b8ff4e-117a-4a55-b98e-d28f7f1db5ba</webElementGuid>
+      <webElementGuid>2c13a3ce-a195-4d0f-b640-1b36c88ad4f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>d6a167ad-c073-437c-b4fe-f064930bd0b8</webElementGuid>
+      <webElementGuid>41cffd6a-8e1f-4921-b5bc-1031f5b5ad9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>more_vert</value>
-      <webElementGuid>bf373cbb-b880-4f3d-b984-fefd4c7f0d9d</webElementGuid>
+      <webElementGuid>9e121f64-4c11-411b-bdec-069c7d1e4cae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;matmenu-tablecustomerlist-columnactions-action-customerlist-customermanagement-0&quot;)/span[@class=&quot;mat-button-wrapper&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-icon-no-color&quot;]</value>
-      <webElementGuid>415f19e6-6b5a-4e6a-a65e-cb987f17616d</webElementGuid>
+      <webElementGuid>2018d06c-a8cc-4bec-baf5-ce6666fc2c90</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='matmenu-tablecustomerlist-columnactions-action-customerlist-customermanagement-0']/span/mat-icon</value>
-      <webElementGuid>f3e7480f-035d-422b-8a3a-eb5f3171c45c</webElementGuid>
+      <webElementGuid>271980d1-51ab-412c-8064-87f26cfba7f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No Data'])[2]/following::mat-icon[1]</value>
-      <webElementGuid>20d1dc72-4ed3-4c75-8457-ba34f28ebeae</webElementGuid>
+      <webElementGuid>58176c44-1519-4b8f-9e98-3c8254e7e691</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NET75'])[1]/following::mat-icon[1]</value>
-      <webElementGuid>fba48454-6a98-4bf3-af36-008fce41254f</webElementGuid>
+      <webElementGuid>205cf0f6-bd71-48ec-9e56-0a576ba1c526</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CUS001'])[1]/preceding::mat-icon[1]</value>
-      <webElementGuid>195d30e5-3211-4e77-8dff-820314f8eee6</webElementGuid>
+      <webElementGuid>01613635-1b38-47fc-af83-ecdd14d6abbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CUS001TEST'])[1]/preceding::mat-icon[1]</value>
-      <webElementGuid>5eae274f-d8cf-41bf-8873-04bccb9411ee</webElementGuid>
+      <webElementGuid>7b32b4ea-2e9d-4b69-8b68-855dfa2e9250</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='more_vert']/parent::*</value>
-      <webElementGuid>4739ae38-6490-4114-9a5d-3aa5dd957724</webElementGuid>
+      <webElementGuid>4431bf64-81eb-4fbc-a898-b8d33f5c476e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[14]/div/button/span/mat-icon</value>
-      <webElementGuid>49835503-bc80-4e90-af58-039661631ada</webElementGuid>
+      <webElementGuid>bd7d4dc1-694a-4415-a01f-95ec45755914</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//mat-icon[(text() = 'more_vert' or . = 'more_vert')]</value>
-      <webElementGuid>d75b30b6-737a-4850-bc1c-a8da531a4720</webElementGuid>
+      <webElementGuid>5cd7541f-ae67-4b58-97aa-3f0f25019d52</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

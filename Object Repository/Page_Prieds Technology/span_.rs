@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ac524c62-3b41-463c-9857-9f3630bcfe2a</webElementGuid>
+      <webElementGuid>f05fdfa4-8451-43fe-9a6b-984506ac1375</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-select-placeholder ng-tns-c240-62 ng-star-inserted</value>
-      <webElementGuid>1730c927-fb07-4b98-a36a-3ac7ca16f7cb</webElementGuid>
+      <webElementGuid>1625f842-3de6-4450-8625-38ac84cebd5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> </value>
-      <webElementGuid>ad6afe19-0af6-4bdc-a021-5f270556f523</webElementGuid>
+      <webElementGuid>98c41cab-7efc-446c-a381-6206042dec26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;createcustomer-customerregister-customermanagementmatselect-termofpayment-createcustomer&quot;)/div[@class=&quot;mat-select-trigger ng-tns-c240-62&quot;]/div[@class=&quot;mat-select-value ng-tns-c240-62&quot;]/span[@class=&quot;mat-select-placeholder ng-tns-c240-62 ng-star-inserted&quot;]</value>
-      <webElementGuid>7af686a9-cb0c-4114-8bc4-151abe5bb928</webElementGuid>
+      <webElementGuid>3afd8b53-43ea-4acd-85f0-a618da0c8714</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-select[@id='createcustomer-customerregister-customermanagementmatselect-termofpayment-createcustomer']/div/div/span</value>
-      <webElementGuid>2f47e5b4-9e14-4bc0-b431-bafdf3fbed2a</webElementGuid>
+      <webElementGuid>77016ec2-9a3d-4cb2-86a2-cd001078ac22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prefered Expedition'])[1]/following::span[1]</value>
-      <webElementGuid>7d808954-0680-478d-81be-a74d035a2521</webElementGuid>
+      <webElementGuid>d02ee116-cf49-4e4c-95e7-f9ff9ea48f8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Province'])[1]/following::span[2]</value>
-      <webElementGuid>8286846e-f87c-4cae-8c1c-1645b51cfdda</webElementGuid>
+      <webElementGuid>df188aee-f865-4f22-b93c-518ef90add4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Term Of Payment'])[1]/preceding::span[1]</value>
-      <webElementGuid>504ed9d5-1b8d-47dd-ac39-693c3bc6a177</webElementGuid>
+      <webElementGuid>29a6dfa0-5177-4df7-bc91-dc0b1e861da5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Term Of Payment Duration'])[1]/preceding::span[2]</value>
-      <webElementGuid>8990a5b6-2440-4b7d-a091-2e3da102d159</webElementGuid>
+      <webElementGuid>b3aa832f-ceab-4eaa-9e33-58dd8bf3058a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-form-field[7]/div/div/div[3]/mat-select/div/div/span</value>
-      <webElementGuid>e0d284af-f0c7-4492-ba2b-fcd8aee44fd5</webElementGuid>
+      <webElementGuid>0c7f481d-81db-4e62-8911-aef902cd9d6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' ' or . = ' ')]</value>
-      <webElementGuid>deff35f7-8668-4584-a306-a6d5626e43df</webElementGuid>
+      <webElementGuid>bf6a6e23-f96e-4c85-a48c-4cc3025e2b45</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

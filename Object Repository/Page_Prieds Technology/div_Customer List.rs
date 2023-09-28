@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>c03de40d-9b89-4ab5-8936-430518c7192e</webElementGuid>
+      <webElementGuid>7af39510-28ee-4a7e-b47a-889276003523</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-tab-label-content</value>
-      <webElementGuid>6e06044b-0888-4819-a2bb-5d78d6ba52a5</webElementGuid>
+      <webElementGuid>a9c548cd-b363-4639-a1bc-8154ab0dbb87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Customer List</value>
-      <webElementGuid>e57f98cf-f129-4ed8-9134-c80b4409de8c</webElementGuid>
+      <webElementGuid>0033346f-ee4f-4755-923f-a340171d6417</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-tab-label-0-0&quot;)/div[@class=&quot;mat-tab-label-content&quot;]</value>
-      <webElementGuid>2653ba25-b3d2-41ec-8521-5abd4e79afcb</webElementGuid>
+      <webElementGuid>ef4c7e0a-aaee-4d37-96ab-e4071e4ac021</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mat-tab-label-0-0']/div</value>
-      <webElementGuid>8859ad54-2621-4e31-982e-97e0c43bcbc5</webElementGuid>
+      <webElementGuid>f574134e-6f16-4f52-b3df-d0c3477bc4a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Management'])[1]/following::div[13]</value>
-      <webElementGuid>6f82a228-96a6-4282-8dfd-c43be20f6ee8</webElementGuid>
+      <webElementGuid>8b0904f7-7f46-4974-b0f7-9bd6280a73e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Register'])[1]/preceding::div[2]</value>
-      <webElementGuid>c8eb0eab-b13c-4f1a-b41a-2af6ea232fb5</webElementGuid>
+      <webElementGuid>c46c3de9-fe89-4aa3-ad3d-98266ce3fc81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Register Import'])[1]/preceding::div[4]</value>
-      <webElementGuid>8985d6eb-fca8-4967-98af-21300fa1b059</webElementGuid>
+      <webElementGuid>bd6ad721-17dd-4228-a827-6a0a32e64ba9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Customer List']/parent::*</value>
-      <webElementGuid>360149fa-ed7d-40e7-8773-6cbfca1ea718</webElementGuid>
+      <webElementGuid>47c1b995-ed49-476f-aa26-c08e034cfd0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-tab-header/div[2]/div/div/div/div</value>
-      <webElementGuid>daa0a3e9-526b-49af-9632-e6c263947185</webElementGuid>
+      <webElementGuid>e8c51414-2d0a-4fd3-af0f-20f8005d8983</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Customer List' or . = 'Customer List')]</value>
-      <webElementGuid>6fe85504-b8c6-4191-9785-46edea459276</webElementGuid>
+      <webElementGuid>1d1609ab-e610-4402-988a-42e998308f59</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

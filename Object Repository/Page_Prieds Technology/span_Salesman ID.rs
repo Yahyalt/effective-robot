@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>aa608d7e-32c9-490f-95fe-9991cbc1d481</webElementGuid>
+      <webElementGuid>ac34d1e0-fae3-405a-a61e-2b831d4d2e76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-select-placeholder ng-tns-c240-43 ng-star-inserted</value>
-      <webElementGuid>db8098fe-12bb-48a0-b1b5-c20f40d949c9</webElementGuid>
+      <webElementGuid>35dddf58-0ef3-497f-bc50-e2f248983cd9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Salesman ID</value>
-      <webElementGuid>0b43546b-076e-4493-bbad-918c7484aeb4</webElementGuid>
+      <webElementGuid>c800eef8-21e9-4307-b9f0-3ce45fa1438f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;createcustomer-customerregister-customermanagementmatselect-salesmanid-createcustomer&quot;)/div[@class=&quot;mat-select-trigger ng-tns-c240-43&quot;]/div[@class=&quot;mat-select-value ng-tns-c240-43&quot;]/span[@class=&quot;mat-select-placeholder ng-tns-c240-43 ng-star-inserted&quot;]</value>
-      <webElementGuid>ffc82f65-92c5-43da-b84b-368fa1c5a9fe</webElementGuid>
+      <webElementGuid>3acbe9fe-4e8a-42c4-8233-b7aa63b5e239</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-select[@id='createcustomer-customerregister-customermanagementmatselect-salesmanid-createcustomer']/div/div/span</value>
-      <webElementGuid>29a5811a-cba1-4dbe-960d-921a875330ae</webElementGuid>
+      <webElementGuid>02ae1eb8-cee1-46e4-a375-eb92f2d5f1d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer ID'])[1]/following::span[1]</value>
-      <webElementGuid>bc1de33f-cf65-4d47-8e49-cb9458b37cda</webElementGuid>
+      <webElementGuid>ec68f501-55ea-4213-ae9a-8c8b729b270f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Biodata'])[1]/following::span[2]</value>
-      <webElementGuid>c0127023-9ac8-4c5e-8649-4370a52cf826</webElementGuid>
+      <webElementGuid>66b8e5a7-c588-45a2-b518-61f10345643a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Salesman ID'])[2]/preceding::span[1]</value>
-      <webElementGuid>31ae837f-c845-4312-a056-585a7a83a380</webElementGuid>
+      <webElementGuid>4188ebac-19a7-4887-be8b-9ed9fda023bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Name'])[1]/preceding::span[2]</value>
-      <webElementGuid>50603f8b-9174-4166-9c25-018163d52913</webElementGuid>
+      <webElementGuid>f441ec54-4053-48f7-ba16-09a3745fb812</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Salesman ID']/parent::*</value>
-      <webElementGuid>a3ab5be6-fd97-47a4-af3b-fe32235ed5a5</webElementGuid>
+      <webElementGuid>d40c3892-eb18-4bea-a2be-73d7b4586779</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-select/div/div/span</value>
-      <webElementGuid>687b450b-191f-43ec-8514-bee458f45971</webElementGuid>
+      <webElementGuid>423cce7d-9bb5-4ec4-8107-8c6ea100f43f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Salesman ID' or . = 'Salesman ID')]</value>
-      <webElementGuid>51b98efc-9371-4f41-85ec-691708c315ee</webElementGuid>
+      <webElementGuid>4f25e084-aa0f-4f86-9845-e099b4132015</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

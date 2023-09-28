@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e517d79a-85d1-438a-8cf1-a357ecf43532</webElementGuid>
+      <webElementGuid>b3da35e6-638b-4858-8456-808a6053416c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Expedition</value>
-      <webElementGuid>be145589-797a-4f9b-b429-6959cbcb076d</webElementGuid>
+      <webElementGuid>3a50636c-f00f-4520-a8e6-034e35ac1ccb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-input-element mat-form-field-autofill-control mat-autocomplete-trigger ng-tns-c165-55 cdk-text-field-autofill-monitored ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>61e09e1b-36df-4730-ac6f-e437ef52dae9</webElementGuid>
+      <webElementGuid>8fadeac8-a9d0-4b47-bdf2-dc52243535a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>createcustomer-customerregister-customermanagementinput-preferedexpedition-createcustomer</value>
-      <webElementGuid>73c4054f-50bc-43a5-af83-0777e2d53efd</webElementGuid>
+      <webElementGuid>82f4900e-a0c9-4fbd-b995-a64d40424ed2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>560df1a7-cad6-4df6-9a75-8cb37855f516</webElementGuid>
+      <webElementGuid>b5e9c920-793d-4fbc-9ee1-f0104622b540</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>86ab06bc-50cc-426a-9d69-629887d6bbb8</webElementGuid>
+      <webElementGuid>efa4cca1-e110-41aa-84ea-5374baba6fbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>c11fcf6d-59f1-4f1e-9bb0-0f6b91b0fdac</webElementGuid>
+      <webElementGuid>30ef7b7e-e2b5-40b0-8607-560371729142</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>b1dbd614-8e04-4857-a135-c5c3d62f16ea</webElementGuid>
+      <webElementGuid>c645a3d8-f24f-4307-bc18-40651a1125d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>68f0d667-98bd-4369-9fb2-7018adfaf1e0</webElementGuid>
+      <webElementGuid>3b48d4a1-9076-4545-9846-1550fe34142f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5dc6bf55-b24a-44e5-ad80-05c975b20b67</webElementGuid>
+      <webElementGuid>70561ac0-85d1-4ece-9567-faafb138001c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>326e85d9-b1f5-45d1-bc94-498d5f58f940</webElementGuid>
+      <webElementGuid>c8bd2599-912d-429a-a7ea-36ad7494b8b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;createcustomer-customerregister-customermanagementinput-preferedexpedition-createcustomer&quot;)</value>
-      <webElementGuid>9f5b72af-0216-4cb9-b098-7f57ccb20646</webElementGuid>
+      <webElementGuid>d7a4da1f-975b-49e1-a7e7-e3737c6ffcbd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='createcustomer-customerregister-customermanagementinput-preferedexpedition-createcustomer']</value>
-      <webElementGuid>4c5e94e3-2f2e-49da-bd06-d53966197395</webElementGuid>
+      <webElementGuid>8e14898d-2038-406d-b457-91495ad14ab0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-tab-body[@id='mat-tab-content-0-1']/div/app-create-customer/div/mat-card/mat-card-content/div[2]/div[2]/mat-form-field[6]/div/div/div[3]/input</value>
-      <webElementGuid>02248972-6f1c-4d03-b20d-215ddb8e3dc0</webElementGuid>
+      <webElementGuid>25baf0d1-ecbf-478c-9855-a2994506be50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/mat-form-field[6]/div/div/div[3]/input</value>
-      <webElementGuid>6b515a5e-2af8-47ae-aae8-f9a92c8b5529</webElementGuid>
+      <webElementGuid>3e468809-fa9e-4d19-a517-804ac1f689fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Expedition' and @id = 'createcustomer-customerregister-customermanagementinput-preferedexpedition-createcustomer']</value>
-      <webElementGuid>d8d661f2-4870-497b-9f31-b8a921792378</webElementGuid>
+      <webElementGuid>5fb817e3-8ec1-4297-b2d4-54570f71d029</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
