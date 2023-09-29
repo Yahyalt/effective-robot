@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Generate ID</name>
+   <tag></tag>
+   <elementGuidId>fc176ed3-e735-4b75-8e19-c19f3c2b454f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#createcustomer-customerregister-customermanagementbutton-generatecustomerid-createcustomer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='createcustomer-customerregister-customermanagementbutton-generatecustomerid-createcustomer']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6d7a85e0-5773-4900-80f8-344f2ca3b333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator prieds-btn-secondary mat-raised-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>4d2586d1-4a02-488a-8ffe-f33ee1b9de6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>createcustomer-customerregister-customermanagementbutton-generatecustomerid-createcustomer</value>
+      <webElementGuid>e7497e32-9841-4ef7-8723-845a416f849e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Generate ID </value>
+      <webElementGuid>14549971-4e5b-484d-97c9-f7af7f63ce34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createcustomer-customerregister-customermanagementbutton-generatecustomerid-createcustomer&quot;)</value>
+      <webElementGuid>a48f433b-8d7b-4962-b6c3-49510646e47b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='createcustomer-customerregister-customermanagementbutton-generatecustomerid-createcustomer']</value>
+      <webElementGuid>eebc287a-3f32-4b5b-84f2-71246c49abf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-0-1']/div/app-create-customer/div/mat-card/mat-card-content/div[4]/button</value>
+      <webElementGuid>4fb51a03-fcf8-4090-a57c-f38bb35b7da4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Max file size 3Mb. Please upload file with example .jpg .jpeg .png and .pdf format'])[1]/following::button[1]</value>
+      <webElementGuid>2bfcbb72-7ea6-4968-af4c-024f98f90bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::button[1]</value>
+      <webElementGuid>6f84db0a-86a0-4397-8d30-cc10d43f3dc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>1595cfa3-f04c-4540-8c9b-39030ca0fb04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'createcustomer-customerregister-customermanagementbutton-generatecustomerid-createcustomer' and (text() = ' Generate ID ' or . = ' Generate ID ')]</value>
+      <webElementGuid>6c37f96e-3fea-48df-a167-3208b6567cb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

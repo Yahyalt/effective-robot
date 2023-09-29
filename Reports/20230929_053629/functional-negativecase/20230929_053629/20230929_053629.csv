@@ -1,0 +1,354 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+functional-negativecase,Chrome 117.0.0.0,,,2023-09-29 05:36:31,2023-09-29 05:50:52,14m - 21.164s,PASSED
+,,,,,,,
+Test Cases/Functionality/negative-testcase/regist new cust but empty all field except address 2,Chrome 117.0.0.0,,,2023-09-29 05:36:32,2023-09-29 05:37:04,32.707s,PASSED
+randomText = RandomStringUtils.randomAlphanumeric(5),Chrome 117.0.0.0,,,2023-09-29 05:36:32,2023-09-29 05:36:32,0.019s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 05:36:32,2023-09-29 05:36:34,2.293s,PASSED
+"navigateToUrl(""https://sandbox.product.prieds.com/"")",Chrome 117.0.0.0,,,2023-09-29 05:36:34,2023-09-29 05:36:47,12.698s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""), ""testingwmslite2"")",Chrome 117.0.0.0,,,2023-09-29 05:36:47,2023-09-29 05:36:48,0.825s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Prieds Technology/input_IDUsername_password""), ""U8NeUUalMC6sqe9eTsnb2g=="")",Chrome 117.0.0.0,,,2023-09-29 05:36:48,2023-09-29 05:36:48,0.450s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/button_Login""))",Chrome 117.0.0.0,,,2023-09-29 05:36:48,2023-09-29 05:36:49,0.414s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Master""))",Chrome 117.0.0.0,,,2023-09-29 05:36:49,2023-09-29 05:36:55,6.321s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Management""))",Chrome 117.0.0.0,,,2023-09-29 05:36:55,2023-09-29 05:36:56,0.730s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Register""))",Chrome 117.0.0.0,,,2023-09-29 05:36:56,2023-09-29 05:36:58,1.678s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/textarea_Address_createcustomer-customerreg_2c8b43""), ""alamat2"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:36:58,2023-09-29 05:36:59,1.852s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Submit""))",Chrome 117.0.0.0,,,2023-09-29 05:36:59,2023-09-29 05:37:00,0.712s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a""))",Chrome 117.0.0.0,,,2023-09-29 05:37:00,2023-09-29 05:37:01,0.595s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu""))",Chrome 117.0.0.0,,,2023-09-29 05:37:01,2023-09-29 05:37:02,0.794s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-29 05:37:02,2023-09-29 05:37:02,0.678s,PASSED
+Video,Chrome 117.0.0.0,,,2023-09-29 05:37:04,2023-09-29 05:37:04,0.001s,PASSED
+,,,,,,,
+Test Cases/Functionality/negative-testcase/regist new cust but empty all field except address1,Chrome 117.0.0.0,,,2023-09-29 05:37:04,2023-09-29 05:37:33,29.020s,PASSED
+randomText = RandomStringUtils.randomAlphanumeric(5),Chrome 117.0.0.0,,,2023-09-29 05:37:05,2023-09-29 05:37:05,0.002s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 05:37:05,2023-09-29 05:37:06,1.175s,PASSED
+"navigateToUrl(""https://sandbox.product.prieds.com/"")",Chrome 117.0.0.0,,,2023-09-29 05:37:06,2023-09-29 05:37:16,10.088s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""), ""testingwmslite2"")",Chrome 117.0.0.0,,,2023-09-29 05:37:16,2023-09-29 05:37:17,0.733s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Prieds Technology/input_IDUsername_password""), ""U8NeUUalMC6sqe9eTsnb2g=="")",Chrome 117.0.0.0,,,2023-09-29 05:37:17,2023-09-29 05:37:17,0.419s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/button_Login""))",Chrome 117.0.0.0,,,2023-09-29 05:37:17,2023-09-29 05:37:17,0.368s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Master""))",Chrome 117.0.0.0,,,2023-09-29 05:37:17,2023-09-29 05:37:24,6.630s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Management""))",Chrome 117.0.0.0,,,2023-09-29 05:37:24,2023-09-29 05:37:25,0.726s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Register""))",Chrome 117.0.0.0,,,2023-09-29 05:37:25,2023-09-29 05:37:28,2.883s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/textarea_Tier_createcustomer-customerregist_831bae""), ""alamat1"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:37:28,2023-09-29 05:37:29,1.690s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Submit""))",Chrome 117.0.0.0,,,2023-09-29 05:37:29,2023-09-29 05:37:30,0.369s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a""))",Chrome 117.0.0.0,,,2023-09-29 05:37:30,2023-09-29 05:37:30,0.448s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu""))",Chrome 117.0.0.0,,,2023-09-29 05:37:30,2023-09-29 05:37:30,0.358s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-29 05:37:30,2023-09-29 05:37:31,0.704s,PASSED
+Video,Chrome 117.0.0.0,,,2023-09-29 05:37:33,2023-09-29 05:37:33,0.000s,PASSED
+,,,,,,,
+Test Cases/Functionality/negative-testcase/regist new cust but empty all field except city,Chrome 117.0.0.0,,,2023-09-29 05:37:33,2023-09-29 05:38:06,33.113s,PASSED
+randomText = RandomStringUtils.randomAlphanumeric(5),Chrome 117.0.0.0,,,2023-09-29 05:37:34,2023-09-29 05:37:34,0.001s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 05:37:34,2023-09-29 05:37:35,1.172s,PASSED
+"navigateToUrl(""https://sandbox.product.prieds.com/"")",Chrome 117.0.0.0,,,2023-09-29 05:37:35,2023-09-29 05:37:48,13.436s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""), """")",Chrome 117.0.0.0,,,2023-09-29 05:37:48,2023-09-29 05:37:49,0.927s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""))",Chrome 117.0.0.0,,,2023-09-29 05:37:49,2023-09-29 05:37:50,0.382s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""), ""testingwmslite2"")",Chrome 117.0.0.0,,,2023-09-29 05:37:50,2023-09-29 05:37:50,0.670s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Prieds Technology/input_IDUsername_password""), ""U8NeUUalMC6sqe9eTsnb2g=="")",Chrome 117.0.0.0,,,2023-09-29 05:37:50,2023-09-29 05:37:51,0.417s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/button_Login""))",Chrome 117.0.0.0,,,2023-09-29 05:37:51,2023-09-29 05:37:51,0.377s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Master""))",Chrome 117.0.0.0,,,2023-09-29 05:37:51,2023-09-29 05:37:58,6.759s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Management""))",Chrome 117.0.0.0,,,2023-09-29 05:37:58,2023-09-29 05:37:58,0.737s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Register""))",Chrome 117.0.0.0,,,2023-09-29 05:37:58,2023-09-29 05:38:01,2.155s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Email_createcustomer-customerregister_6409b8""), ""kota"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:38:01,2023-09-29 05:38:02,1.754s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Submit""))",Chrome 117.0.0.0,,,2023-09-29 05:38:02,2023-09-29 05:38:03,0.398s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a""))",Chrome 117.0.0.0,,,2023-09-29 05:38:03,2023-09-29 05:38:03,0.468s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu""))",Chrome 117.0.0.0,,,2023-09-29 05:38:03,2023-09-29 05:38:04,0.359s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-29 05:38:04,2023-09-29 05:38:04,0.731s,PASSED
+Video,Chrome 117.0.0.0,,,2023-09-29 05:38:06,2023-09-29 05:38:06,0.000s,PASSED
+,,,,,,,
+Test Cases/Functionality/negative-testcase/regist new cust but empty all field except contact,Chrome 117.0.0.0,,,2023-09-29 05:38:06,2023-09-29 05:38:40,33.350s,PASSED
+randomText = RandomStringUtils.randomNumeric(5),Chrome 117.0.0.0,,,2023-09-29 05:38:07,2023-09-29 05:38:07,0.003s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 05:38:07,2023-09-29 05:38:08,1.228s,PASSED
+"navigateToUrl(""https://sandbox.product.prieds.com/"")",Chrome 117.0.0.0,,,2023-09-29 05:38:08,2023-09-29 05:38:21,13.504s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""), ""testingwmslite2"")",Chrome 117.0.0.0,,,2023-09-29 05:38:21,2023-09-29 05:38:24,2.284s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Prieds Technology/input_IDUsername_password""), ""U8NeUUalMC6sqe9eTsnb2g=="")",Chrome 117.0.0.0,,,2023-09-29 05:38:24,2023-09-29 05:38:24,0.439s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/button_Login""))",Chrome 117.0.0.0,,,2023-09-29 05:38:24,2023-09-29 05:38:25,0.381s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Master""))",Chrome 117.0.0.0,,,2023-09-29 05:38:25,2023-09-29 05:38:32,7.086s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Management""))",Chrome 117.0.0.0,,,2023-09-29 05:38:32,2023-09-29 05:38:32,0.716s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Register""))",Chrome 117.0.0.0,,,2023-09-29 05:38:32,2023-09-29 05:38:34,1.841s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Address 2_createcustomer-customerregi_b33ca3""), ""0811223"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:38:34,2023-09-29 05:38:36,1.702s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Submit""))",Chrome 117.0.0.0,,,2023-09-29 05:38:36,2023-09-29 05:38:36,0.373s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu""))",Chrome 117.0.0.0,,,2023-09-29 05:38:36,2023-09-29 05:38:37,0.445s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a""))",Chrome 117.0.0.0,,,2023-09-29 05:38:37,2023-09-29 05:38:37,0.336s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-29 05:38:37,2023-09-29 05:38:38,0.649s,PASSED
+Video,Chrome 117.0.0.0,,,2023-09-29 05:38:40,2023-09-29 05:38:40,0.001s,PASSED
+,,,,,,,
+Test Cases/Functionality/negative-testcase/regist new cust but empty all field except email,Chrome 117.0.0.0,,,2023-09-29 05:38:40,2023-09-29 05:39:24,44.043s,PASSED
+randomText = RandomStringUtils.randomAlphanumeric(5),Chrome 117.0.0.0,,,2023-09-29 05:38:40,2023-09-29 05:38:40,0.001s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 05:38:40,2023-09-29 05:38:41,1.144s,PASSED
+"navigateToUrl(""https://sandbox.product.prieds.com/"")",Chrome 117.0.0.0,,,2023-09-29 05:38:41,2023-09-29 05:39:04,23.161s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""), ""testingwmslite2"")",Chrome 117.0.0.0,,,2023-09-29 05:39:04,2023-09-29 05:39:05,0.725s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Prieds Technology/input_IDUsername_password""), ""U8NeUUalMC6sqe9eTsnb2g=="")",Chrome 117.0.0.0,,,2023-09-29 05:39:05,2023-09-29 05:39:06,0.418s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/button_Login""))",Chrome 117.0.0.0,,,2023-09-29 05:39:06,2023-09-29 05:39:06,0.390s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Master""))",Chrome 117.0.0.0,,,2023-09-29 05:39:06,2023-09-29 05:39:15,9.546s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Management""))",Chrome 117.0.0.0,,,2023-09-29 05:39:15,2023-09-29 05:39:16,0.713s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Register""))",Chrome 117.0.0.0,,,2023-09-29 05:39:16,2023-09-29 05:39:19,2.687s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_PIC_createcustomer-customerregister-c_7d29d8""), ""umkm_"" + randomText + ""@mailinator.com"")",Chrome 117.0.0.0,,,2023-09-29 05:39:19,2023-09-29 05:39:21,1.734s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Submit""))",Chrome 117.0.0.0,,,2023-09-29 05:39:21,2023-09-29 05:39:21,0.377s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a""))",Chrome 117.0.0.0,,,2023-09-29 05:39:21,2023-09-29 05:39:21,0.441s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu""))",Chrome 117.0.0.0,,,2023-09-29 05:39:21,2023-09-29 05:39:22,0.322s,PASSED
+Video,Chrome 117.0.0.0,,,2023-09-29 05:39:24,2023-09-29 05:39:24,0.001s,PASSED
+,,,,,,,
+Test Cases/Functionality/negative-testcase/regist new cust but empty all field except expedition,Chrome 117.0.0.0,,,2023-09-29 05:39:24,2023-09-29 05:40:08,44.152s,PASSED
+randomText = RandomStringUtils.randomAlphanumeric(5),Chrome 117.0.0.0,,,2023-09-29 05:39:24,2023-09-29 05:39:24,0.002s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 05:39:24,2023-09-29 05:39:26,1.828s,PASSED
+"navigateToUrl(""https://sandbox.product.prieds.com/"")",Chrome 117.0.0.0,,,2023-09-29 05:39:26,2023-09-29 05:39:48,22.305s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""), ""testingwmslite2"")",Chrome 117.0.0.0,,,2023-09-29 05:39:48,2023-09-29 05:39:49,0.891s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Prieds Technology/input_IDUsername_password""), ""U8NeUUalMC6sqe9eTsnb2g=="")",Chrome 117.0.0.0,,,2023-09-29 05:39:49,2023-09-29 05:39:50,0.429s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/button_Login""))",Chrome 117.0.0.0,,,2023-09-29 05:39:50,2023-09-29 05:39:50,0.374s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Master""))",Chrome 117.0.0.0,,,2023-09-29 05:39:50,2023-09-29 05:39:59,9.171s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Management""))",Chrome 117.0.0.0,,,2023-09-29 05:39:59,2023-09-29 05:40:00,0.909s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Register""))",Chrome 117.0.0.0,,,2023-09-29 05:40:00,2023-09-29 05:40:02,2.012s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e""))",Chrome 117.0.0.0,,,2023-09-29 05:40:02,2023-09-29 05:40:03,1.345s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_SiCepat""))",Chrome 117.0.0.0,,,2023-09-29 05:40:03,2023-09-29 05:40:04,0.486s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Submit""))",Chrome 117.0.0.0,,,2023-09-29 05:40:04,2023-09-29 05:40:04,0.484s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a""))",Chrome 117.0.0.0,,,2023-09-29 05:40:04,2023-09-29 05:40:05,0.538s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu""))",Chrome 117.0.0.0,,,2023-09-29 05:40:05,2023-09-29 05:40:05,0.323s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-29 05:40:05,2023-09-29 05:40:06,0.657s,PASSED
+Video,Chrome 117.0.0.0,,,2023-09-29 05:40:08,2023-09-29 05:40:08,0.000s,PASSED
+,,,,,,,
+Test Cases/Functionality/negative-testcase/regist new cust but empty all field except npwp,Chrome 117.0.0.0,,,2023-09-29 05:40:08,2023-09-29 05:40:48,39.694s,PASSED
+randomText = RandomStringUtils.randomNumeric(3),Chrome 117.0.0.0,,,2023-09-29 05:40:08,2023-09-29 05:40:08,0.001s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 05:40:08,2023-09-29 05:40:09,1.138s,PASSED
+"navigateToUrl(""https://sandbox.product.prieds.com/"")",Chrome 117.0.0.0,,,2023-09-29 05:40:09,2023-09-29 05:40:21,12.077s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""), ""testingwmslite2"")",Chrome 117.0.0.0,,,2023-09-29 05:40:21,2023-09-29 05:40:22,0.723s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Prieds Technology/input_IDUsername_password""), ""U8NeUUalMC6sqe9eTsnb2g=="")",Chrome 117.0.0.0,,,2023-09-29 05:40:22,2023-09-29 05:40:23,0.386s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/button_Login""))",Chrome 117.0.0.0,,,2023-09-29 05:40:23,2023-09-29 05:40:23,0.375s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Master""))",Chrome 117.0.0.0,,,2023-09-29 05:40:23,2023-09-29 05:40:37,13.819s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Management""))",Chrome 117.0.0.0,,,2023-09-29 05:40:37,2023-09-29 05:40:37,0.709s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Register""))",Chrome 117.0.0.0,,,2023-09-29 05:40:37,2023-09-29 05:40:42,4.615s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Remark_createcustomer-customerregiste_e3ba5d""), ""08."" + randomText + "".554.2-123."" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:40:42,2023-09-29 05:40:44,1.720s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Submit""))",Chrome 117.0.0.0,,,2023-09-29 05:40:44,2023-09-29 05:40:44,0.375s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a""))",Chrome 117.0.0.0,,,2023-09-29 05:40:44,2023-09-29 05:40:45,0.467s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu""))",Chrome 117.0.0.0,,,2023-09-29 05:40:45,2023-09-29 05:40:45,0.339s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-29 05:40:45,2023-09-29 05:40:46,0.687s,PASSED
+Video,Chrome 117.0.0.0,,,2023-09-29 05:40:48,2023-09-29 05:40:48,0.000s,PASSED
+,,,,,,,
+Test Cases/Functionality/negative-testcase/regist new cust but empty all field except PIC,Chrome 117.0.0.0,,,2023-09-29 05:41:48,2023-09-29 05:43:15,1m - 27.509s,PASSED
+"randomText = ""umkm-redundant-"" + RandomStringUtils.randomAlphanumeric(5)",Chrome 117.0.0.0,,,2023-09-29 05:41:48,2023-09-29 05:41:48,0.001s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 05:41:48,2023-09-29 05:41:49,1.803s,PASSED
+"navigateToUrl(""https://sandbox.product.prieds.com/"")",Chrome 117.0.0.0,,,2023-09-29 05:41:49,2023-09-29 05:42:50,1m - 0.596s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""), ""testingwmslite2"")",Chrome 117.0.0.0,,,2023-09-29 05:42:50,2023-09-29 05:42:51,0.700s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Prieds Technology/input_IDUsername_password""), ""U8NeUUalMC6sqe9eTsnb2g=="")",Chrome 117.0.0.0,,,2023-09-29 05:42:51,2023-09-29 05:42:51,0.390s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/button_Login""))",Chrome 117.0.0.0,,,2023-09-29 05:42:51,2023-09-29 05:42:52,0.401s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Master""))",Chrome 117.0.0.0,,,2023-09-29 05:42:52,2023-09-29 05:43:05,13.551s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Management""))",Chrome 117.0.0.0,,,2023-09-29 05:43:05,2023-09-29 05:43:06,0.801s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Register""))",Chrome 117.0.0.0,,,2023-09-29 05:43:06,2023-09-29 05:43:09,3.122s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Customer Name_createcustomer-customer_9f598b""), randomText)",Chrome 117.0.0.0,,,2023-09-29 05:43:09,2023-09-29 05:43:11,2.026s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/button_Submit""))",Chrome 117.0.0.0,,,2023-09-29 05:43:11,2023-09-29 05:43:12,0.578s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a""))",Chrome 117.0.0.0,,,2023-09-29 05:43:12,2023-09-29 05:43:12,0.565s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu""))",Chrome 117.0.0.0,,,2023-09-29 05:43:12,2023-09-29 05:43:13,0.867s,PASSED
+Video,Chrome 117.0.0.0,,,2023-09-29 05:43:15,2023-09-29 05:43:15,0.000s,PASSED
+,,,,,,,
+Test Cases/Functionality/negative-testcase/regist new cust but empty all field except province,Chrome 117.0.0.0,,,2023-09-29 05:43:15,2023-09-29 05:43:56,40.611s,PASSED
+randomText = RandomStringUtils.randomAlphanumeric(5),Chrome 117.0.0.0,,,2023-09-29 05:43:15,2023-09-29 05:43:15,0.001s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 05:43:15,2023-09-29 05:43:17,1.806s,PASSED
+"navigateToUrl(""https://sandbox.product.prieds.com/"")",Chrome 117.0.0.0,,,2023-09-29 05:43:17,2023-09-29 05:43:37,19.326s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_IDUsername""))",Chrome 117.0.0.0,,,2023-09-29 05:43:37,2023-09-29 05:43:37,0.567s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""), ""testingwmslite2"")",Chrome 117.0.0.0,,,2023-09-29 05:43:37,2023-09-29 05:43:38,0.668s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Prieds Technology/input_IDUsername_password""), ""U8NeUUalMC6sqe9eTsnb2g=="")",Chrome 117.0.0.0,,,2023-09-29 05:43:38,2023-09-29 05:43:38,0.390s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/button_Login""))",Chrome 117.0.0.0,,,2023-09-29 05:43:38,2023-09-29 05:43:39,0.350s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Master""))",Chrome 117.0.0.0,,,2023-09-29 05:43:39,2023-09-29 05:43:46,7.816s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Management""))",Chrome 117.0.0.0,,,2023-09-29 05:43:46,2023-09-29 05:43:47,0.687s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Register""))",Chrome 117.0.0.0,,,2023-09-29 05:43:47,2023-09-29 05:43:49,2.231s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Region_createcustomer-customerregiste_b1824f""), ""provinceaja"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:43:49,2023-09-29 05:43:51,1.904s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Submit""))",Chrome 117.0.0.0,,,2023-09-29 05:43:51,2023-09-29 05:43:52,0.476s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a""))",Chrome 117.0.0.0,,,2023-09-29 05:43:52,2023-09-29 05:43:52,0.535s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu""))",Chrome 117.0.0.0,,,2023-09-29 05:43:52,2023-09-29 05:43:53,0.865s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-29 05:43:53,2023-09-29 05:43:54,0.644s,PASSED
+Video,Chrome 117.0.0.0,,,2023-09-29 05:43:56,2023-09-29 05:43:56,0.000s,PASSED
+,,,,,,,
+Test Cases/Functionality/negative-testcase/regist new cust but empty all field except region,Chrome 117.0.0.0,,,2023-09-29 05:43:56,2023-09-29 05:44:30,34.273s,PASSED
+randomText = RandomStringUtils.randomAlphanumeric(5),Chrome 117.0.0.0,,,2023-09-29 05:43:56,2023-09-29 05:43:56,0.002s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 05:43:56,2023-09-29 05:43:57,1.121s,PASSED
+"navigateToUrl(""https://sandbox.product.prieds.com/"")",Chrome 117.0.0.0,,,2023-09-29 05:43:57,2023-09-29 05:44:12,14.449s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""), ""testingwmslite2"")",Chrome 117.0.0.0,,,2023-09-29 05:44:12,2023-09-29 05:44:13,1.475s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Password""))",Chrome 117.0.0.0,,,2023-09-29 05:44:13,2023-09-29 05:44:13,0.351s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Prieds Technology/input_IDUsername_password""), ""U8NeUUalMC6sqe9eTsnb2g=="")",Chrome 117.0.0.0,,,2023-09-29 05:44:13,2023-09-29 05:44:14,0.381s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/button_Login""))",Chrome 117.0.0.0,,,2023-09-29 05:44:14,2023-09-29 05:44:14,0.371s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Master""))",Chrome 117.0.0.0,,,2023-09-29 05:44:14,2023-09-29 05:44:21,7.188s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Management""))",Chrome 117.0.0.0,,,2023-09-29 05:44:21,2023-09-29 05:44:22,0.705s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Register""))",Chrome 117.0.0.0,,,2023-09-29 05:44:22,2023-09-29 05:44:24,2.160s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Contact No_createcustomer-customerreg_0f8d35""), ""regionaja"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:44:24,2023-09-29 05:44:26,1.718s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Submit""))",Chrome 117.0.0.0,,,2023-09-29 05:44:26,2023-09-29 05:44:26,0.359s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a""))",Chrome 117.0.0.0,,,2023-09-29 05:44:26,2023-09-29 05:44:27,0.543s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu""))",Chrome 117.0.0.0,,,2023-09-29 05:44:27,2023-09-29 05:44:27,0.460s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-29 05:44:27,2023-09-29 05:44:28,0.673s,PASSED
+Video,Chrome 117.0.0.0,,,2023-09-29 05:44:30,2023-09-29 05:44:30,0.001s,PASSED
+,,,,,,,
+Test Cases/Functionality/negative-testcase/regist new cust but empty all field except remark,Chrome 117.0.0.0,,,2023-09-29 05:44:30,2023-09-29 05:45:06,36.232s,PASSED
+randomText = RandomStringUtils.randomAlphanumeric(5),Chrome 117.0.0.0,,,2023-09-29 05:44:30,2023-09-29 05:44:30,0.001s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 05:44:30,2023-09-29 05:44:31,1.141s,PASSED
+"navigateToUrl(""https://sandbox.product.prieds.com/"")",Chrome 117.0.0.0,,,2023-09-29 05:44:31,2023-09-29 05:44:44,12.874s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""), ""testingwmslite2"")",Chrome 117.0.0.0,,,2023-09-29 05:44:44,2023-09-29 05:44:45,1.086s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Prieds Technology/input_IDUsername_password""), ""U8NeUUalMC6sqe9eTsnb2g=="")",Chrome 117.0.0.0,,,2023-09-29 05:44:45,2023-09-29 05:44:46,0.431s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/button_Login""))",Chrome 117.0.0.0,,,2023-09-29 05:44:46,2023-09-29 05:44:46,0.364s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Master""))",Chrome 117.0.0.0,,,2023-09-29 05:44:46,2023-09-29 05:44:56,9.876s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Management""))",Chrome 117.0.0.0,,,2023-09-29 05:44:56,2023-09-29 05:44:57,0.810s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Register""))",Chrome 117.0.0.0,,,2023-09-29 05:44:57,2023-09-29 05:45:00,3.154s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_City_createcustomer-customerregister-_1096a9""), ""remark-"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:45:00,2023-09-29 05:45:02,1.819s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Submit""))",Chrome 117.0.0.0,,,2023-09-29 05:45:02,2023-09-29 05:45:02,0.368s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a""))",Chrome 117.0.0.0,,,2023-09-29 05:45:02,2023-09-29 05:45:03,0.535s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu""))",Chrome 117.0.0.0,,,2023-09-29 05:45:03,2023-09-29 05:45:04,0.787s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-29 05:45:04,2023-09-29 05:45:04,0.655s,PASSED
+Video,Chrome 117.0.0.0,,,2023-09-29 05:45:06,2023-09-29 05:45:06,0.000s,PASSED
+,,,,,,,
+Test Cases/Functionality/negative-testcase/regist new cust but empty all field except salesmanid,Chrome 117.0.0.0,,,2023-09-29 05:45:06,2023-09-29 05:46:06,1m - 0.009s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 05:45:07,2023-09-29 05:45:08,1.157s,PASSED
+"navigateToUrl(""https://sandbox.product.prieds.com/"")",Chrome 117.0.0.0,,,2023-09-29 05:45:08,2023-09-29 05:45:23,15.720s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""))",Chrome 117.0.0.0,,,2023-09-29 05:45:23,2023-09-29 05:45:24,0.632s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/img_Hello,_style-people""))",Chrome 117.0.0.0,,,2023-09-29 05:45:24,2023-09-29 05:45:24,0.384s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_IDUsername""))",Chrome 117.0.0.0,,,2023-09-29 05:45:24,2023-09-29 05:45:25,0.361s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""), ""testingwmslite2"")",Chrome 117.0.0.0,,,2023-09-29 05:45:25,2023-09-29 05:45:25,0.685s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Prieds Technology/input_IDUsername_password""), ""U8NeUUalMC6sqe9eTsnb2g=="")",Chrome 117.0.0.0,,,2023-09-29 05:45:25,2023-09-29 05:45:26,0.422s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Login""))",Chrome 117.0.0.0,,,2023-09-29 05:45:26,2023-09-29 05:45:26,0.366s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Master""))",Chrome 117.0.0.0,,,2023-09-29 05:45:26,2023-09-29 05:45:57,30.242s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Management""))",Chrome 117.0.0.0,,,2023-09-29 05:45:57,2023-09-29 05:45:57,0.717s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Register""))",Chrome 117.0.0.0,,,2023-09-29 05:45:57,2023-09-29 05:46:00,3.037s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Salesman ID""))",Chrome 117.0.0.0,,,2023-09-29 05:46:00,2023-09-29 05:46:01,0.619s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_ACCURATE""))",Chrome 117.0.0.0,,,2023-09-29 05:46:01,2023-09-29 05:46:02,0.827s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/button_Submit""))",Chrome 117.0.0.0,,,2023-09-29 05:46:02,2023-09-29 05:46:03,1.133s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a""))",Chrome 117.0.0.0,,,2023-09-29 05:46:03,2023-09-29 05:46:03,0.557s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu""))",Chrome 117.0.0.0,,,2023-09-29 05:46:03,2023-09-29 05:46:04,0.869s,PASSED
+Video,Chrome 117.0.0.0,,,2023-09-29 05:46:06,2023-09-29 05:46:06,0.000s,PASSED
+,,,,,,,
+Test Cases/Functionality/negative-testcase/regist new cust but empty all field except tier,Chrome 117.0.0.0,,,2023-09-29 05:46:06,2023-09-29 05:46:44,38.118s,PASSED
+randomText = RandomStringUtils.randomAlphanumeric(5),Chrome 117.0.0.0,,,2023-09-29 05:46:07,2023-09-29 05:46:07,0.002s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 05:46:07,2023-09-29 05:46:08,1.813s,PASSED
+"navigateToUrl(""https://sandbox.product.prieds.com/"")",Chrome 117.0.0.0,,,2023-09-29 05:46:08,2023-09-29 05:46:22,13.466s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""))",Chrome 117.0.0.0,,,2023-09-29 05:46:22,2023-09-29 05:46:23,0.922s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""), ""testingwmslite2"")",Chrome 117.0.0.0,,,2023-09-29 05:46:23,2023-09-29 05:46:23,0.691s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Prieds Technology/input_IDUsername_password""), ""U8NeUUalMC6sqe9eTsnb2g=="")",Chrome 117.0.0.0,,,2023-09-29 05:46:23,2023-09-29 05:46:24,0.395s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/button_Login""))",Chrome 117.0.0.0,,,2023-09-29 05:46:24,2023-09-29 05:46:24,0.380s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Master""))",Chrome 117.0.0.0,,,2023-09-29 05:46:24,2023-09-29 05:46:34,10.012s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Management""))",Chrome 117.0.0.0,,,2023-09-29 05:46:34,2023-09-29 05:46:35,0.802s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Register""))",Chrome 117.0.0.0,,,2023-09-29 05:46:35,2023-09-29 05:46:37,2.248s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_NPWP_createcustomer-customerregister-_b2e4d8""), ""gold-"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:46:37,2023-09-29 05:46:39,1.947s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Submit""))",Chrome 117.0.0.0,,,2023-09-29 05:46:39,2023-09-29 05:46:40,0.454s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a""))",Chrome 117.0.0.0,,,2023-09-29 05:46:40,2023-09-29 05:46:41,1.413s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu""))",Chrome 117.0.0.0,,,2023-09-29 05:46:41,2023-09-29 05:46:42,0.544s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-29 05:46:42,2023-09-29 05:46:42,0.646s,PASSED
+Video,Chrome 117.0.0.0,,,2023-09-29 05:46:44,2023-09-29 05:46:44,0.000s,PASSED
+,,,,,,,
+Test Cases/Functionality/negative-testcase/regist new cust but empty all field except TOP,Chrome 117.0.0.0,,,2023-09-29 05:46:44,2023-09-29 05:47:18,33.426s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 05:46:45,2023-09-29 05:46:46,1.218s,PASSED
+"navigateToUrl(""https://sandbox.product.prieds.com/"")",Chrome 117.0.0.0,,,2023-09-29 05:46:46,2023-09-29 05:46:59,13.403s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""), ""testingwmslite2"")",Chrome 117.0.0.0,,,2023-09-29 05:46:59,2023-09-29 05:47:00,0.920s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Prieds Technology/input_IDUsername_password""), ""U8NeUUalMC6sqe9eTsnb2g=="")",Chrome 117.0.0.0,,,2023-09-29 05:47:00,2023-09-29 05:47:01,0.398s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/button_Login""))",Chrome 117.0.0.0,,,2023-09-29 05:47:01,2023-09-29 05:47:01,0.374s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Master""))",Chrome 117.0.0.0,,,2023-09-29 05:47:01,2023-09-29 05:47:08,6.876s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Management""))",Chrome 117.0.0.0,,,2023-09-29 05:47:08,2023-09-29 05:47:09,0.778s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Register""))",Chrome 117.0.0.0,,,2023-09-29 05:47:09,2023-09-29 05:47:11,2.059s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_""))",Chrome 117.0.0.0,,,2023-09-29 05:47:11,2023-09-29 05:47:12,1.456s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_NET75""))",Chrome 117.0.0.0,,,2023-09-29 05:47:12,2023-09-29 05:47:13,0.475s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Submit""))",Chrome 117.0.0.0,,,2023-09-29 05:47:13,2023-09-29 05:47:14,1.133s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a""))",Chrome 117.0.0.0,,,2023-09-29 05:47:14,2023-09-29 05:47:14,0.546s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu""))",Chrome 117.0.0.0,,,2023-09-29 05:47:14,2023-09-29 05:47:15,0.875s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-29 05:47:15,2023-09-29 05:47:16,0.671s,PASSED
+Video,Chrome 117.0.0.0,,,2023-09-29 05:47:18,2023-09-29 05:47:18,0.000s,PASSED
+,,,,,,,
+Test Cases/Functionality/negative-testcase/register new cust but empty all field except cust name,Chrome 117.0.0.0,,,2023-09-29 05:47:18,2023-09-29 05:47:52,34.099s,PASSED
+"randomText = ""umkm-redundant-"" + RandomStringUtils.randomAlphanumeric(5)",Chrome 117.0.0.0,,,2023-09-29 05:47:18,2023-09-29 05:47:18,0.002s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 05:47:18,2023-09-29 05:47:19,1.136s,PASSED
+"navigateToUrl(""https://sandbox.product.prieds.com/"")",Chrome 117.0.0.0,,,2023-09-29 05:47:19,2023-09-29 05:47:33,14.198s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""), ""testingwmslite2"")",Chrome 117.0.0.0,,,2023-09-29 05:47:33,2023-09-29 05:47:35,1.080s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Prieds Technology/input_IDUsername_password""), ""U8NeUUalMC6sqe9eTsnb2g=="")",Chrome 117.0.0.0,,,2023-09-29 05:47:35,2023-09-29 05:47:35,0.500s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Login""))",Chrome 117.0.0.0,,,2023-09-29 05:47:35,2023-09-29 05:47:35,0.377s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Master""))",Chrome 117.0.0.0,,,2023-09-29 05:47:35,2023-09-29 05:47:42,6.625s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Management""))",Chrome 117.0.0.0,,,2023-09-29 05:47:42,2023-09-29 05:47:43,0.705s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Register""))",Chrome 117.0.0.0,,,2023-09-29 05:47:43,2023-09-29 05:47:45,2.557s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Salesman ID_createcustomer-customerre_2602e6""), randomText)",Chrome 117.0.0.0,,,2023-09-29 05:47:45,2023-09-29 05:47:47,2.050s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/button_Submit""))",Chrome 117.0.0.0,,,2023-09-29 05:47:47,2023-09-29 05:47:48,0.481s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a""))",Chrome 117.0.0.0,,,2023-09-29 05:47:48,2023-09-29 05:47:48,0.541s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu""))",Chrome 117.0.0.0,,,2023-09-29 05:47:48,2023-09-29 05:47:49,0.885s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-29 05:47:49,2023-09-29 05:47:50,0.675s,PASSED
+Video,Chrome 117.0.0.0,,,2023-09-29 05:47:52,2023-09-29 05:47:52,0.000s,PASSED
+,,,,,,,
+Test Cases/Functionality/negative-testcase/register new customer but empty all field except customer id,Chrome 117.0.0.0,,,2023-09-29 05:47:52,2023-09-29 05:48:30,38.365s,PASSED
+"randomText = ""umkm-redundant-"" + RandomStringUtils.randomAlphanumeric(5)",Chrome 117.0.0.0,,,2023-09-29 05:47:52,2023-09-29 05:47:52,0.001s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 05:47:52,2023-09-29 05:47:53,1.122s,PASSED
+"navigateToUrl(""https://sandbox.product.prieds.com/"")",Chrome 117.0.0.0,,,2023-09-29 05:47:53,2023-09-29 05:48:12,18.946s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""), ""testingwmslite2"")",Chrome 117.0.0.0,,,2023-09-29 05:48:12,2023-09-29 05:48:13,0.834s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Prieds Technology/input_IDUsername_password""), ""U8NeUUalMC6sqe9eTsnb2g=="")",Chrome 117.0.0.0,,,2023-09-29 05:48:13,2023-09-29 05:48:14,0.427s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Login""))",Chrome 117.0.0.0,,,2023-09-29 05:48:14,2023-09-29 05:48:14,0.409s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Master""))",Chrome 117.0.0.0,,,2023-09-29 05:48:14,2023-09-29 05:48:22,8.039s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Management""))",Chrome 117.0.0.0,,,2023-09-29 05:48:22,2023-09-29 05:48:23,0.694s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Register""))",Chrome 117.0.0.0,,,2023-09-29 05:48:23,2023-09-29 05:48:25,1.977s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Customer Biodata_createcustomer-custo_d931ad""), randomText)",Chrome 117.0.0.0,,,2023-09-29 05:48:25,2023-09-29 05:48:26,1.712s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Submit""))",Chrome 117.0.0.0,,,2023-09-29 05:48:26,2023-09-29 05:48:27,0.381s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Mohon pilih salesman_code dahulu""))",Chrome 117.0.0.0,,,2023-09-29 05:48:27,2023-09-29 05:48:27,0.538s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a""))",Chrome 117.0.0.0,,,2023-09-29 05:48:27,2023-09-29 05:48:28,0.326s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-29 05:48:28,2023-09-29 05:48:28,0.654s,PASSED
+Video,Chrome 117.0.0.0,,,2023-09-29 05:48:30,2023-09-29 05:48:30,0.001s,PASSED
+,,,,,,,
+Test Cases/Functionality/negative-testcase/register new customer but empty all field,Chrome 117.0.0.0,,,2023-09-29 05:48:30,2023-09-29 05:49:07,36.752s,PASSED
+"randomText = ""umkm-redundant-"" + RandomStringUtils.randomAlphanumeric(5)",Chrome 117.0.0.0,,,2023-09-29 05:48:31,2023-09-29 05:48:31,0.003s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 05:48:31,2023-09-29 05:48:32,1.133s,PASSED
+"navigateToUrl(""https://sandbox.product.prieds.com/"")",Chrome 117.0.0.0,,,2023-09-29 05:48:32,2023-09-29 05:48:48,16.643s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""), ""testingwmslite2"")",Chrome 117.0.0.0,,,2023-09-29 05:48:48,2023-09-29 05:48:49,0.685s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Prieds Technology/input_IDUsername_password""), ""U8NeUUalMC6sqe9eTsnb2g=="")",Chrome 117.0.0.0,,,2023-09-29 05:48:49,2023-09-29 05:48:50,0.404s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Login""))",Chrome 117.0.0.0,,,2023-09-29 05:48:50,2023-09-29 05:48:50,0.377s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Master""))",Chrome 117.0.0.0,,,2023-09-29 05:48:50,2023-09-29 05:48:59,9.389s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Management""))",Chrome 117.0.0.0,,,2023-09-29 05:48:59,2023-09-29 05:49:00,0.818s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Register""))",Chrome 117.0.0.0,,,2023-09-29 05:49:00,2023-09-29 05:49:02,2.147s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/button_Submit""))",Chrome 117.0.0.0,,,2023-09-29 05:49:02,2023-09-29 05:49:04,1.380s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a""))",Chrome 117.0.0.0,,,2023-09-29 05:49:04,2023-09-29 05:49:04,0.459s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu""))",Chrome 117.0.0.0,,,2023-09-29 05:49:04,2023-09-29 05:49:04,0.338s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-29 05:49:04,2023-09-29 05:49:05,0.670s,PASSED
+Video,Chrome 117.0.0.0,,,2023-09-29 05:49:07,2023-09-29 05:49:07,0.001s,PASSED
+,,,,,,,
+Test Cases/Functionality/negative-testcase/register new customer but same customer id,Chrome 117.0.0.0,,,2023-09-29 05:49:07,2023-09-29 05:50:52,1m - 45.345s,PASSED
+"randomText = ""umkm-redundant-"" + RandomStringUtils.randomAlphanumeric(5)",Chrome 117.0.0.0,,,2023-09-29 05:49:07,2023-09-29 05:49:07,0.001s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 05:49:07,2023-09-29 05:49:09,1.132s,PASSED
+"navigateToUrl(""https://sandbox.product.prieds.com/"")",Chrome 117.0.0.0,,,2023-09-29 05:49:09,2023-09-29 05:49:22,13.446s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""), ""testingwmslite2"")",Chrome 117.0.0.0,,,2023-09-29 05:49:22,2023-09-29 05:49:23,1.112s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Prieds Technology/input_IDUsername_password""), ""U8NeUUalMC6sqe9eTsnb2g=="")",Chrome 117.0.0.0,,,2023-09-29 05:49:23,2023-09-29 05:49:24,0.430s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Login""))",Chrome 117.0.0.0,,,2023-09-29 05:49:24,2023-09-29 05:49:24,0.382s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Master""))",Chrome 117.0.0.0,,,2023-09-29 05:49:24,2023-09-29 05:49:32,7.970s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Management""))",Chrome 117.0.0.0,,,2023-09-29 05:49:32,2023-09-29 05:49:33,0.714s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Register""))",Chrome 117.0.0.0,,,2023-09-29 05:49:33,2023-09-29 05:49:34,1.517s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Salesman ID Salesman ID""))",Chrome 117.0.0.0,,,2023-09-29 05:49:34,2023-09-29 05:49:36,1.448s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_REYNER""))",Chrome 117.0.0.0,,,2023-09-29 05:49:36,2023-09-29 05:49:36,0.678s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Salesman ID_createcustomer-customerre_2602e6""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:49:36,2023-09-29 05:49:38,1.627s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Customer Name_createcustomer-customer_9f598b""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:49:38,2023-09-29 05:49:39,1.180s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_PIC_createcustomer-customerregister-c_7d29d8""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:49:39,2023-09-29 05:49:40,0.874s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Email_createcustomer-customerregister_6409b8""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:49:40,2023-09-29 05:49:41,1.071s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_City_createcustomer-customerregister-_1096a9""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:49:41,2023-09-29 05:49:42,0.973s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Remark_createcustomer-customerregiste_e3ba5d""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:49:42,2023-09-29 05:49:43,0.743s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_NPWP_createcustomer-customerregister-_b2e4d8""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:49:43,2023-09-29 05:49:44,1.088s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/textarea_Tier_createcustomer-customerregist_831bae""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:49:44,2023-09-29 05:49:45,1.113s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/textarea_Address_createcustomer-customerreg_2c8b43""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:49:45,2023-09-29 05:49:47,1.714s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Address 2_createcustomer-customerregi_b33ca3""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:49:47,2023-09-29 05:49:48,0.978s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Contact No_createcustomer-customerreg_0f8d35""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:49:48,2023-09-29 05:49:49,1.210s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Region_createcustomer-customerregiste_b1824f""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:49:49,2023-09-29 05:49:50,0.877s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e""), """")",Chrome 117.0.0.0,,,2023-09-29 05:49:50,2023-09-29 05:49:51,0.875s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e""))",Chrome 117.0.0.0,,,2023-09-29 05:49:51,2023-09-29 05:49:51,0.589s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_JNE Express""))",Chrome 117.0.0.0,,,2023-09-29 05:49:51,2023-09-29 05:49:52,0.481s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Term Of Payment""))",Chrome 117.0.0.0,,,2023-09-29 05:49:52,2023-09-29 05:49:52,0.487s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_NET0""))",Chrome 117.0.0.0,,,2023-09-29 05:49:52,2023-09-29 05:49:53,0.507s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/button_Generate ID""))",Chrome 117.0.0.0,,,2023-09-29 05:49:53,2023-09-29 05:49:54,1.149s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Submit""))",Chrome 117.0.0.0,,,2023-09-29 05:49:54,2023-09-29 05:49:54,0.585s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Yes""))",Chrome 117.0.0.0,,,2023-09-29 05:49:54,2023-09-29 05:49:55,0.886s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Salesman ID""))",Chrome 117.0.0.0,,,2023-09-29 05:49:55,2023-09-29 05:49:58,2.579s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_REYNER""))",Chrome 117.0.0.0,,,2023-09-29 05:49:58,2023-09-29 05:49:59,1.010s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Name""))",Chrome 117.0.0.0,,,2023-09-29 05:49:59,2023-09-29 05:50:00,1.234s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Salesman ID_createcustomer-customerre_2602e6""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:50:00,2023-09-29 05:50:01,0.837s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Customer Name_createcustomer-customer_9f598b""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:50:01,2023-09-29 05:50:02,0.866s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_PIC_createcustomer-customerregister-c_7d29d8""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:50:02,2023-09-29 05:50:03,0.876s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Email_createcustomer-customerregister_6409b8""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:50:03,2023-09-29 05:50:03,0.843s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_City_createcustomer-customerregister-_1096a9""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:50:04,2023-09-29 05:50:05,1.088s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Remark_createcustomer-customerregiste_e3ba5d""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:50:05,2023-09-29 05:50:06,1.068s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_NPWP_createcustomer-customerregister-_b2e4d8""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:50:06,2023-09-29 05:50:07,0.984s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/textarea_Tier_createcustomer-customerregist_831bae""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:50:07,2023-09-29 05:50:08,0.979s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/textarea_Address_createcustomer-customerreg_2c8b43""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:50:08,2023-09-29 05:50:09,1.652s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Address 2_createcustomer-customerregi_b33ca3""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:50:09,2023-09-29 05:50:10,1.048s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Contact No_createcustomer-customerreg_0f8d35""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:50:10,2023-09-29 05:50:11,1.170s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Region_createcustomer-customerregiste_b1824f""), ""redundant"" + randomText)",Chrome 117.0.0.0,,,2023-09-29 05:50:11,2023-09-29 05:50:13,1.102s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e""), """")",Chrome 117.0.0.0,,,2023-09-29 05:50:13,2023-09-29 05:50:14,0.999s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e""))",Chrome 117.0.0.0,,,2023-09-29 05:50:14,2023-09-29 05:50:14,0.490s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_JNE Express""))",Chrome 117.0.0.0,,,2023-09-29 05:50:14,2023-09-29 05:50:15,0.583s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_""))",Chrome 117.0.0.0,,,2023-09-29 05:50:15,2023-09-29 05:50:15,0.496s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_NET0""))",Chrome 117.0.0.0,,,2023-09-29 05:50:15,2023-09-29 05:50:16,0.577s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Generate ID""))",Chrome 117.0.0.0,,,2023-09-29 05:50:16,2023-09-29 05:50:17,1.026s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Submit""))",Chrome 117.0.0.0,,,2023-09-29 05:50:17,2023-09-29 05:50:17,0.477s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Yes""))",Chrome 117.0.0.0,,,2023-09-29 05:50:17,2023-09-29 05:50:19,1.442s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/span_ID Customer telah terdaftar mohon ubah ID""))",Chrome 117.0.0.0,,,2023-09-29 05:50:19,2023-09-29 05:50:50,31.661s,PASSED
+Video,Chrome 117.0.0.0,,,2023-09-29 05:50:52,2023-09-29 05:50:52,0.001s,PASSED

@@ -79,6 +79,46 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/dashboard/Page_Prieds Technology/span_person TESTING QA WMS LITE_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Prieds Technology/input_Sign In_username",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@id\u003d\u0027login-username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Prieds Technology/input_Sign In_username_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Prieds Technology/span_ID Customer telah terdaftar mohon ubah ID",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-26\u0027]/snack-bar-container/simple-snack-bar/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Support/Help\u0027])[1]/preceding::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Prieds Technology/span_ID Customer telah terdaftar mohon ubah ID_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu",
+      "brokenLocator": "//div[@id\u003d\u0027-message-snackbar\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Submit\u0027])[1]/following::div[13]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Prieds Technology/span_Yes",
+      "brokenLocator": "//button[@id\u003d\u0027button-yes-confirmmodal\u0027]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Support/Help\u0027])[1]/preceding::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Prieds Technology/span_Yes_neighbor.png"
     }
   ]
 }

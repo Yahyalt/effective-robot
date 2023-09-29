@@ -1,0 +1,68 @@
+1
+00:00:00,304 --> 00:00:02,353
+1. openBrowser("")
+
+2
+00:00:02,353 --> 00:00:10,560
+5. navigateToUrl("https://sandbox.product.prieds.com/")
+
+3
+00:00:10,561 --> 00:00:10,976
+9. click(findTestObject("Object Repository/search customer/Page_Prieds Technology/input_Sign In_username"))
+
+4
+00:00:10,976 --> 00:00:11,350
+13. click(findTestObject("Object Repository/search customer/Page_Prieds Technology/img_Hello,_style-people"))
+
+5
+00:00:11,351 --> 00:00:11,723
+17. click(findTestObject("Object Repository/search customer/Page_Prieds Technology/div_IDUsername"))
+
+6
+00:00:11,725 --> 00:00:12,404
+21. setText(findTestObject("Object Repository/search customer/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2")
+
+7
+00:00:12,405 --> 00:00:12,824
+25. setEncryptedText(findTestObject("Object Repository/search customer/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g==")
+
+8
+00:00:12,825 --> 00:00:13,198
+29. click(findTestObject("Object Repository/search customer/Page_Prieds Technology/span_Login"))
+
+9
+00:00:13,199 --> 00:00:19,409
+33. click(findTestObject("Object Repository/search customer/Page_Prieds Technology/div_Master"))
+
+10
+00:00:19,410 --> 00:00:20,153
+37. click(findTestObject("Object Repository/search customer/Page_Prieds Technology/div_Customer Management"))
+
+11
+00:00:20,154 --> 00:00:21,946
+41. setText(findTestObject("Object Repository/search customer/Page_Prieds Technology/input_Customer Register Import_input-custom_9d3571"), "cus001")
+
+12
+00:00:21,947 --> 00:00:22,346
+45. click(findTestObject("Object Repository/search customer/Page_Prieds Technology/span_Search"))
+
+13
+00:00:22,347 --> 00:00:23,709
+49. click(findTestObject("Object Repository/search customer/Page_Prieds Technology/mat-icon_more_vert"))
+
+14
+00:00:23,711 --> 00:00:24,270
+53. click(findTestObject("Object Repository/search customer/Page_Prieds Technology/button_Edit"))
+
+15
+00:00:24,271 --> 00:00:25,446
+57. doubleClick(findTestObject("Object Repository/search customer/Page_Prieds Technology/input_Customer ID_input-editcustomername-cu_78517f"))
+
+16
+00:00:25,446 --> 00:00:25,815
+61. click(findTestObject("Object Repository/search customer/Page_Prieds Technology/span_Close"))
+
+17
+00:00:25,816 --> 00:00:26,625
+65. closeBrowser()
+

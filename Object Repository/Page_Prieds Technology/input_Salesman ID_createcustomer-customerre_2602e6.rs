@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b3290b6a-6af2-41b7-84fb-3a0ae44e562f</webElementGuid>
+      <webElementGuid>0152dfb5-e90c-4903-8c23-bb0e2f747164</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Customer Name *</value>
-      <webElementGuid>415f39bf-ca9d-484b-9db9-ee95fe1d3319</webElementGuid>
+      <webElementGuid>b510945c-8625-4fbd-953c-0a3c45f09d9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-input-element mat-form-field-autofill-control ng-tns-c165-44 cdk-text-field-autofill-monitored ng-untouched ng-pristine ng-invalid</value>
-      <webElementGuid>cad1e775-d139-44a8-862f-7cbc71a99de8</webElementGuid>
+      <value>mat-input-element mat-form-field-autofill-control ng-tns-c165-42 cdk-text-field-autofill-monitored ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>4de39515-eb6e-4a5d-9e25-2bab66142ff6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>createcustomer-customerregister-customermanagementinput-customername-createcustomer</value>
-      <webElementGuid>2f6f66e3-b915-4425-9797-69c95de140f4</webElementGuid>
+      <webElementGuid>ebba6c17-5a8a-42c5-8e13-510d5a73c251</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1ce65edc-6455-401b-aa14-b4d8999e1b7b</webElementGuid>
+      <webElementGuid>e5586d9b-168c-462b-909e-b95348035be4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,15 +62,15 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>6da10b00-ddf4-4c44-9c64-f6af08680409</webElementGuid>
+      <webElementGuid>6f9ae1a6-47cb-4bbc-a6c4-00520c5be292</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;CustomerName&quot;)/div[@class=&quot;mat-form-field-wrapper ng-tns-c165-44&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c165-44&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c165-44&quot;]/input[@id=&quot;createcustomer-customerregister-customermanagementinput-customername-createcustomer&quot;]</value>
-      <webElementGuid>c9b80c07-2abe-4b38-84a4-e35fd2bcd9fb</webElementGuid>
+      <value>id(&quot;CustomerName&quot;)/div[@class=&quot;mat-form-field-wrapper ng-tns-c165-42&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c165-42&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c165-42&quot;]/input[@id=&quot;createcustomer-customerregister-customermanagementinput-customername-createcustomer&quot;]</value>
+      <webElementGuid>2182ba0a-862e-4358-b06d-b105b9425680</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='createcustomer-customerregister-customermanagementinput-customername-createcustomer']</value>
-      <webElementGuid>e198aa62-fb57-4275-8eb8-5942498655b3</webElementGuid>
+      <webElementGuid>79ad8cc8-eac6-4c7f-99c7-b8e95821a535</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-form-field[@id='CustomerName']/div/div/div[3]/input</value>
-      <webElementGuid>698a43b7-ae5e-42d8-8a1c-a6fe50371bd4</webElementGuid>
+      <webElementGuid>52fdb14f-b841-4d27-805d-921476f34aba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-form-field[3]/div/div/div[3]/input</value>
-      <webElementGuid>dd9490eb-cfb9-4239-bd4a-96f11f1f2247</webElementGuid>
+      <webElementGuid>4a41945d-97a4-4fe4-b789-3d6691e4fb10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Customer Name *' and @id = 'createcustomer-customerregister-customermanagementinput-customername-createcustomer']</value>
-      <webElementGuid>2c54425c-2b3d-471b-933e-8f33fb72713a</webElementGuid>
+      <webElementGuid>368a9edc-deb4-4165-9aff-7f7b21d7733d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>regist new cust but empty customer id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92bd088f-d4ee-4615-bf6c-0fa628b9d1e1</testCaseGuid>
+</TestCaseEntity>

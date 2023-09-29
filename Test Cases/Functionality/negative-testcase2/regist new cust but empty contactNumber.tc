@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>regist new cust but empty contactNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5c07ac2-7fe7-4988-a3b4-4ca74dfe76b1</testCaseGuid>
+</TestCaseEntity>

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.mat-form-field-infix.ng-tns-c165-45 > #createcustomer-customerregister-customermanagementinput-customername-createcustomer</value>
+         <value>div.mat-form-field-infix.ng-tns-c165-40 > #createcustomer-customerregister-customermanagementinput-customername-createcustomer</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b5f988da-f442-4901-b5d1-f1fab29725c1</webElementGuid>
+      <webElementGuid>92ae4124-e80b-4324-b467-ab1eca2ed566</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>PIC *</value>
-      <webElementGuid>817bcf3a-2791-4046-aa37-69d9cceaadf0</webElementGuid>
+      <webElementGuid>46b56df1-e1b7-4f50-a0b7-57c9ee07e449</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-input-element mat-form-field-autofill-control ng-tns-c165-45 cdk-text-field-autofill-monitored ng-untouched ng-pristine ng-invalid</value>
-      <webElementGuid>dafdd7e0-c4f6-4c9c-8fcd-eb4fe0f1e60d</webElementGuid>
+      <value>mat-input-element mat-form-field-autofill-control ng-tns-c165-40 cdk-text-field-autofill-monitored ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>e8fd0f22-c295-43ca-b575-7984086b01e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>createcustomer-customerregister-customermanagementinput-customername-createcustomer</value>
-      <webElementGuid>8dc4e81b-6904-41a1-b1f7-a0dac3cff80c</webElementGuid>
+      <webElementGuid>496faa79-2325-4fbe-a300-dd75394a8f6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>02f8cb1c-cd80-4ed3-be8b-b0048e77fef5</webElementGuid>
+      <webElementGuid>73bf4a22-ff73-4eeb-90d7-e027dcb9dac5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,15 +62,15 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>453021cf-4eec-4983-88d1-fd21ec00edd8</webElementGuid>
+      <webElementGuid>8ea9ea9a-422d-4ed7-bc6e-491b13e16033</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-tab-content-0-1&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c282-65 ng-trigger ng-trigger-translateTab&quot;]/app-create-customer[@class=&quot;ng-star-inserted&quot;]/div[1]/mat-card[@class=&quot;mat-card mat-focus-indicator&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/div[2]/div[1]/mat-form-field[@class=&quot;mat-form-field fit-card ng-tns-c165-45 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c165-45&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c165-45&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c165-45&quot;]/input[@id=&quot;createcustomer-customerregister-customermanagementinput-customername-createcustomer&quot;]</value>
-      <webElementGuid>044f7469-a03d-4f06-babf-47674a38d4bb</webElementGuid>
+      <value>id(&quot;mat-tab-content-0-1&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c282-60 ng-trigger ng-trigger-translateTab&quot;]/app-create-customer[@class=&quot;ng-star-inserted&quot;]/div[1]/mat-card[@class=&quot;mat-card mat-focus-indicator&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/div[2]/div[1]/mat-form-field[@class=&quot;mat-form-field fit-card ng-tns-c165-40 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label ng-untouched ng-pristine ng-invalid mat-form-field-should-float mat-focused&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c165-40&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c165-40&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c165-40&quot;]/input[@id=&quot;createcustomer-customerregister-customermanagementinput-customername-createcustomer&quot;]</value>
+      <webElementGuid>2f711691-6139-4a46-950d-5755216bd323</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@id='createcustomer-customerregister-customermanagementinput-customername-createcustomer'])[2]</value>
-      <webElementGuid>fdcda12f-651c-4057-b335-0584d260c23f</webElementGuid>
+      <webElementGuid>fafaea4f-654d-46d3-bb9f-a6e827baf3c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-tab-body[@id='mat-tab-content-0-1']/div/app-create-customer/div/mat-card/mat-card-content/div[2]/div/mat-form-field[4]/div/div/div[3]/input</value>
-      <webElementGuid>91a106ff-3785-44a0-b78d-fae64f214208</webElementGuid>
+      <webElementGuid>b910d8c3-042a-49af-b7ea-4c9d019a5af2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-form-field[4]/div/div/div[3]/input</value>
-      <webElementGuid>ac7f6310-0465-4305-b63e-c280e020fef2</webElementGuid>
+      <webElementGuid>e7e6807e-ba3d-4b99-9a81-eb143f46e9ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'PIC *' and @id = 'createcustomer-customerregister-customermanagementinput-customername-createcustomer']</value>
-      <webElementGuid>f63c62ee-630d-4b8f-92c1-c7e31d14e357</webElementGuid>
+      <webElementGuid>78625eee-54bf-4f67-a551-1be2dab79edb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

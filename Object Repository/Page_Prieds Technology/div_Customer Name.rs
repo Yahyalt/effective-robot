@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Customer Name</name>
+   <tag></tag>
+   <elementGuidId>604d8dd6-99a6-4ba2-84d6-01134fd15ec7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-flex.ng-tns-c165-47</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-form-field[@id='CustomerName']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6c0bdb91-8afb-4e44-8680-89451dffc483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-flex ng-tns-c165-47</value>
+      <webElementGuid>f37975f3-3b8b-42b8-b356-0edbadd89339</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Customer Name </value>
+      <webElementGuid>5ec76fe1-1483-43ef-8655-6091e438ca3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CustomerName&quot;)/div[@class=&quot;mat-form-field-wrapper ng-tns-c165-47&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c165-47&quot;]</value>
+      <webElementGuid>cb90a073-49fd-4989-b11c-674606edc2d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-form-field[@id='CustomerName']/div/div</value>
+      <webElementGuid>e796c1ca-0de6-448b-8c3e-80300d0fa35c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salesman ID'])[1]/following::div[5]</value>
+      <webElementGuid>ee98f137-76fb-4e27-ad05-9eb8423bd45a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REYNER'])[1]/following::div[7]</value>
+      <webElementGuid>7c659da2-c2cf-4b67-ac04-4ee9836563c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PIC'])[1]/preceding::div[21]</value>
+      <webElementGuid>f466caaa-1064-486b-956b-14e84e7fc2cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field[3]/div/div</value>
+      <webElementGuid>aace8880-ad78-4b72-8c8f-db0a1526f79d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Customer Name ' or . = ' Customer Name ')]</value>
+      <webElementGuid>8e089f02-ecf4-4659-94bf-867476cbe0a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

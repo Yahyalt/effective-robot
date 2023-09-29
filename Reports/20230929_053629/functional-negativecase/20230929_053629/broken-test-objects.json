@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Prieds Technology/span_ID Customer telah terdaftar mohon ubah ID",
+      "brokenLocator": "//div[@id\u003d\u0027cdk-overlay-26\u0027]/snack-bar-container/simple-snack-bar/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Support/Help\u0027])[1]/preceding::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230929_053629/functional-negativecase/20230929_053629/Object Repository/Page_Prieds Technology/span_ID Customer telah terdaftar mohon ubah ID_neighbor.png"
+    }
+  ]
+}

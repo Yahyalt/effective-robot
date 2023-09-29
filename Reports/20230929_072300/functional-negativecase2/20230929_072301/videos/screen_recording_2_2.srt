@@ -1,0 +1,72 @@
+1
+00:00:00,001 --> 00:00:00,002
+1. randomText = RandomStringUtils.randomAlphanumeric(5)
+
+2
+00:00:00,003 --> 00:00:00,004
+5. randomNum = RandomStringUtils.randomNumeric(5)
+
+3
+00:00:00,004 --> 00:00:01,985
+9. openBrowser("")
+
+4
+00:00:01,985 --> 00:00:29,203
+13. navigateToUrl("https://sandbox.product.prieds.com/")
+
+5
+00:00:29,203 --> 00:00:29,985
+17. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2")
+
+6
+00:00:29,985 --> 00:00:30,430
+21. setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g==")
+
+7
+00:00:30,433 --> 00:00:30,864
+25. click(findTestObject("Object Repository/Page_Prieds Technology/span_Login"))
+
+8
+00:00:30,864 --> 00:00:44,864
+29. click(findTestObject("Object Repository/Page_Prieds Technology/div_Master"))
+
+9
+00:00:44,865 --> 00:00:45,641
+33. click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management"))
+
+10
+00:00:45,642 --> 00:00:51,087
+37. click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register"))
+
+11
+00:00:51,088 --> 00:00:52,847
+41. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Customer Biodata_createcustomer-custo_d931ad"), "customerid" + randomText)
+
+12
+00:00:52,848 --> 00:00:53,589
+45. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Salesman ID_createcustomer-customerre_2602e6"), "customerName" + randomText)
+
+13
+00:00:53,590 --> 00:00:54,295
+49. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Customer Name_createcustomer-customer_9f598b"), "PIC" + randomText)
+
+14
+00:00:54,296 --> 00:00:55,207
+53. setText(findTestObject("Object Repository/Page_Prieds Technology/input_PIC_createcustomer-customerregister-c_7d29d8"), "email" + randomText + "@mailinator.com")
+
+15
+00:00:55,209 --> 00:00:56,020
+57. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Email_createcustomer-customerregister_6409b8"), "city" + randomText)
+
+16
+00:00:56,020 --> 00:00:56,836
+61. setText(findTestObject("Object Repository/Page_Prieds Technology/input_City_createcustomer-customerregister-_1096a9"), "reMark" + randomText)
+
+17
+00:00:56,838 --> 00:00:57,575
+65. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Remark_createcustomer-customerregiste_e3ba5d"), "08.178.554.2-123.321" + randomNum)
+
+18
+00:00:57,575 --> 00:01:32,262
+69. setText(findTestObject("Object Repository/Page_Prieds Technology/input_NPWP_createcustomer-customerregister-_b2e4d8"), "tier" + randomText)
+

@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="functional" time="185.348" tests="3" failures="0" errors="0">
+   <testsuite name="functional" tests="3" failures="0" errors="0" time="185.348" skipped="0" timestamp="2023-09-29 05:30:52" hostname="LENOVO - LAPTOP-6D1EASRA" id="Test Suites/functional">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LENOVO\\git\\effective-robot\\Reports\\20230929_053049\\functional\\20230929_053049"/>
+         <property name="logFiles" value="C:\\Users\\LENOVO\\git\\effective-robot\\Reports\\20230929_053049\\functional\\20230929_053049\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LENOVO - LAPTOP-6D1EASRA"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 117.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.9"/>
+         <property name="sessionId" value="14ac61c08f922f1eac1abc50babce3cf"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Functionality/register new customer" time="49.886" classname="Test Cases/Functionality/register new customer" status="PASSED">
+         <system-out><![CDATA[2023-09-29 05:30:52 - [TEST_CASE][PASSED] - Test Cases/Functionality/register new customer: Test Cases/Functionality/register new customer
+
+2023-09-29 05:30:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 05:30:53 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 05:30:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 05:30:55 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 05:30:55 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:31:06 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:31:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username")): Object: 'Object Repository/Page_Prieds Technology/input_Sign In_username' is clicked on
+
+2023-09-29 05:31:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/input_Sign In_username' is clicked on
+
+2023-09-29 05:31:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/img_Hello,_style-people")): Object: 'Object Repository/Page_Prieds Technology/img_Hello,_style-people' is clicked on
+
+2023-09-29 05:31:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/img_Hello,_style-people' is clicked on
+
+2023-09-29 05:31:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_IDUsername")): Object: 'Object Repository/Page_Prieds Technology/div_IDUsername' is clicked on
+
+2023-09-29 05:31:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_IDUsername' is clicked on
+
+2023-09-29 05:31:07 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:31:08 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:31:08 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:31:08 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:31:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Login")): Object: 'Object Repository/Page_Prieds Technology/span_Login' is clicked on
+
+2023-09-29 05:31:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Login' is clicked on
+
+2023-09-29 05:31:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Master")): Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:31:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:31:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:31:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:31:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:31:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:31:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Salesman ID")): Object: 'Object Repository/Page_Prieds Technology/span_Salesman ID' is clicked on
+
+2023-09-29 05:31:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Salesman ID' is clicked on
+
+2023-09-29 05:31:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_REYNER")): Object: 'Object Repository/Page_Prieds Technology/span_REYNER' is clicked on
+
+2023-09-29 05:31:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_REYNER' is clicked on
+
+2023-09-29 05:31:20 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Salesman ID_createcustomer-customerre_2602e6"), "Customer-UMKM" + RandomStringUtils.randomNumeric(5)): Text 'Customer-UMKM87299' is set on object 'Object Repository/Page_Prieds Technology/input_Salesman ID_createcustomer-customerre_2602e6'
+
+2023-09-29 05:31:22 - [MESSAGE][PASSED] - Text 'Customer-UMKM87299' is set on object 'Object Repository/Page_Prieds Technology/input_Salesman ID_createcustomer-customerre_2602e6'
+
+2023-09-29 05:31:22 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Customer Name_createcustomer-customer_9f598b"), "UMKM"): Text 'UMKM' is set on object 'Object Repository/Page_Prieds Technology/input_Customer Name_createcustomer-customer_9f598b'
+
+2023-09-29 05:31:22 - [MESSAGE][PASSED] - Text 'UMKM' is set on object 'Object Repository/Page_Prieds Technology/input_Customer Name_createcustomer-customer_9f598b'
+
+2023-09-29 05:31:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Email")): Object: 'Object Repository/Page_Prieds Technology/div_Email' is clicked on
+
+2023-09-29 05:31:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Email' is clicked on
+
+2023-09-29 05:31:23 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_PIC_createcustomer-customerregister-c_7d29d8"), "umkm@mailinator.com"): Text 'umkm@mailinator.com' is set on object 'Object Repository/Page_Prieds Technology/input_PIC_createcustomer-customerregister-c_7d29d8'
+
+2023-09-29 05:31:24 - [MESSAGE][PASSED] - Text 'umkm@mailinator.com' is set on object 'Object Repository/Page_Prieds Technology/input_PIC_createcustomer-customerregister-c_7d29d8'
+
+2023-09-29 05:31:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Email_createcustomer-customerregister_6409b8"), "Sleman"): Text 'Sleman' is set on object 'Object Repository/Page_Prieds Technology/input_Email_createcustomer-customerregister_6409b8'
+
+2023-09-29 05:31:24 - [MESSAGE][PASSED] - Text 'Sleman' is set on object 'Object Repository/Page_Prieds Technology/input_Email_createcustomer-customerregister_6409b8'
+
+2023-09-29 05:31:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Remark")): Object: 'Object Repository/Page_Prieds Technology/div_Remark' is clicked on
+
+2023-09-29 05:31:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Remark' is clicked on
+
+2023-09-29 05:31:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_City_createcustomer-customerregister-_1096a9"), "umkm"): Text 'umkm' is set on object 'Object Repository/Page_Prieds Technology/input_City_createcustomer-customerregister-_1096a9'
+
+2023-09-29 05:31:26 - [MESSAGE][PASSED] - Text 'umkm' is set on object 'Object Repository/Page_Prieds Technology/input_City_createcustomer-customerregister-_1096a9'
+
+2023-09-29 05:31:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_NPWP")): Object: 'Object Repository/Page_Prieds Technology/div_NPWP' is clicked on
+
+2023-09-29 05:31:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_NPWP' is clicked on
+
+2023-09-29 05:31:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_NPWP")): Object: 'Object Repository/Page_Prieds Technology/div_NPWP' is clicked on
+
+2023-09-29 05:31:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_NPWP' is clicked on
+
+2023-09-29 05:31:26 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Remark_createcustomer-customerregiste_e3ba5d"), "08.178.554.2-123.321"): Text '08.178.554.2-123.321' is set on object 'Object Repository/Page_Prieds Technology/input_Remark_createcustomer-customerregiste_e3ba5d'
+
+2023-09-29 05:31:27 - [MESSAGE][PASSED] - Text '08.178.554.2-123.321' is set on object 'Object Repository/Page_Prieds Technology/input_Remark_createcustomer-customerregiste_e3ba5d'
+
+2023-09-29 05:31:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_NPWP_createcustomer-customerregister-_b2e4d8"), "umkm"): Text 'umkm' is set on object 'Object Repository/Page_Prieds Technology/input_NPWP_createcustomer-customerregister-_b2e4d8'
+
+2023-09-29 05:31:28 - [MESSAGE][PASSED] - Text 'umkm' is set on object 'Object Repository/Page_Prieds Technology/input_NPWP_createcustomer-customerregister-_b2e4d8'
+
+2023-09-29 05:31:28 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/textarea_Tier_createcustomer-customerregist_831bae"), "gang mawar"): Text 'gang mawar' is set on object 'Object Repository/Page_Prieds Technology/textarea_Tier_createcustomer-customerregist_831bae'
+
+2023-09-29 05:31:29 - [MESSAGE][PASSED] - Text 'gang mawar' is set on object 'Object Repository/Page_Prieds Technology/textarea_Tier_createcustomer-customerregist_831bae'
+
+2023-09-29 05:31:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Address 2_createcustomer-customerregi_b33ca3"), "001122334455"): Text '001122334455' is set on object 'Object Repository/Page_Prieds Technology/input_Address 2_createcustomer-customerregi_b33ca3'
+
+2023-09-29 05:31:30 - [MESSAGE][PASSED] - Text '001122334455' is set on object 'Object Repository/Page_Prieds Technology/input_Address 2_createcustomer-customerregi_b33ca3'
+
+2023-09-29 05:31:30 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Contact No_createcustomer-customerreg_0f8d35"), "Sleman"): Text 'Sleman' is set on object 'Object Repository/Page_Prieds Technology/input_Contact No_createcustomer-customerreg_0f8d35'
+
+2023-09-29 05:31:31 - [MESSAGE][PASSED] - Text 'Sleman' is set on object 'Object Repository/Page_Prieds Technology/input_Contact No_createcustomer-customerreg_0f8d35'
+
+2023-09-29 05:31:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Province")): Object: 'Object Repository/Page_Prieds Technology/div_Province' is clicked on
+
+2023-09-29 05:31:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Province' is clicked on
+
+2023-09-29 05:31:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Region_createcustomer-customerregiste_b1824f"), "Special region of yogyakarta"): Text 'Special region of yogyakarta' is set on object 'Object Repository/Page_Prieds Technology/input_Region_createcustomer-customerregiste_b1824f'
+
+2023-09-29 05:31:33 - [MESSAGE][PASSED] - Text 'Special region of yogyakarta' is set on object 'Object Repository/Page_Prieds Technology/input_Region_createcustomer-customerregiste_b1824f'
+
+2023-09-29 05:31:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e"), ""): Text '' is set on object 'Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e'
+
+2023-09-29 05:31:33 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e'
+
+2023-09-29 05:31:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e")): Object: 'Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e' is clicked on
+
+2023-09-29 05:31:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e' is clicked on
+
+2023-09-29 05:31:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_SiCepat")): Object: 'Object Repository/Page_Prieds Technology/span_SiCepat' is clicked on
+
+2023-09-29 05:31:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_SiCepat' is clicked on
+
+2023-09-29 05:31:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_")): Object: 'Object Repository/Page_Prieds Technology/span_' is clicked on
+
+2023-09-29 05:31:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_' is clicked on
+
+2023-09-29 05:31:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_NET75")): Object: 'Object Repository/Page_Prieds Technology/span_NET75' is clicked on
+
+2023-09-29 05:31:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_NET75' is clicked on
+
+2023-09-29 05:31:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Generate ID")): Object: 'Object Repository/Page_Prieds Technology/span_Generate ID' is clicked on
+
+2023-09-29 05:31:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Generate ID' is clicked on
+
+2023-09-29 05:31:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Submit")): Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:31:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:31:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Yes")): Object: 'Object Repository/Page_Prieds Technology/span_Yes' is clicked on
+
+2023-09-29 05:31:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Yes' is clicked on
+
+2023-09-29 05:31:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer List")): Object: 'Object Repository/Page_Prieds Technology/div_Customer List' is clicked on
+
+2023-09-29 05:31:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer List' is clicked on
+
+2023-09-29 05:31:42 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Functionality/register new customer' .
+
+2023-09-29 05:31:42 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Functionality/register new customer' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Functionality/search customer" time="28.718" classname="Test Cases/Functionality/search customer" status="PASSED">
+         <system-out><![CDATA[2023-09-29 05:31:42 - [TEST_CASE][PASSED] - Test Cases/Functionality/search customer: Test Cases/Functionality/search customer
+
+2023-09-29 05:31:42 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 05:31:42 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-09-29 05:31:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 05:31:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 05:31:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 05:31:44 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:31:53 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:31:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/search customer/Page_Prieds Technology/input_Sign In_username")): Object: 'Object Repository/search customer/Page_Prieds Technology/input_Sign In_username' is clicked on
+
+2023-09-29 05:31:53 - [MESSAGE][PASSED] - Object: 'Object Repository/search customer/Page_Prieds Technology/input_Sign In_username' is clicked on
+
+2023-09-29 05:31:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/search customer/Page_Prieds Technology/img_Hello,_style-people")): Object: 'Object Repository/search customer/Page_Prieds Technology/img_Hello,_style-people' is clicked on
+
+2023-09-29 05:31:53 - [MESSAGE][PASSED] - Object: 'Object Repository/search customer/Page_Prieds Technology/img_Hello,_style-people' is clicked on
+
+2023-09-29 05:31:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/search customer/Page_Prieds Technology/div_IDUsername")): Object: 'Object Repository/search customer/Page_Prieds Technology/div_IDUsername' is clicked on
+
+2023-09-29 05:31:54 - [MESSAGE][PASSED] - Object: 'Object Repository/search customer/Page_Prieds Technology/div_IDUsername' is clicked on
+
+2023-09-29 05:31:54 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/search customer/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/search customer/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:31:54 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/search customer/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:31:54 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/search customer/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/search customer/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:31:55 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/search customer/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:31:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/search customer/Page_Prieds Technology/span_Login")): Object: 'Object Repository/search customer/Page_Prieds Technology/span_Login' is clicked on
+
+2023-09-29 05:31:55 - [MESSAGE][PASSED] - Object: 'Object Repository/search customer/Page_Prieds Technology/span_Login' is clicked on
+
+2023-09-29 05:31:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/search customer/Page_Prieds Technology/div_Master")): Object: 'Object Repository/search customer/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:32:01 - [MESSAGE][PASSED] - Object: 'Object Repository/search customer/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:32:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/search customer/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/search customer/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:32:02 - [MESSAGE][PASSED] - Object: 'Object Repository/search customer/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:32:02 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/search customer/Page_Prieds Technology/input_Customer Register Import_input-custom_9d3571"), "cus001"): Text 'cus001' is set on object 'Object Repository/search customer/Page_Prieds Technology/input_Customer Register Import_input-custom_9d3571'
+
+2023-09-29 05:32:04 - [MESSAGE][PASSED] - Text 'cus001' is set on object 'Object Repository/search customer/Page_Prieds Technology/input_Customer Register Import_input-custom_9d3571'
+
+2023-09-29 05:32:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/search customer/Page_Prieds Technology/span_Search")): Object: 'Object Repository/search customer/Page_Prieds Technology/span_Search' is clicked on
+
+2023-09-29 05:32:04 - [MESSAGE][PASSED] - Object: 'Object Repository/search customer/Page_Prieds Technology/span_Search' is clicked on
+
+2023-09-29 05:32:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/search customer/Page_Prieds Technology/mat-icon_more_vert")): Object: 'Object Repository/search customer/Page_Prieds Technology/mat-icon_more_vert' is clicked on
+
+2023-09-29 05:32:06 - [MESSAGE][PASSED] - Object: 'Object Repository/search customer/Page_Prieds Technology/mat-icon_more_vert' is clicked on
+
+2023-09-29 05:32:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/search customer/Page_Prieds Technology/button_Edit")): Object: 'Object Repository/search customer/Page_Prieds Technology/button_Edit' is clicked on
+
+2023-09-29 05:32:06 - [MESSAGE][PASSED] - Object: 'Object Repository/search customer/Page_Prieds Technology/button_Edit' is clicked on
+
+2023-09-29 05:32:06 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/search customer/Page_Prieds Technology/input_Customer ID_input-editcustomername-cu_78517f")): Object: 'Object Repository/search customer/Page_Prieds Technology/input_Customer ID_input-editcustomername-cu_78517f' is double clicked on
+
+2023-09-29 05:32:07 - [MESSAGE][PASSED] - Object: 'Object Repository/search customer/Page_Prieds Technology/input_Customer ID_input-editcustomername-cu_78517f' is double clicked on
+
+2023-09-29 05:32:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/search customer/Page_Prieds Technology/span_Close")): Object: 'Object Repository/search customer/Page_Prieds Technology/span_Close' is clicked on
+
+2023-09-29 05:32:08 - [MESSAGE][PASSED] - Object: 'Object Repository/search customer/Page_Prieds Technology/span_Close' is clicked on
+
+2023-09-29 05:32:08 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-29 05:32:09 - [MESSAGE][PASSED] - Browser is closed
+
+2023-09-29 05:32:11 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Functionality/search customer' .
+
+2023-09-29 05:32:11 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Functionality/search customer' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Functionality/update customer" time="106.479" classname="Test Cases/Functionality/update customer" status="PASSED">
+         <system-out><![CDATA[2023-09-29 05:32:11 - [TEST_CASE][PASSED] - Test Cases/Functionality/update customer: Test Cases/Functionality/update customer
+
+2023-09-29 05:32:11 - [TEST_STEP][PASSED] - randomText = "umkm" + RandomStringUtils.randomAlphanumeric(5): null
+
+2023-09-29 05:32:11 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 05:32:11 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 05:32:11 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 05:32:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 05:32:12 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:32:23 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:32:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/update customer/Page_Prieds Technology/input_Sign In_username")): Object: 'Object Repository/update customer/Page_Prieds Technology/input_Sign In_username' is clicked on
+
+2023-09-29 05:32:24 - [MESSAGE][PASSED] - Object: 'Object Repository/update customer/Page_Prieds Technology/input_Sign In_username' is clicked on
+
+2023-09-29 05:32:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/update customer/Page_Prieds Technology/img_Hello,_style-people")): Object: 'Object Repository/update customer/Page_Prieds Technology/img_Hello,_style-people' is clicked on
+
+2023-09-29 05:32:24 - [MESSAGE][PASSED] - Object: 'Object Repository/update customer/Page_Prieds Technology/img_Hello,_style-people' is clicked on
+
+2023-09-29 05:32:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/update customer/Page_Prieds Technology/div_IDUsername")): Object: 'Object Repository/update customer/Page_Prieds Technology/div_IDUsername' is clicked on
+
+2023-09-29 05:32:25 - [MESSAGE][PASSED] - Object: 'Object Repository/update customer/Page_Prieds Technology/div_IDUsername' is clicked on
+
+2023-09-29 05:32:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/update customer/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/update customer/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:32:25 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/update customer/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:32:25 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/update customer/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/update customer/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:32:26 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/update customer/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:32:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/update customer/Page_Prieds Technology/span_Login")): Object: 'Object Repository/update customer/Page_Prieds Technology/span_Login' is clicked on
+
+2023-09-29 05:32:26 - [MESSAGE][PASSED] - Object: 'Object Repository/update customer/Page_Prieds Technology/span_Login' is clicked on
+
+2023-09-29 05:32:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/update customer/Page_Prieds Technology/div_Master")): Object: 'Object Repository/update customer/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:32:34 - [MESSAGE][PASSED] - Object: 'Object Repository/update customer/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:32:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/update customer/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/update customer/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:32:34 - [MESSAGE][PASSED] - Object: 'Object Repository/update customer/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:32:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/update customer/Page_Prieds Technology/mat-icon_more_vert")): Object: 'Object Repository/update customer/Page_Prieds Technology/mat-icon_more_vert' is clicked on
+
+2023-09-29 05:32:36 - [MESSAGE][PASSED] - Object: 'Object Repository/update customer/Page_Prieds Technology/mat-icon_more_vert' is clicked on
+
+2023-09-29 05:32:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/update customer/Page_Prieds Technology/button_Edit")): Object: 'Object Repository/update customer/Page_Prieds Technology/button_Edit' is clicked on
+
+2023-09-29 05:32:37 - [MESSAGE][PASSED] - Object: 'Object Repository/update customer/Page_Prieds Technology/button_Edit' is clicked on
+
+2023-09-29 05:32:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/update customer/Page_Prieds Technology/input_Customer ID_input-editcustomername-cu_78517f"), "Customer-" + randomText): Text 'Customer-umkmt9saV' is set on object 'Object Repository/update customer/Page_Prieds Technology/input_Customer ID_input-editcustomername-cu_78517f'
+
+2023-09-29 05:32:39 - [MESSAGE][PASSED] - Text 'Customer-umkmt9saV' is set on object 'Object Repository/update customer/Page_Prieds Technology/input_Customer ID_input-editcustomername-cu_78517f'
+
+2023-09-29 05:32:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/update customer/Page_Prieds Technology/div_Contact No")): Object: 'Object Repository/update customer/Page_Prieds Technology/div_Contact No' is clicked on
+
+2023-09-29 05:33:10 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //mat-dialog-container[@id='mat-dialog-6']/details-edit-customer-management-modal/div/mat-dialog-content/div/mat-form-field[4]/div/div/div[3]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-09-29 05:33:10 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/update customer/Page_Prieds Technology/div_Contact No'. Try using Self-healing.
+
+2023-09-29 05:33:10 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/update customer/Page_Prieds Technology/div_Contact No' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Salesman ID'])[2]/following::div[14]'.
+
+2023-09-29 05:33:10 - [MESSAGE][PASSED] - Object: 'Object Repository/update customer/Page_Prieds Technology/div_Contact No' is clicked on
+
+2023-09-29 05:33:10 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/update customer/Page_Prieds Technology/input_Contact No_input-editcontactnno-custo_2aebb7"), "UMKM" + randomText): Text 'UMKMumkmt9saV' is set on object 'Object Repository/update customer/Page_Prieds Technology/input_Contact No_input-editcontactnno-custo_2aebb7'
+
+2023-09-29 05:33:11 - [MESSAGE][PASSED] - Text 'UMKMumkmt9saV' is set on object 'Object Repository/update customer/Page_Prieds Technology/input_Contact No_input-editcontactnno-custo_2aebb7'
+
+2023-09-29 05:33:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/update customer/Page_Prieds Technology/div_Remark")): Object: 'Object Repository/update customer/Page_Prieds Technology/div_Remark' is clicked on
+
+2023-09-29 05:33:43 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //mat-dialog-container[@id='mat-dialog-6']/details-edit-customer-management-modal/div/mat-dialog-content/div/mat-form-field[6]/div/div/div[3]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-09-29 05:33:43 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/update customer/Page_Prieds Technology/div_Remark'. Try using Self-healing.
+
+2023-09-29 05:33:43 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/update customer/Page_Prieds Technology/div_Remark' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='PIC'])[2]/following::div[14]'.
+
+2023-09-29 05:33:43 - [MESSAGE][PASSED] - Object: 'Object Repository/update customer/Page_Prieds Technology/div_Remark' is clicked on
+
+2023-09-29 05:33:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/update customer/Page_Prieds Technology/input_PIC_input-editremark-customermanagement"), "umkm" + randomText): Text 'umkmumkmt9saV' is set on object 'Object Repository/update customer/Page_Prieds Technology/input_PIC_input-editremark-customermanagement'
+
+2023-09-29 05:33:44 - [MESSAGE][PASSED] - Text 'umkmumkmt9saV' is set on object 'Object Repository/update customer/Page_Prieds Technology/input_PIC_input-editremark-customermanagement'
+
+2023-09-29 05:33:44 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/update customer/Page_Prieds Technology/textarea_Email_input-editaddress-customerma_e85674"), "gang mawar" + randomText): Text 'gang mawarumkmt9saV' is set on object 'Object Repository/update customer/Page_Prieds Technology/textarea_Email_input-editaddress-customerma_e85674'
+
+2023-09-29 05:33:45 - [MESSAGE][PASSED] - Text 'gang mawarumkmt9saV' is set on object 'Object Repository/update customer/Page_Prieds Technology/textarea_Email_input-editaddress-customerma_e85674'
+
+2023-09-29 05:33:45 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/update customer/Page_Prieds Technology/textarea_Address_input-editaddress2-custome_2f951e"), "rt6rw7" + randomText): Text 'rt6rw7umkmt9saV' is set on object 'Object Repository/update customer/Page_Prieds Technology/textarea_Address_input-editaddress2-custome_2f951e'
+
+2023-09-29 05:33:46 - [MESSAGE][PASSED] - Text 'rt6rw7umkmt9saV' is set on object 'Object Repository/update customer/Page_Prieds Technology/textarea_Address_input-editaddress2-custome_2f951e'
+
+2023-09-29 05:33:46 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/update customer/Page_Prieds Technology/input_Address 2_input-editcity-customermanagement"), "Sleman" + randomText): Text 'Slemanumkmt9saV' is set on object 'Object Repository/update customer/Page_Prieds Technology/input_Address 2_input-editcity-customermanagement'
+
+2023-09-29 05:33:47 - [MESSAGE][PASSED] - Text 'Slemanumkmt9saV' is set on object 'Object Repository/update customer/Page_Prieds Technology/input_Address 2_input-editcity-customermanagement'
+
+2023-09-29 05:33:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/update customer/Page_Prieds Technology/input_City_input-editregion-customermanagement"), "Sleman" + randomText): Text 'Slemanumkmt9saV' is set on object 'Object Repository/update customer/Page_Prieds Technology/input_City_input-editregion-customermanagement'
+
+2023-09-29 05:33:49 - [MESSAGE][PASSED] - Text 'Slemanumkmt9saV' is set on object 'Object Repository/update customer/Page_Prieds Technology/input_City_input-editregion-customermanagement'
+
+2023-09-29 05:33:49 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/update customer/Page_Prieds Technology/input_Region_input-editprovince-customermanagement"), "Special region of yogyakarta" + randomText): Text 'Special region of yogyakartaumkmt9saV' is set on object 'Object Repository/update customer/Page_Prieds Technology/input_Region_input-editprovince-customermanagement'
+
+2023-09-29 05:33:50 - [MESSAGE][PASSED] - Text 'Special region of yogyakartaumkmt9saV' is set on object 'Object Repository/update customer/Page_Prieds Technology/input_Region_input-editprovince-customermanagement'
+
+2023-09-29 05:33:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/update customer/Page_Prieds Technology/input_Province_input-editpreferedcustomer-c_5971db")): Object: 'Object Repository/update customer/Page_Prieds Technology/input_Province_input-editpreferedcustomer-c_5971db' is clicked on
+
+2023-09-29 05:33:50 - [MESSAGE][PASSED] - Object: 'Object Repository/update customer/Page_Prieds Technology/input_Province_input-editpreferedcustomer-c_5971db' is clicked on
+
+2023-09-29 05:33:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/update customer/Page_Prieds Technology/span_Ali Express")): Object: 'Object Repository/update customer/Page_Prieds Technology/span_Ali Express' is clicked on
+
+2023-09-29 05:33:51 - [MESSAGE][PASSED] - Object: 'Object Repository/update customer/Page_Prieds Technology/span_Ali Express' is clicked on
+
+2023-09-29 05:33:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/update customer/Page_Prieds Technology/div_NET75")): Object: 'Object Repository/update customer/Page_Prieds Technology/div_NET75' is clicked on
+
+2023-09-29 05:33:52 - [MESSAGE][PASSED] - Object: 'Object Repository/update customer/Page_Prieds Technology/div_NET75' is clicked on
+
+2023-09-29 05:33:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/update customer/Page_Prieds Technology/span_Custom")): Object: 'Object Repository/update customer/Page_Prieds Technology/span_Custom' is clicked on
+
+2023-09-29 05:33:52 - [MESSAGE][PASSED] - Object: 'Object Repository/update customer/Page_Prieds Technology/span_Custom' is clicked on
+
+2023-09-29 05:33:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/update customer/Page_Prieds Technology/input_Term Of Payment_input-edittermofpayme_fc94da"), "1"): Text '1' is set on object 'Object Repository/update customer/Page_Prieds Technology/input_Term Of Payment_input-edittermofpayme_fc94da'
+
+2023-09-29 05:33:54 - [MESSAGE][PASSED] - Text '1' is set on object 'Object Repository/update customer/Page_Prieds Technology/input_Term Of Payment_input-edittermofpayme_fc94da'
+
+2023-09-29 05:33:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/update customer/Page_Prieds Technology/button_Save")): Object: 'Object Repository/update customer/Page_Prieds Technology/button_Save' is clicked on
+
+2023-09-29 05:33:54 - [MESSAGE][PASSED] - Object: 'Object Repository/update customer/Page_Prieds Technology/button_Save' is clicked on
+
+2023-09-29 05:33:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/update customer/Page_Prieds Technology/button_Yes")): Object: 'Object Repository/update customer/Page_Prieds Technology/button_Yes' is clicked on
+
+2023-09-29 05:33:55 - [MESSAGE][PASSED] - Object: 'Object Repository/update customer/Page_Prieds Technology/button_Yes' is clicked on
+
+2023-09-29 05:33:57 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Functionality/update customer' .
+
+2023-09-29 05:33:57 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Functionality/update customer' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-09-29 05:30:52 - [TEST_SUITE][PASSED] - functional: Test Cases/Functionality/update customer]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

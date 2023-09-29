@@ -1,0 +1,1473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="functional-negativecase" time="861.164" tests="18" failures="0" errors="0">
+   <testsuite name="functional-negativecase" tests="18" failures="0" errors="0" time="861.164" skipped="0" timestamp="2023-09-29 05:36:31" hostname="LENOVO - LAPTOP-6D1EASRA" id="Test Suites/functional-negativecase">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LENOVO\\git\\effective-robot\\Reports\\20230929_053629\\functional-negativecase\\20230929_053629"/>
+         <property name="logFiles" value="C:\\Users\\LENOVO\\git\\effective-robot\\Reports\\20230929_053629\\functional-negativecase\\20230929_053629\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\LENOVO\\git\\effective-robot\\Reports\\20230929_053629\\functional-negativecase\\20230929_053629\\1695940905749.png"/>
+         <property name="hostName" value="LENOVO - LAPTOP-6D1EASRA"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 117.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.9"/>
+         <property name="sessionId" value="0642b2bae4b0b9e78c6cc59844f13912"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except address 2" time="32.707" classname="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except address 2" status="PASSED">
+         <system-out><![CDATA[2023-09-29 05:36:32 - [TEST_CASE][PASSED] - Test Cases/Functionality/negative-testcase/regist new cust but empty all field except address 2: Test Cases/Functionality/negative-testcase/regist new cust but empty all field except address 2
+
+2023-09-29 05:36:32 - [TEST_STEP][PASSED] - randomText = RandomStringUtils.randomAlphanumeric(5): null
+
+2023-09-29 05:36:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 05:36:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 05:36:32 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 05:36:34 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 05:36:34 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:36:47 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:36:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:36:48 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:36:48 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:36:48 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:36:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/button_Login")): Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:36:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:36:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Master")): Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:36:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:36:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:36:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:36:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:36:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:36:58 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/textarea_Address_createcustomer-customerreg_2c8b43"), "alamat2" + randomText): Text 'alamat2VAibN' is set on object 'Object Repository/Page_Prieds Technology/textarea_Address_createcustomer-customerreg_2c8b43'
+
+2023-09-29 05:36:59 - [MESSAGE][PASSED] - Text 'alamat2VAibN' is set on object 'Object Repository/Page_Prieds Technology/textarea_Address_createcustomer-customerreg_2c8b43'
+
+2023-09-29 05:36:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Submit")): Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:37:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:37:00 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a")): Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:37:01 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:37:01 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu")): Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:37:02 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:37:02 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-29 05:37:02 - [MESSAGE][PASSED] - Browser is closed
+
+2023-09-29 05:37:04 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except address 2' .
+
+2023-09-29 05:37:04 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except address 2' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except address1" time="29.02" classname="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except address1" status="PASSED">
+         <system-out><![CDATA[2023-09-29 05:37:04 - [TEST_CASE][PASSED] - Test Cases/Functionality/negative-testcase/regist new cust but empty all field except address1: Test Cases/Functionality/negative-testcase/regist new cust but empty all field except address1
+
+2023-09-29 05:37:05 - [TEST_STEP][PASSED] - randomText = RandomStringUtils.randomAlphanumeric(5): null
+
+2023-09-29 05:37:05 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 05:37:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 05:37:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 05:37:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 05:37:06 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:37:16 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:37:16 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:37:17 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:37:17 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:37:17 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:37:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/button_Login")): Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:37:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:37:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Master")): Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:37:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:37:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:37:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:37:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:37:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:37:28 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/textarea_Tier_createcustomer-customerregist_831bae"), "alamat1" + randomText): Text 'alamat1fjlrP' is set on object 'Object Repository/Page_Prieds Technology/textarea_Tier_createcustomer-customerregist_831bae'
+
+2023-09-29 05:37:29 - [MESSAGE][PASSED] - Text 'alamat1fjlrP' is set on object 'Object Repository/Page_Prieds Technology/textarea_Tier_createcustomer-customerregist_831bae'
+
+2023-09-29 05:37:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Submit")): Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:37:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:37:30 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a")): Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:37:30 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:37:30 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu")): Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:37:30 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:37:30 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-29 05:37:31 - [MESSAGE][PASSED] - Browser is closed
+
+2023-09-29 05:37:33 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except address1' .
+
+2023-09-29 05:37:33 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except address1' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except city" time="33.113" classname="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except city" status="PASSED">
+         <system-out><![CDATA[2023-09-29 05:37:33 - [TEST_CASE][PASSED] - Test Cases/Functionality/negative-testcase/regist new cust but empty all field except city: Test Cases/Functionality/negative-testcase/regist new cust but empty all field except city
+
+2023-09-29 05:37:34 - [TEST_STEP][PASSED] - randomText = RandomStringUtils.randomAlphanumeric(5): null
+
+2023-09-29 05:37:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 05:37:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 05:37:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 05:37:35 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 05:37:35 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:37:48 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:37:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), ""): Text '' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:37:49 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:37:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username")): Object: 'Object Repository/Page_Prieds Technology/input_Sign In_username' is clicked on
+
+2023-09-29 05:37:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/input_Sign In_username' is clicked on
+
+2023-09-29 05:37:50 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:37:50 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:37:50 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:37:51 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:37:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/button_Login")): Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:37:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:37:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Master")): Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:37:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:37:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:37:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:37:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:38:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:38:01 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Email_createcustomer-customerregister_6409b8"), "kota" + randomText): Text 'kotaNa4c3' is set on object 'Object Repository/Page_Prieds Technology/input_Email_createcustomer-customerregister_6409b8'
+
+2023-09-29 05:38:02 - [MESSAGE][PASSED] - Text 'kotaNa4c3' is set on object 'Object Repository/Page_Prieds Technology/input_Email_createcustomer-customerregister_6409b8'
+
+2023-09-29 05:38:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Submit")): Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:38:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:38:03 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a")): Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:38:03 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:38:03 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu")): Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:38:04 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:38:04 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-29 05:38:04 - [MESSAGE][PASSED] - Browser is closed
+
+2023-09-29 05:38:06 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except city' .
+
+2023-09-29 05:38:06 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except city' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except contact" time="33.35" classname="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except contact" status="PASSED">
+         <system-out><![CDATA[2023-09-29 05:38:06 - [TEST_CASE][PASSED] - Test Cases/Functionality/negative-testcase/regist new cust but empty all field except contact: Test Cases/Functionality/negative-testcase/regist new cust but empty all field except contact
+
+2023-09-29 05:38:07 - [TEST_STEP][PASSED] - randomText = RandomStringUtils.randomNumeric(5): null
+
+2023-09-29 05:38:07 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 05:38:07 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 05:38:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 05:38:08 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 05:38:08 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:38:21 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:38:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:38:24 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:38:24 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:38:24 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:38:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/button_Login")): Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:38:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:38:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Master")): Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:38:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:38:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:38:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:38:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:38:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:38:34 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Address 2_createcustomer-customerregi_b33ca3"), "0811223" + randomText): Text '081122301139' is set on object 'Object Repository/Page_Prieds Technology/input_Address 2_createcustomer-customerregi_b33ca3'
+
+2023-09-29 05:38:36 - [MESSAGE][PASSED] - Text '081122301139' is set on object 'Object Repository/Page_Prieds Technology/input_Address 2_createcustomer-customerregi_b33ca3'
+
+2023-09-29 05:38:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Submit")): Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:38:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:38:36 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu")): Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:38:37 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:38:37 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a")): Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:38:37 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:38:37 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-29 05:38:38 - [MESSAGE][PASSED] - Browser is closed
+
+2023-09-29 05:38:40 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except contact' .
+
+2023-09-29 05:38:40 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except contact' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except email" time="44.043" classname="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except email" status="PASSED">
+         <system-out><![CDATA[2023-09-29 05:38:40 - [TEST_CASE][PASSED] - Test Cases/Functionality/negative-testcase/regist new cust but empty all field except email: Test Cases/Functionality/negative-testcase/regist new cust but empty all field except email
+
+2023-09-29 05:38:40 - [TEST_STEP][PASSED] - randomText = RandomStringUtils.randomAlphanumeric(5): null
+
+2023-09-29 05:38:40 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 05:38:40 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 05:38:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 05:38:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 05:38:41 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:39:04 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:39:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:39:05 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:39:05 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:39:06 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:39:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/button_Login")): Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:39:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:39:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Master")): Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:39:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:39:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:39:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:39:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:39:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:39:19 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_PIC_createcustomer-customerregister-c_7d29d8"), "umkm_" + randomText + "@mailinator.com"): Text 'umkm_X50pI@mailinator.com' is set on object 'Object Repository/Page_Prieds Technology/input_PIC_createcustomer-customerregister-c_7d29d8'
+
+2023-09-29 05:39:21 - [MESSAGE][PASSED] - Text 'umkm_X50pI@mailinator.com' is set on object 'Object Repository/Page_Prieds Technology/input_PIC_createcustomer-customerregister-c_7d29d8'
+
+2023-09-29 05:39:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Submit")): Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:39:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:39:21 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a")): Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:39:21 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:39:21 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu")): Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:39:22 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:39:24 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except email' .
+
+2023-09-29 05:39:24 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except email' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except expedition" time="44.152" classname="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except expedition" status="PASSED">
+         <system-out><![CDATA[2023-09-29 05:39:24 - [TEST_CASE][PASSED] - Test Cases/Functionality/negative-testcase/regist new cust but empty all field except expedition: Test Cases/Functionality/negative-testcase/regist new cust but empty all field except expedition
+
+2023-09-29 05:39:24 - [TEST_STEP][PASSED] - randomText = RandomStringUtils.randomAlphanumeric(5): null
+
+2023-09-29 05:39:24 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 05:39:24 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-09-29 05:39:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 05:39:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 05:39:26 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 05:39:26 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:39:48 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:39:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:39:49 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:39:49 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:39:50 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:39:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/button_Login")): Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:39:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:39:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Master")): Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:39:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:39:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:40:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:40:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:40:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:40:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e")): Object: 'Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e' is clicked on
+
+2023-09-29 05:40:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e' is clicked on
+
+2023-09-29 05:40:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_SiCepat")): Object: 'Object Repository/Page_Prieds Technology/span_SiCepat' is clicked on
+
+2023-09-29 05:40:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_SiCepat' is clicked on
+
+2023-09-29 05:40:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Submit")): Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:40:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:40:04 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a")): Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:40:05 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:40:05 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu")): Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:40:05 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:40:05 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-29 05:40:06 - [MESSAGE][PASSED] - Browser is closed
+
+2023-09-29 05:40:08 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except expedition' .
+
+2023-09-29 05:40:08 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except expedition' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except npwp" time="39.694" classname="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except npwp" status="PASSED">
+         <system-out><![CDATA[2023-09-29 05:40:08 - [TEST_CASE][PASSED] - Test Cases/Functionality/negative-testcase/regist new cust but empty all field except npwp: Test Cases/Functionality/negative-testcase/regist new cust but empty all field except npwp
+
+2023-09-29 05:40:08 - [TEST_STEP][PASSED] - randomText = RandomStringUtils.randomNumeric(3): null
+
+2023-09-29 05:40:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 05:40:08 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 05:40:08 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 05:40:09 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 05:40:09 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:40:21 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:40:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:40:22 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:40:22 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:40:23 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:40:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/button_Login")): Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:40:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:40:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Master")): Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:40:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:40:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:40:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:40:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:40:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:40:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Remark_createcustomer-customerregiste_e3ba5d"), "08." + randomText + ".554.2-123." + randomText): Text '08.231.554.2-123.231' is set on object 'Object Repository/Page_Prieds Technology/input_Remark_createcustomer-customerregiste_e3ba5d'
+
+2023-09-29 05:40:44 - [MESSAGE][PASSED] - Text '08.231.554.2-123.231' is set on object 'Object Repository/Page_Prieds Technology/input_Remark_createcustomer-customerregiste_e3ba5d'
+
+2023-09-29 05:40:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Submit")): Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:40:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:40:44 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a")): Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:40:45 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:40:45 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu")): Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:40:45 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:40:45 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-29 05:40:46 - [MESSAGE][PASSED] - Browser is closed
+
+2023-09-29 05:40:48 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except npwp' .
+
+2023-09-29 05:40:48 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except npwp' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except PIC" time="87.509" classname="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except PIC" status="PASSED">
+         <system-out><![CDATA[2023-09-29 05:41:48 - [TEST_CASE][PASSED] - Test Cases/Functionality/negative-testcase/regist new cust but empty all field except PIC: Test Cases/Functionality/negative-testcase/regist new cust but empty all field except PIC
+
+2023-09-29 05:41:48 - [TEST_STEP][PASSED] - randomText = "umkm-redundant-" + RandomStringUtils.randomAlphanumeric(5): null
+
+2023-09-29 05:41:48 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 05:41:48 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-09-29 05:41:48 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 05:41:48 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 05:41:49 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 05:41:49 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:42:50 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:42:50 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:42:51 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:42:51 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:42:51 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:42:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/button_Login")): Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:42:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:42:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Master")): Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:43:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:43:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:43:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:43:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:43:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:43:09 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Customer Name_createcustomer-customer_9f598b"), randomText): Text 'umkm-redundant-0NW9f' is set on object 'Object Repository/Page_Prieds Technology/input_Customer Name_createcustomer-customer_9f598b'
+
+2023-09-29 05:43:11 - [MESSAGE][PASSED] - Text 'umkm-redundant-0NW9f' is set on object 'Object Repository/Page_Prieds Technology/input_Customer Name_createcustomer-customer_9f598b'
+
+2023-09-29 05:43:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/button_Submit")): Object: 'Object Repository/Page_Prieds Technology/button_Submit' is clicked on
+
+2023-09-29 05:43:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/button_Submit' is clicked on
+
+2023-09-29 05:43:12 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a")): Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:43:12 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:43:12 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu")): Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:43:13 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:43:15 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except PIC' .
+
+2023-09-29 05:43:15 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except PIC' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except province" time="40.611" classname="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except province" status="PASSED">
+         <system-out><![CDATA[2023-09-29 05:43:15 - [TEST_CASE][PASSED] - Test Cases/Functionality/negative-testcase/regist new cust but empty all field except province: Test Cases/Functionality/negative-testcase/regist new cust but empty all field except province
+
+2023-09-29 05:43:15 - [TEST_STEP][PASSED] - randomText = RandomStringUtils.randomAlphanumeric(5): null
+
+2023-09-29 05:43:15 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 05:43:15 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-09-29 05:43:16 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 05:43:16 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 05:43:17 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 05:43:17 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:43:37 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:43:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_IDUsername")): Object: 'Object Repository/Page_Prieds Technology/div_IDUsername' is clicked on
+
+2023-09-29 05:43:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_IDUsername' is clicked on
+
+2023-09-29 05:43:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:43:38 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:43:38 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:43:38 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:43:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/button_Login")): Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:43:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:43:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Master")): Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:43:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:43:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:43:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:43:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:43:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:43:49 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Region_createcustomer-customerregiste_b1824f"), "provinceaja" + randomText): Text 'provinceajaAJFbh' is set on object 'Object Repository/Page_Prieds Technology/input_Region_createcustomer-customerregiste_b1824f'
+
+2023-09-29 05:43:51 - [MESSAGE][PASSED] - Text 'provinceajaAJFbh' is set on object 'Object Repository/Page_Prieds Technology/input_Region_createcustomer-customerregiste_b1824f'
+
+2023-09-29 05:43:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Submit")): Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:43:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:43:52 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a")): Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:43:52 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:43:52 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu")): Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:43:53 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:43:53 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-29 05:43:54 - [MESSAGE][PASSED] - Browser is closed
+
+2023-09-29 05:43:56 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except province' .
+
+2023-09-29 05:43:56 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except province' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except region" time="34.273" classname="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except region" status="PASSED">
+         <system-out><![CDATA[2023-09-29 05:43:56 - [TEST_CASE][PASSED] - Test Cases/Functionality/negative-testcase/regist new cust but empty all field except region: Test Cases/Functionality/negative-testcase/regist new cust but empty all field except region
+
+2023-09-29 05:43:56 - [TEST_STEP][PASSED] - randomText = RandomStringUtils.randomAlphanumeric(5): null
+
+2023-09-29 05:43:56 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 05:43:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 05:43:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 05:43:57 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 05:43:57 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:44:12 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:44:12 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:44:13 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:44:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Password")): Object: 'Object Repository/Page_Prieds Technology/div_Password' is clicked on
+
+2023-09-29 05:44:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Password' is clicked on
+
+2023-09-29 05:44:13 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:44:14 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:44:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/button_Login")): Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:44:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:44:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Master")): Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:44:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:44:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:44:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:44:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:44:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:44:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Contact No_createcustomer-customerreg_0f8d35"), "regionaja" + randomText): Text 'regionajaqX1ud' is set on object 'Object Repository/Page_Prieds Technology/input_Contact No_createcustomer-customerreg_0f8d35'
+
+2023-09-29 05:44:26 - [MESSAGE][PASSED] - Text 'regionajaqX1ud' is set on object 'Object Repository/Page_Prieds Technology/input_Contact No_createcustomer-customerreg_0f8d35'
+
+2023-09-29 05:44:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Submit")): Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:44:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:44:26 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a")): Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:44:27 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:44:27 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu")): Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:44:27 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:44:27 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-29 05:44:28 - [MESSAGE][PASSED] - Browser is closed
+
+2023-09-29 05:44:30 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except region' .
+
+2023-09-29 05:44:30 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except region' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except remark" time="36.232" classname="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except remark" status="PASSED">
+         <system-out><![CDATA[2023-09-29 05:44:30 - [TEST_CASE][PASSED] - Test Cases/Functionality/negative-testcase/regist new cust but empty all field except remark: Test Cases/Functionality/negative-testcase/regist new cust but empty all field except remark
+
+2023-09-29 05:44:30 - [TEST_STEP][PASSED] - randomText = RandomStringUtils.randomAlphanumeric(5): null
+
+2023-09-29 05:44:30 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 05:44:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 05:44:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 05:44:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 05:44:31 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:44:44 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:44:44 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:44:45 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:44:45 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:44:46 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:44:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/button_Login")): Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:44:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:44:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Master")): Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:44:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:44:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:44:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:44:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:45:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:45:00 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_City_createcustomer-customerregister-_1096a9"), "remark-" + randomText): Text 'remark-josEF' is set on object 'Object Repository/Page_Prieds Technology/input_City_createcustomer-customerregister-_1096a9'
+
+2023-09-29 05:45:02 - [MESSAGE][PASSED] - Text 'remark-josEF' is set on object 'Object Repository/Page_Prieds Technology/input_City_createcustomer-customerregister-_1096a9'
+
+2023-09-29 05:45:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Submit")): Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:45:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:45:02 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a")): Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:45:03 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:45:03 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu")): Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:45:04 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:45:04 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-29 05:45:04 - [MESSAGE][PASSED] - Browser is closed
+
+2023-09-29 05:45:06 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except remark' .
+
+2023-09-29 05:45:06 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except remark' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except salesmanid" time="60.009" classname="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except salesmanid" status="PASSED">
+         <system-out><![CDATA[2023-09-29 05:45:06 - [TEST_CASE][PASSED] - Test Cases/Functionality/negative-testcase/regist new cust but empty all field except salesmanid: Test Cases/Functionality/negative-testcase/regist new cust but empty all field except salesmanid
+
+2023-09-29 05:45:07 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 05:45:07 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 05:45:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 05:45:08 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 05:45:08 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:45:23 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:45:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username")): Object: 'Object Repository/Page_Prieds Technology/input_Sign In_username' is clicked on
+
+2023-09-29 05:45:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/input_Sign In_username' is clicked on
+
+2023-09-29 05:45:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/img_Hello,_style-people")): Object: 'Object Repository/Page_Prieds Technology/img_Hello,_style-people' is clicked on
+
+2023-09-29 05:45:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/img_Hello,_style-people' is clicked on
+
+2023-09-29 05:45:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_IDUsername")): Object: 'Object Repository/Page_Prieds Technology/div_IDUsername' is clicked on
+
+2023-09-29 05:45:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_IDUsername' is clicked on
+
+2023-09-29 05:45:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:45:25 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:45:25 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:45:26 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:45:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Login")): Object: 'Object Repository/Page_Prieds Technology/span_Login' is clicked on
+
+2023-09-29 05:45:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Login' is clicked on
+
+2023-09-29 05:45:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Master")): Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:45:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:45:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:45:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:45:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:46:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:46:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Salesman ID")): Object: 'Object Repository/Page_Prieds Technology/span_Salesman ID' is clicked on
+
+2023-09-29 05:46:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Salesman ID' is clicked on
+
+2023-09-29 05:46:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_ACCURATE")): Object: 'Object Repository/Page_Prieds Technology/span_ACCURATE' is clicked on
+
+2023-09-29 05:46:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_ACCURATE' is clicked on
+
+2023-09-29 05:46:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/button_Submit")): Object: 'Object Repository/Page_Prieds Technology/button_Submit' is clicked on
+
+2023-09-29 05:46:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/button_Submit' is clicked on
+
+2023-09-29 05:46:03 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a")): Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:46:03 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:46:03 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu")): Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:46:04 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:46:06 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except salesmanid' .
+
+2023-09-29 05:46:06 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except salesmanid' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except tier" time="38.118" classname="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except tier" status="PASSED">
+         <system-out><![CDATA[2023-09-29 05:46:06 - [TEST_CASE][PASSED] - Test Cases/Functionality/negative-testcase/regist new cust but empty all field except tier: Test Cases/Functionality/negative-testcase/regist new cust but empty all field except tier
+
+2023-09-29 05:46:07 - [TEST_STEP][PASSED] - randomText = RandomStringUtils.randomAlphanumeric(5): null
+
+2023-09-29 05:46:07 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 05:46:07 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-09-29 05:46:07 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 05:46:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 05:46:08 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 05:46:08 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:46:22 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:46:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username")): Object: 'Object Repository/Page_Prieds Technology/input_Sign In_username' is clicked on
+
+2023-09-29 05:46:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/input_Sign In_username' is clicked on
+
+2023-09-29 05:46:23 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:46:23 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:46:23 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:46:24 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:46:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/button_Login")): Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:46:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:46:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Master")): Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:46:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:46:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:46:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:46:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:46:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:46:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_NPWP_createcustomer-customerregister-_b2e4d8"), "gold-" + randomText): Text 'gold-naNgi' is set on object 'Object Repository/Page_Prieds Technology/input_NPWP_createcustomer-customerregister-_b2e4d8'
+
+2023-09-29 05:46:39 - [MESSAGE][PASSED] - Text 'gold-naNgi' is set on object 'Object Repository/Page_Prieds Technology/input_NPWP_createcustomer-customerregister-_b2e4d8'
+
+2023-09-29 05:46:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Submit")): Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:46:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:46:40 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a")): Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:46:41 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:46:41 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu")): Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:46:42 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:46:42 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-29 05:46:42 - [MESSAGE][PASSED] - Browser is closed
+
+2023-09-29 05:46:44 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except tier' .
+
+2023-09-29 05:46:44 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except tier' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except TOP" time="33.426" classname="Test Cases/Functionality/negative-testcase/regist new cust but empty all field except TOP" status="PASSED">
+         <system-out><![CDATA[2023-09-29 05:46:44 - [TEST_CASE][PASSED] - Test Cases/Functionality/negative-testcase/regist new cust but empty all field except TOP: Test Cases/Functionality/negative-testcase/regist new cust but empty all field except TOP
+
+2023-09-29 05:46:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 05:46:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 05:46:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 05:46:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 05:46:46 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:46:59 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:46:59 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:47:00 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:47:00 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:47:01 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:47:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/button_Login")): Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:47:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 05:47:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Master")): Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:47:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:47:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:47:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:47:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:47:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:47:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_")): Object: 'Object Repository/Page_Prieds Technology/span_' is clicked on
+
+2023-09-29 05:47:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_' is clicked on
+
+2023-09-29 05:47:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_NET75")): Object: 'Object Repository/Page_Prieds Technology/span_NET75' is clicked on
+
+2023-09-29 05:47:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_NET75' is clicked on
+
+2023-09-29 05:47:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Submit")): Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:47:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:47:14 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a")): Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:47:14 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:47:14 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu")): Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:47:15 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:47:15 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-29 05:47:16 - [MESSAGE][PASSED] - Browser is closed
+
+2023-09-29 05:47:18 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except TOP' .
+
+2023-09-29 05:47:18 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Functionality/negative-testcase/regist new cust but empty all field except TOP' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Functionality/negative-testcase/register new cust but empty all field except cust name" time="34.099" classname="Test Cases/Functionality/negative-testcase/register new cust but empty all field except cust name" status="PASSED">
+         <system-out><![CDATA[2023-09-29 05:47:18 - [TEST_CASE][PASSED] - Test Cases/Functionality/negative-testcase/register new cust but empty all field except cust name: Test Cases/Functionality/negative-testcase/register new cust but empty all field except cust name
+
+2023-09-29 05:47:18 - [TEST_STEP][PASSED] - randomText = "umkm-redundant-" + RandomStringUtils.randomAlphanumeric(5): null
+
+2023-09-29 05:47:18 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 05:47:18 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 05:47:18 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 05:47:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 05:47:19 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:47:33 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:47:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:47:35 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:47:35 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:47:35 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:47:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Login")): Object: 'Object Repository/Page_Prieds Technology/span_Login' is clicked on
+
+2023-09-29 05:47:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Login' is clicked on
+
+2023-09-29 05:47:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Master")): Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:47:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:47:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:47:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:47:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:47:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:47:45 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Salesman ID_createcustomer-customerre_2602e6"), randomText): Text 'umkm-redundant-66SNE' is set on object 'Object Repository/Page_Prieds Technology/input_Salesman ID_createcustomer-customerre_2602e6'
+
+2023-09-29 05:47:47 - [MESSAGE][PASSED] - Text 'umkm-redundant-66SNE' is set on object 'Object Repository/Page_Prieds Technology/input_Salesman ID_createcustomer-customerre_2602e6'
+
+2023-09-29 05:47:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/button_Submit")): Object: 'Object Repository/Page_Prieds Technology/button_Submit' is clicked on
+
+2023-09-29 05:47:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/button_Submit' is clicked on
+
+2023-09-29 05:47:48 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a")): Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:47:48 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:47:48 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu")): Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:47:49 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:47:49 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-29 05:47:50 - [MESSAGE][PASSED] - Browser is closed
+
+2023-09-29 05:47:52 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Functionality/negative-testcase/register new cust but empty all field except cust name' .
+
+2023-09-29 05:47:52 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Functionality/negative-testcase/register new cust but empty all field except cust name' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Functionality/negative-testcase/register new customer but empty all field except customer id" time="38.365" classname="Test Cases/Functionality/negative-testcase/register new customer but empty all field except customer id" status="PASSED">
+         <system-out><![CDATA[2023-09-29 05:47:52 - [TEST_CASE][PASSED] - Test Cases/Functionality/negative-testcase/register new customer but empty all field except customer id: Test Cases/Functionality/negative-testcase/register new customer but empty all field except customer id
+
+2023-09-29 05:47:52 - [TEST_STEP][PASSED] - randomText = "umkm-redundant-" + RandomStringUtils.randomAlphanumeric(5): null
+
+2023-09-29 05:47:52 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 05:47:52 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 05:47:52 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 05:47:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 05:47:53 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:48:12 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:48:12 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:48:13 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:48:13 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:48:14 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:48:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Login")): Object: 'Object Repository/Page_Prieds Technology/span_Login' is clicked on
+
+2023-09-29 05:48:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Login' is clicked on
+
+2023-09-29 05:48:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Master")): Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:48:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:48:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:48:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:48:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:48:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:48:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Customer Biodata_createcustomer-custo_d931ad"), randomText): Text 'umkm-redundant-XjwP9' is set on object 'Object Repository/Page_Prieds Technology/input_Customer Biodata_createcustomer-custo_d931ad'
+
+2023-09-29 05:48:26 - [MESSAGE][PASSED] - Text 'umkm-redundant-XjwP9' is set on object 'Object Repository/Page_Prieds Technology/input_Customer Biodata_createcustomer-custo_d931ad'
+
+2023-09-29 05:48:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Submit")): Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:48:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:48:27 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Mohon pilih salesman_code dahulu")): Object 'Object Repository/Page_Prieds Technology/div_Mohon pilih salesman_code dahulu' is visible
+
+2023-09-29 05:48:27 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Mohon pilih salesman_code dahulu' is visible
+
+2023-09-29 05:48:27 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a")): Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:48:28 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:48:28 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-29 05:48:28 - [MESSAGE][PASSED] - Browser is closed
+
+2023-09-29 05:48:30 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Functionality/negative-testcase/register new customer but empty all field except customer id' .
+
+2023-09-29 05:48:30 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Functionality/negative-testcase/register new customer but empty all field except customer id' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Functionality/negative-testcase/register new customer but empty all field" time="36.752" classname="Test Cases/Functionality/negative-testcase/register new customer but empty all field" status="PASSED">
+         <system-out><![CDATA[2023-09-29 05:48:30 - [TEST_CASE][PASSED] - Test Cases/Functionality/negative-testcase/register new customer but empty all field: Test Cases/Functionality/negative-testcase/register new customer but empty all field
+
+2023-09-29 05:48:31 - [TEST_STEP][PASSED] - randomText = "umkm-redundant-" + RandomStringUtils.randomAlphanumeric(5): null
+
+2023-09-29 05:48:31 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 05:48:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 05:48:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 05:48:32 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 05:48:32 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:48:48 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:48:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:48:49 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:48:49 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:48:50 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:48:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Login")): Object: 'Object Repository/Page_Prieds Technology/span_Login' is clicked on
+
+2023-09-29 05:48:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Login' is clicked on
+
+2023-09-29 05:48:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Master")): Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:48:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:48:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:49:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:49:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:49:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:49:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/button_Submit")): Object: 'Object Repository/Page_Prieds Technology/button_Submit' is clicked on
+
+2023-09-29 05:49:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/button_Submit' is clicked on
+
+2023-09-29 05:49:04 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a")): Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:49:04 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a' is visible
+
+2023-09-29 05:49:04 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu")): Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:49:04 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu' is visible
+
+2023-09-29 05:49:04 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-29 05:49:05 - [MESSAGE][PASSED] - Browser is closed
+
+2023-09-29 05:49:07 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Functionality/negative-testcase/register new customer but empty all field' .
+
+2023-09-29 05:49:07 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Functionality/negative-testcase/register new customer but empty all field' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Functionality/negative-testcase/register new customer but same customer id" time="105.345" classname="Test Cases/Functionality/negative-testcase/register new customer but same customer id" status="PASSED">
+         <system-out><![CDATA[2023-09-29 05:49:07 - [TEST_CASE][PASSED] - Test Cases/Functionality/negative-testcase/register new customer but same customer id: Test Cases/Functionality/negative-testcase/register new customer but same customer id
+
+2023-09-29 05:49:07 - [TEST_STEP][PASSED] - randomText = "umkm-redundant-" + RandomStringUtils.randomAlphanumeric(5): null
+
+2023-09-29 05:49:07 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 05:49:07 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 05:49:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 05:49:09 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 05:49:09 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:49:22 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 05:49:22 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:49:23 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 05:49:23 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:49:24 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 05:49:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Login")): Object: 'Object Repository/Page_Prieds Technology/span_Login' is clicked on
+
+2023-09-29 05:49:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Login' is clicked on
+
+2023-09-29 05:49:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Master")): Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:49:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 05:49:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:49:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 05:49:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:49:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Register' is clicked on
+
+2023-09-29 05:49:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Salesman ID Salesman ID")): Object: 'Object Repository/Page_Prieds Technology/div_Salesman ID Salesman ID' is clicked on
+
+2023-09-29 05:49:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Salesman ID Salesman ID' is clicked on
+
+2023-09-29 05:49:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_REYNER")): Object: 'Object Repository/Page_Prieds Technology/span_REYNER' is clicked on
+
+2023-09-29 05:49:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_REYNER' is clicked on
+
+2023-09-29 05:49:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Salesman ID_createcustomer-customerre_2602e6"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Salesman ID_createcustomer-customerre_2602e6'
+
+2023-09-29 05:49:38 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Salesman ID_createcustomer-customerre_2602e6'
+
+2023-09-29 05:49:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Customer Name_createcustomer-customer_9f598b"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Customer Name_createcustomer-customer_9f598b'
+
+2023-09-29 05:49:39 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Customer Name_createcustomer-customer_9f598b'
+
+2023-09-29 05:49:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_PIC_createcustomer-customerregister-c_7d29d8"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_PIC_createcustomer-customerregister-c_7d29d8'
+
+2023-09-29 05:49:40 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_PIC_createcustomer-customerregister-c_7d29d8'
+
+2023-09-29 05:49:40 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Email_createcustomer-customerregister_6409b8"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Email_createcustomer-customerregister_6409b8'
+
+2023-09-29 05:49:41 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Email_createcustomer-customerregister_6409b8'
+
+2023-09-29 05:49:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_City_createcustomer-customerregister-_1096a9"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_City_createcustomer-customerregister-_1096a9'
+
+2023-09-29 05:49:42 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_City_createcustomer-customerregister-_1096a9'
+
+2023-09-29 05:49:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Remark_createcustomer-customerregiste_e3ba5d"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Remark_createcustomer-customerregiste_e3ba5d'
+
+2023-09-29 05:49:43 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Remark_createcustomer-customerregiste_e3ba5d'
+
+2023-09-29 05:49:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_NPWP_createcustomer-customerregister-_b2e4d8"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_NPWP_createcustomer-customerregister-_b2e4d8'
+
+2023-09-29 05:49:44 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_NPWP_createcustomer-customerregister-_b2e4d8'
+
+2023-09-29 05:49:44 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/textarea_Tier_createcustomer-customerregist_831bae"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/textarea_Tier_createcustomer-customerregist_831bae'
+
+2023-09-29 05:49:45 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/textarea_Tier_createcustomer-customerregist_831bae'
+
+2023-09-29 05:49:45 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/textarea_Address_createcustomer-customerreg_2c8b43"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/textarea_Address_createcustomer-customerreg_2c8b43'
+
+2023-09-29 05:49:47 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/textarea_Address_createcustomer-customerreg_2c8b43'
+
+2023-09-29 05:49:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Address 2_createcustomer-customerregi_b33ca3"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Address 2_createcustomer-customerregi_b33ca3'
+
+2023-09-29 05:49:48 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Address 2_createcustomer-customerregi_b33ca3'
+
+2023-09-29 05:49:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Contact No_createcustomer-customerreg_0f8d35"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Contact No_createcustomer-customerreg_0f8d35'
+
+2023-09-29 05:49:49 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Contact No_createcustomer-customerreg_0f8d35'
+
+2023-09-29 05:49:49 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Region_createcustomer-customerregiste_b1824f"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Region_createcustomer-customerregiste_b1824f'
+
+2023-09-29 05:49:50 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Region_createcustomer-customerregiste_b1824f'
+
+2023-09-29 05:49:50 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e"), ""): Text '' is set on object 'Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e'
+
+2023-09-29 05:49:51 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e'
+
+2023-09-29 05:49:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e")): Object: 'Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e' is clicked on
+
+2023-09-29 05:49:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e' is clicked on
+
+2023-09-29 05:49:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_JNE Express")): Object: 'Object Repository/Page_Prieds Technology/span_JNE Express' is clicked on
+
+2023-09-29 05:49:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_JNE Express' is clicked on
+
+2023-09-29 05:49:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Term Of Payment")): Object: 'Object Repository/Page_Prieds Technology/div_Term Of Payment' is clicked on
+
+2023-09-29 05:49:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Term Of Payment' is clicked on
+
+2023-09-29 05:49:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_NET0")): Object: 'Object Repository/Page_Prieds Technology/span_NET0' is clicked on
+
+2023-09-29 05:49:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_NET0' is clicked on
+
+2023-09-29 05:49:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/button_Generate ID")): Object: 'Object Repository/Page_Prieds Technology/button_Generate ID' is clicked on
+
+2023-09-29 05:49:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/button_Generate ID' is clicked on
+
+2023-09-29 05:49:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Submit")): Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:49:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:49:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Yes")): Object: 'Object Repository/Page_Prieds Technology/span_Yes' is clicked on
+
+2023-09-29 05:49:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Yes' is clicked on
+
+2023-09-29 05:49:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Salesman ID")): Object: 'Object Repository/Page_Prieds Technology/span_Salesman ID' is clicked on
+
+2023-09-29 05:49:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Salesman ID' is clicked on
+
+2023-09-29 05:49:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_REYNER")): Object: 'Object Repository/Page_Prieds Technology/span_REYNER' is clicked on
+
+2023-09-29 05:49:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_REYNER' is clicked on
+
+2023-09-29 05:49:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Name")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Name' is clicked on
+
+2023-09-29 05:50:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Name' is clicked on
+
+2023-09-29 05:50:00 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Salesman ID_createcustomer-customerre_2602e6"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Salesman ID_createcustomer-customerre_2602e6'
+
+2023-09-29 05:50:01 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Salesman ID_createcustomer-customerre_2602e6'
+
+2023-09-29 05:50:01 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Customer Name_createcustomer-customer_9f598b"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Customer Name_createcustomer-customer_9f598b'
+
+2023-09-29 05:50:02 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Customer Name_createcustomer-customer_9f598b'
+
+2023-09-29 05:50:02 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_PIC_createcustomer-customerregister-c_7d29d8"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_PIC_createcustomer-customerregister-c_7d29d8'
+
+2023-09-29 05:50:03 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_PIC_createcustomer-customerregister-c_7d29d8'
+
+2023-09-29 05:50:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Email_createcustomer-customerregister_6409b8"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Email_createcustomer-customerregister_6409b8'
+
+2023-09-29 05:50:03 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Email_createcustomer-customerregister_6409b8'
+
+2023-09-29 05:50:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_City_createcustomer-customerregister-_1096a9"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_City_createcustomer-customerregister-_1096a9'
+
+2023-09-29 05:50:05 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_City_createcustomer-customerregister-_1096a9'
+
+2023-09-29 05:50:05 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Remark_createcustomer-customerregiste_e3ba5d"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Remark_createcustomer-customerregiste_e3ba5d'
+
+2023-09-29 05:50:06 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Remark_createcustomer-customerregiste_e3ba5d'
+
+2023-09-29 05:50:06 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_NPWP_createcustomer-customerregister-_b2e4d8"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_NPWP_createcustomer-customerregister-_b2e4d8'
+
+2023-09-29 05:50:07 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_NPWP_createcustomer-customerregister-_b2e4d8'
+
+2023-09-29 05:50:07 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/textarea_Tier_createcustomer-customerregist_831bae"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/textarea_Tier_createcustomer-customerregist_831bae'
+
+2023-09-29 05:50:08 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/textarea_Tier_createcustomer-customerregist_831bae'
+
+2023-09-29 05:50:08 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/textarea_Address_createcustomer-customerreg_2c8b43"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/textarea_Address_createcustomer-customerreg_2c8b43'
+
+2023-09-29 05:50:09 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/textarea_Address_createcustomer-customerreg_2c8b43'
+
+2023-09-29 05:50:09 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Address 2_createcustomer-customerregi_b33ca3"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Address 2_createcustomer-customerregi_b33ca3'
+
+2023-09-29 05:50:10 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Address 2_createcustomer-customerregi_b33ca3'
+
+2023-09-29 05:50:10 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Contact No_createcustomer-customerreg_0f8d35"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Contact No_createcustomer-customerreg_0f8d35'
+
+2023-09-29 05:50:11 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Contact No_createcustomer-customerreg_0f8d35'
+
+2023-09-29 05:50:11 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Region_createcustomer-customerregiste_b1824f"), "redundant" + randomText): Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Region_createcustomer-customerregiste_b1824f'
+
+2023-09-29 05:50:13 - [MESSAGE][PASSED] - Text 'redundantumkm-redundant-f6itp' is set on object 'Object Repository/Page_Prieds Technology/input_Region_createcustomer-customerregiste_b1824f'
+
+2023-09-29 05:50:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e"), ""): Text '' is set on object 'Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e'
+
+2023-09-29 05:50:14 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e'
+
+2023-09-29 05:50:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e")): Object: 'Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e' is clicked on
+
+2023-09-29 05:50:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e' is clicked on
+
+2023-09-29 05:50:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_JNE Express")): Object: 'Object Repository/Page_Prieds Technology/span_JNE Express' is clicked on
+
+2023-09-29 05:50:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_JNE Express' is clicked on
+
+2023-09-29 05:50:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_")): Object: 'Object Repository/Page_Prieds Technology/span_' is clicked on
+
+2023-09-29 05:50:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_' is clicked on
+
+2023-09-29 05:50:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_NET0")): Object: 'Object Repository/Page_Prieds Technology/span_NET0' is clicked on
+
+2023-09-29 05:50:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_NET0' is clicked on
+
+2023-09-29 05:50:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Generate ID")): Object: 'Object Repository/Page_Prieds Technology/span_Generate ID' is clicked on
+
+2023-09-29 05:50:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Generate ID' is clicked on
+
+2023-09-29 05:50:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Submit")): Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:50:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Submit' is clicked on
+
+2023-09-29 05:50:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Yes")): Object: 'Object Repository/Page_Prieds Technology/span_Yes' is clicked on
+
+2023-09-29 05:50:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Yes' is clicked on
+
+2023-09-29 05:50:19 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/span_ID Customer telah terdaftar mohon ubah ID")): Object 'Object Repository/Page_Prieds Technology/span_ID Customer telah terdaftar mohon ubah ID' is visible
+
+2023-09-29 05:50:50 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='cdk-overlay-26']/snack-bar-container/simple-snack-bar/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-09-29 05:50:50 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Prieds Technology/span_ID Customer telah terdaftar mohon ubah ID'. Try using Self-healing.
+
+2023-09-29 05:50:50 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Prieds Technology/span_ID Customer telah terdaftar mohon ubah ID' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Support/Help'])[1]/preceding::span[1]'.
+
+2023-09-29 05:50:50 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/span_ID Customer telah terdaftar mohon ubah ID' is visible
+
+2023-09-29 05:50:52 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Functionality/negative-testcase/register new customer but same customer id' .
+
+2023-09-29 05:50:52 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Functionality/negative-testcase/register new customer but same customer id' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-09-29 05:36:31 - [TEST_SUITE][FAILED] - functional-negativecase: Test Cases/Functionality/negative-testcase/regist new cust but empty all field except PIC FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Prieds Technology/div_Master'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at regist new cust but empty all field except PIC.run(regist new cust but empty all field except PIC:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695940589484.run(TempTestSuite1695940589484.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Prieds Technology/div_Master' located by '//button[@id='Master']/span/div/div/div' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2023-09-29 05:36:31 - [TEST_SUITE][FAILED] - functional-negativecase: Test Cases/Functionality/negative-testcase/regist new cust but empty all field except PIC FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Prieds Technology/div_Master'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at regist new cust but empty all field except PIC.run(regist new cust but empty all field except PIC:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695940589484.run(TempTestSuite1695940589484.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Prieds Technology/div_Master' located by '//button[@id='Master']/span/div/div/div' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

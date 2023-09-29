@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8ed15ce7-7d57-4952-80eb-4ac51a1c0af1</webElementGuid>
+      <webElementGuid>be4e09a3-c6ba-4200-8ef6-a74ba52b2b11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>7122563b-38d3-4c59-bfeb-d74184a9dcd4</webElementGuid>
+      <webElementGuid>5dcbdae5-c98c-4452-840b-e4c80a29b662</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,15 +38,15 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Email</value>
-      <webElementGuid>90da1b87-91e9-487e-84de-7dedb822a440</webElementGuid>
+      <webElementGuid>2761485f-e12d-42cd-ae97-15dd8188f1bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-input-element mat-form-field-autofill-control ng-tns-c165-46 cdk-text-field-autofill-monitored ng-untouched ng-valid ng-dirty</value>
-      <webElementGuid>094db7dc-9656-4858-ad85-d4d1e7539b72</webElementGuid>
+      <value>mat-input-element mat-form-field-autofill-control ng-tns-c165-46 cdk-text-field-autofill-monitored ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>77b91440-6ba3-421d-b875-0407c2aaff72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>createcustomer-customerregister-customermanagementinput-contactno-createcustomer</value>
-      <webElementGuid>77b6ada6-3af9-4f97-92cc-9d68b52c82f3</webElementGuid>
+      <webElementGuid>557ad235-555e-437c-a24d-2640baf4d4d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>89578c44-e876-4e1e-8e58-bb2e23fa2f43</webElementGuid>
+      <webElementGuid>1aac619d-8432-45b2-9591-d466e45eaeab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,15 +70,15 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5b7f7576-1e4a-4a9b-80ba-b17b82db13a1</webElementGuid>
+      <webElementGuid>c1791b4b-ccc3-468b-a5f7-05a7943b22fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-tab-content-0-1&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c282-65 ng-trigger ng-trigger-translateTab&quot;]/app-create-customer[@class=&quot;ng-star-inserted&quot;]/div[1]/mat-card[@class=&quot;mat-card mat-focus-indicator&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/div[2]/div[1]/mat-form-field[@class=&quot;mat-form-field fit-card ng-tns-c165-46 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label ng-untouched ng-valid mat-form-field-should-float mat-focused ng-dirty&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c165-46&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c165-46&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c165-46&quot;]/input[@id=&quot;createcustomer-customerregister-customermanagementinput-contactno-createcustomer&quot;]</value>
-      <webElementGuid>4730a396-6e66-4949-9641-c616970dda92</webElementGuid>
+      <value>id(&quot;mat-tab-content-0-1&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c282-65 ng-trigger ng-trigger-translateTab&quot;]/app-create-customer[@class=&quot;ng-star-inserted&quot;]/div[1]/mat-card[@class=&quot;mat-card mat-focus-indicator&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/div[2]/div[1]/mat-form-field[@class=&quot;mat-form-field fit-card ng-tns-c165-46 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label ng-untouched ng-pristine ng-valid mat-form-field-should-float mat-focused&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c165-46&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c165-46&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c165-46&quot;]/input[@id=&quot;createcustomer-customerregister-customermanagementinput-contactno-createcustomer&quot;]</value>
+      <webElementGuid>a800fd1c-24d5-4bc0-a4af-1ef295c07f63</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='createcustomer-customerregister-customermanagementinput-contactno-createcustomer']</value>
-      <webElementGuid>c5718f36-af25-46da-8e55-d91edf9a16c0</webElementGuid>
+      <webElementGuid>d09f4bcd-b1d1-4972-a089-99613ab13b2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-tab-body[@id='mat-tab-content-0-1']/div/app-create-customer/div/mat-card/mat-card-content/div[2]/div/mat-form-field[5]/div/div/div[3]/input</value>
-      <webElementGuid>f6093f0d-520a-4421-a03b-fcab1d610224</webElementGuid>
+      <webElementGuid>983d7120-b16a-41f8-9ea8-da3744d8a18a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-form-field[5]/div/div/div[3]/input</value>
-      <webElementGuid>1fe10143-e4ad-4a0d-8020-9d3bf57ea43e</webElementGuid>
+      <webElementGuid>6fbafd5e-8a2c-4166-ad72-0500543899f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Email' and @id = 'createcustomer-customerregister-customermanagementinput-contactno-createcustomer']</value>
-      <webElementGuid>9661d7c7-1067-44d6-b245-799b3ca20667</webElementGuid>
+      <webElementGuid>5bc94174-c2a1-4b61-a6e2-0011f2a39d12</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>7f667988-2c05-401d-b51d-62034d1cce02</webElementGuid>
+      <webElementGuid>a57b395f-36bd-4f86-85a9-b4179e4806cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-button-wrapper</value>
-      <webElementGuid>c026747e-bb1e-49f0-961d-048a11d4791a</webElementGuid>
+      <webElementGuid>fcae8687-bdb5-48fc-957e-6afc565777f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Yes</value>
-      <webElementGuid>509cd78f-11f8-4304-a028-156a4e0746c7</webElementGuid>
+      <webElementGuid>32c1d3ea-15fa-497e-8e64-fb390a1901af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;button-yes-confirmmodal&quot;)/span[@class=&quot;mat-button-wrapper&quot;]</value>
-      <webElementGuid>70126cdc-ea46-4107-868d-02358546a0c0</webElementGuid>
+      <webElementGuid>000086c8-83b6-47fb-9935-00b4ec3a90d2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='button-yes-confirmmodal']/span</value>
-      <webElementGuid>a82a8e82-52c1-4e9e-9832-6e8a02a179b9</webElementGuid>
+      <webElementGuid>7d54bc6b-a504-45ab-ab89-f4f092e82698</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::span[1]</value>
-      <webElementGuid>db6872f4-74d1-47fa-9776-ade7f0c81730</webElementGuid>
+      <webElementGuid>e5f1e34f-185b-4509-8578-4aa0cd921eb6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure?'])[1]/following::span[2]</value>
-      <webElementGuid>39f79846-4503-4a0f-ae61-11eeec02f550</webElementGuid>
+      <webElementGuid>372afab7-47ca-48da-8517-27097b6d1738</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Support/Help'])[1]/preceding::span[1]</value>
-      <webElementGuid>0bd820ff-bfa7-48ca-acdb-139ab3fbabb8</webElementGuid>
+      <webElementGuid>5d2ba0bb-390f-4ef3-ab6a-c239ba870a19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Language'])[1]/preceding::span[1]</value>
-      <webElementGuid>e8556600-fc4f-4417-84fb-6958b4028953</webElementGuid>
+      <webElementGuid>6f380ebb-f11b-42cd-8019-4eb7ad93fedc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Yes']/parent::*</value>
-      <webElementGuid>85025f64-e397-4dfb-98ae-02c84f8d164a</webElementGuid>
+      <webElementGuid>cc108063-ef68-4928-9733-3b98383d85b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-confirm-modal/div/div/button[2]/span</value>
-      <webElementGuid>b2965682-aa14-42d9-a44f-a8a3baa4e606</webElementGuid>
+      <webElementGuid>86895c17-8462-495b-bad5-1f0e535eb620</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Yes' or . = 'Yes')]</value>
-      <webElementGuid>fdcf16a8-a117-4d55-b566-c20aa41c7d6a</webElementGuid>
+      <webElementGuid>f1e98dbf-d697-49ef-bc64-d1c83aa60d56</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

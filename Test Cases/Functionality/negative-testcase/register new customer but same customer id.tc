@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>register new customer but same customer id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe16e877-d2c7-4d14-942a-9a591ba077dd</testCaseGuid>
+</TestCaseEntity>

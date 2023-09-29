@@ -1,0 +1,220 @@
+1
+00:00:00,269 --> 00:00:00,270
+1. randomText = "umkm-redundant-" + RandomStringUtils.randomAlphanumeric(5)
+
+2
+00:00:00,270 --> 00:00:01,401
+5. openBrowser("")
+
+3
+00:00:01,402 --> 00:00:14,847
+9. navigateToUrl("https://sandbox.product.prieds.com/")
+
+4
+00:00:14,847 --> 00:00:15,959
+13. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2")
+
+5
+00:00:15,960 --> 00:00:16,389
+17. setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g==")
+
+6
+00:00:16,390 --> 00:00:16,771
+21. click(findTestObject("Object Repository/Page_Prieds Technology/span_Login"))
+
+7
+00:00:16,772 --> 00:00:24,743
+25. click(findTestObject("Object Repository/Page_Prieds Technology/div_Master"))
+
+8
+00:00:24,743 --> 00:00:25,457
+29. click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management"))
+
+9
+00:00:25,457 --> 00:00:26,973
+33. click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register"))
+
+10
+00:00:26,975 --> 00:00:28,422
+37. click(findTestObject("Object Repository/Page_Prieds Technology/div_Salesman ID Salesman ID"))
+
+11
+00:00:28,423 --> 00:00:29,099
+41. click(findTestObject("Object Repository/Page_Prieds Technology/span_REYNER"))
+
+12
+00:00:29,099 --> 00:00:30,727
+45. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Salesman ID_createcustomer-customerre_2602e6"), "redundant" + randomText)
+
+13
+00:00:30,728 --> 00:00:31,908
+49. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Customer Name_createcustomer-customer_9f598b"), "redundant" + randomText)
+
+14
+00:00:31,909 --> 00:00:32,782
+53. setText(findTestObject("Object Repository/Page_Prieds Technology/input_PIC_createcustomer-customerregister-c_7d29d8"), "redundant" + randomText)
+
+15
+00:00:32,783 --> 00:00:33,853
+57. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Email_createcustomer-customerregister_6409b8"), "redundant" + randomText)
+
+16
+00:00:33,854 --> 00:00:34,826
+61. setText(findTestObject("Object Repository/Page_Prieds Technology/input_City_createcustomer-customerregister-_1096a9"), "redundant" + randomText)
+
+17
+00:00:34,827 --> 00:00:35,569
+65. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Remark_createcustomer-customerregiste_e3ba5d"), "redundant" + randomText)
+
+18
+00:00:35,570 --> 00:00:36,657
+69. setText(findTestObject("Object Repository/Page_Prieds Technology/input_NPWP_createcustomer-customerregister-_b2e4d8"), "redundant" + randomText)
+
+19
+00:00:36,658 --> 00:00:37,770
+73. setText(findTestObject("Object Repository/Page_Prieds Technology/textarea_Tier_createcustomer-customerregist_831bae"), "redundant" + randomText)
+
+20
+00:00:37,771 --> 00:00:39,484
+77. setText(findTestObject("Object Repository/Page_Prieds Technology/textarea_Address_createcustomer-customerreg_2c8b43"), "redundant" + randomText)
+
+21
+00:00:39,484 --> 00:00:40,463
+81. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Address 2_createcustomer-customerregi_b33ca3"), "redundant" + randomText)
+
+22
+00:00:40,463 --> 00:00:41,673
+85. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Contact No_createcustomer-customerreg_0f8d35"), "redundant" + randomText)
+
+23
+00:00:41,674 --> 00:00:42,550
+89. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Region_createcustomer-customerregiste_b1824f"), "redundant" + randomText)
+
+24
+00:00:42,551 --> 00:00:43,425
+93. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e"), "")
+
+25
+00:00:43,426 --> 00:00:44,014
+97. click(findTestObject("Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e"))
+
+26
+00:00:44,015 --> 00:00:44,495
+101. click(findTestObject("Object Repository/Page_Prieds Technology/span_JNE Express"))
+
+27
+00:00:44,496 --> 00:00:44,982
+105. click(findTestObject("Object Repository/Page_Prieds Technology/div_Term Of Payment"))
+
+28
+00:00:44,983 --> 00:00:45,490
+109. click(findTestObject("Object Repository/Page_Prieds Technology/span_NET0"))
+
+29
+00:00:45,490 --> 00:00:46,639
+113. click(findTestObject("Object Repository/Page_Prieds Technology/button_Generate ID"))
+
+30
+00:00:46,640 --> 00:00:47,224
+117. click(findTestObject("Object Repository/Page_Prieds Technology/span_Submit"))
+
+31
+00:00:47,225 --> 00:00:48,110
+121. click(findTestObject("Object Repository/Page_Prieds Technology/span_Yes"))
+
+32
+00:00:48,111 --> 00:00:50,690
+125. click(findTestObject("Object Repository/Page_Prieds Technology/span_Salesman ID"))
+
+33
+00:00:50,690 --> 00:00:51,699
+129. click(findTestObject("Object Repository/Page_Prieds Technology/span_REYNER"))
+
+34
+00:00:51,700 --> 00:00:52,934
+133. click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Name"))
+
+35
+00:00:52,934 --> 00:00:53,771
+137. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Salesman ID_createcustomer-customerre_2602e6"), "redundant" + randomText)
+
+36
+00:00:53,772 --> 00:00:54,638
+141. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Customer Name_createcustomer-customer_9f598b"), "redundant" + randomText)
+
+37
+00:00:54,638 --> 00:00:55,514
+145. setText(findTestObject("Object Repository/Page_Prieds Technology/input_PIC_createcustomer-customerregister-c_7d29d8"), "redundant" + randomText)
+
+38
+00:00:55,514 --> 00:00:56,358
+149. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Email_createcustomer-customerregister_6409b8"), "redundant" + randomText)
+
+39
+00:00:56,358 --> 00:00:57,445
+153. setText(findTestObject("Object Repository/Page_Prieds Technology/input_City_createcustomer-customerregister-_1096a9"), "redundant" + randomText)
+
+40
+00:00:57,447 --> 00:00:58,515
+157. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Remark_createcustomer-customerregiste_e3ba5d"), "redundant" + randomText)
+
+41
+00:00:58,515 --> 00:00:59,498
+161. setText(findTestObject("Object Repository/Page_Prieds Technology/input_NPWP_createcustomer-customerregister-_b2e4d8"), "redundant" + randomText)
+
+42
+00:00:59,498 --> 00:01:00,477
+165. setText(findTestObject("Object Repository/Page_Prieds Technology/textarea_Tier_createcustomer-customerregist_831bae"), "redundant" + randomText)
+
+43
+00:01:00,477 --> 00:01:02,129
+169. setText(findTestObject("Object Repository/Page_Prieds Technology/textarea_Address_createcustomer-customerreg_2c8b43"), "redundant" + randomText)
+
+44
+00:01:02,130 --> 00:01:03,177
+173. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Address 2_createcustomer-customerregi_b33ca3"), "redundant" + randomText)
+
+45
+00:01:03,177 --> 00:01:04,347
+177. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Contact No_createcustomer-customerreg_0f8d35"), "redundant" + randomText)
+
+46
+00:01:04,347 --> 00:01:05,449
+181. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Region_createcustomer-customerregiste_b1824f"), "redundant" + randomText)
+
+47
+00:01:05,450 --> 00:01:06,447
+185. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e"), "")
+
+48
+00:01:06,448 --> 00:01:06,939
+189. click(findTestObject("Object Repository/Page_Prieds Technology/input_Province_createcustomer-customerregis_1acb6e"))
+
+49
+00:01:06,939 --> 00:01:07,521
+193. click(findTestObject("Object Repository/Page_Prieds Technology/span_JNE Express"))
+
+50
+00:01:07,522 --> 00:01:08,017
+197. click(findTestObject("Object Repository/Page_Prieds Technology/span_"))
+
+51
+00:01:08,018 --> 00:01:08,594
+201. click(findTestObject("Object Repository/Page_Prieds Technology/span_NET0"))
+
+52
+00:01:08,595 --> 00:01:09,620
+205. click(findTestObject("Object Repository/Page_Prieds Technology/span_Generate ID"))
+
+53
+00:01:09,622 --> 00:01:10,099
+209. click(findTestObject("Object Repository/Page_Prieds Technology/span_Submit"))
+
+54
+00:01:10,099 --> 00:01:11,540
+213. click(findTestObject("Object Repository/Page_Prieds Technology/span_Yes"))
+
+55
+00:01:11,542 --> 00:01:43,203
+217. verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/span_ID Customer telah terdaftar mohon ubah ID"))
+

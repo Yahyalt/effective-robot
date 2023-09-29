@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>9309e84e-8158-4877-aadb-df3b50ca6e8c</webElementGuid>
+      <webElementGuid>b09242e2-6152-425e-9eb7-d2508032cc25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Customer Management </value>
-      <webElementGuid>f26af030-6df3-40cc-99d1-683bddc6fa1a</webElementGuid>
+      <webElementGuid>a056d8a3-7c70-4651-8608-a8e06867ec09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;menu_customer_management&quot;)/div[1]/div[@class=&quot;mat-menu-button&quot;]/div[1]</value>
-      <webElementGuid>54f485a8-58a8-4ff2-87cd-c19809f29aad</webElementGuid>
+      <webElementGuid>3eaacc33-d92f-42bd-9b4c-0574120f2e34</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='menu_customer_management']/div/div/div</value>
-      <webElementGuid>45c1095d-1fd9-4a33-9d18-eb21575347ca</webElementGuid>
+      <webElementGuid>95d3e3fa-00c2-452d-b4dd-74e2ac553bf6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SME Hub Prieds'])[1]/following::div[17]</value>
-      <webElementGuid>f5e1a8a2-1f0b-4f71-b968-b3f3ff20ab87</webElementGuid>
+      <webElementGuid>510b685d-4896-4611-89d1-6f35028c3fd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::div[19]</value>
-      <webElementGuid>bae50275-c929-498f-80e3-4abb6836a4b5</webElementGuid>
+      <webElementGuid>77d4b827-0a9e-420b-b438-5d06b326c153</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier Management'])[1]/preceding::div[3]</value>
-      <webElementGuid>2e4e43d5-b6d1-41da-9b1e-4cad54fa7221</webElementGuid>
+      <webElementGuid>ee483067-ff13-43c0-8e07-1e483c128988</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Management'])[1]/preceding::div[7]</value>
-      <webElementGuid>4810a855-9599-4830-9f2f-443752f9f061</webElementGuid>
+      <webElementGuid>b1aa94c7-0f5b-4455-97ee-1c1e2b0cc4e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Customer Management']/parent::*</value>
-      <webElementGuid>f5879788-1511-4954-906c-dbec0faf49ee</webElementGuid>
+      <webElementGuid>1ee1e4f0-c737-4259-913c-59d7b1c0ced3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/div/div/div</value>
-      <webElementGuid>39a722b0-5c13-4d37-9b3f-1243f38edaa4</webElementGuid>
+      <webElementGuid>38b2a006-8905-4a27-a457-c59e1363a66d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,22 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' Customer Management ' or . = ' Customer Management ')]</value>
-      <webElementGuid>7b7c83ce-145c-4397-ae26-dd18abec772a</webElementGuid>
+      <webElementGuid>6377cb0a-cb4b-45bd-bd3a-b2442e5119bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SME Hub Prieds'])[1]/following::div[15]</value>
+      <webElementGuid>88aceb18-7218-4f71-b8fd-f9c9fc8dd79b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::div[17]</value>
+      <webElementGuid>aae16981-f2d4-4a56-a661-581af0b7bda1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

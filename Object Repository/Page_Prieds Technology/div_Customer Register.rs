@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>90d46152-7d4e-4f28-83cf-96657dd70de9</webElementGuid>
+      <webElementGuid>94f026e9-186a-465f-b3c7-5564d3e6baff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-tab-label-content</value>
-      <webElementGuid>6ce12d55-d286-4182-856a-0881dcfce0f8</webElementGuid>
+      <webElementGuid>cd5d00fd-c7d6-4824-b020-fc8aaec95e44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Customer Register</value>
-      <webElementGuid>96e97050-25dd-4c56-883a-6bbf73239ee2</webElementGuid>
+      <webElementGuid>9c5bfb0d-1e8b-4144-8309-8ed5280e1607</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,71 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-tab-label-0-1&quot;)/div[@class=&quot;mat-tab-label-content&quot;]</value>
-      <webElementGuid>c9f90cb5-a142-4d66-a821-5aaa77f0ea98</webElementGuid>
+      <webElementGuid>bf4e79ad-38f5-410c-adb0-d6f41b4fe776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>0af5a84d-5cc9-46f8-96db-e2e52e45b43f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-tab-label-0-1</value>
+      <webElementGuid>5b827c93-e497-4282-95d3-1bb08a8abdcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>a1861bcc-9730-4b91-9755-478fa0a4d78e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-posinset</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>3509de68-b971-4cc2-b413-d7c97bef85de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-setsize</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>085f6772-4440-4db0-a7d4-1071a47bea76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>mat-tab-content-0-1</value>
+      <webElementGuid>89215e08-6abf-4ae6-b57f-0302fc25fbb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>c8c43c8b-f00e-400e-85ca-1059195c00b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>98b7b629-6819-4026-9e9a-21d3712b0c76</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mat-tab-label-0-1']/div</value>
-      <webElementGuid>943764dd-bfd0-4ed9-ac60-2b9d5b943235</webElementGuid>
+      <webElementGuid>3ca573d7-0914-47f1-bb17-9fc4c548ded6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer List'])[1]/following::div[2]</value>
-      <webElementGuid>b78bc8b4-626e-4a46-a93a-6e956d22bc26</webElementGuid>
+      <webElementGuid>9b3bbaee-ce92-43f9-886d-014bb8b2ee0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Management'])[1]/following::div[15]</value>
-      <webElementGuid>3ba054b1-68a5-4a15-9ca5-d615137de382</webElementGuid>
+      <webElementGuid>10068652-6ea6-49c2-8ec9-894688e9ce1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Register Import'])[1]/preceding::div[2]</value>
-      <webElementGuid>f870d3db-267b-4bff-a41d-f21577a39be6</webElementGuid>
+      <webElementGuid>361db783-47d2-4d7f-8fe5-c72c8e1b2d6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer ID'])[1]/preceding::div[6]</value>
-      <webElementGuid>19951677-caa1-42da-9d20-dcf6b2a332e9</webElementGuid>
+      <webElementGuid>fdf59bbc-7a34-47e0-bcbc-28b5fb6da571</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Customer Register']/parent::*</value>
-      <webElementGuid>989516c7-dc8c-42e6-88bc-528d3376c7af</webElementGuid>
+      <webElementGuid>55e7ccf9-4269-4130-a66b-fe350c666e9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +166,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div</value>
-      <webElementGuid>58e4c41c-c3bc-4ccf-aadd-bdfab8d3ff1c</webElementGuid>
+      <webElementGuid>4be76a49-1873-4bc7-9347-c7f35db5b9e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +174,54 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Customer Register' or . = 'Customer Register')]</value>
-      <webElementGuid>f239814f-982a-4a50-b3c4-b42541591686</webElementGuid>
+      <webElementGuid>99ce4599-7b5a-461a-a925-b3efee03cb85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='mat-tab-label-0-1']</value>
+      <webElementGuid>88651e1d-e310-41ba-bb1e-415e50dc1b34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer List'])[1]/following::div[1]</value>
+      <webElementGuid>379335a5-efb6-4b3e-ba67-bda7e6eca23e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Management'])[1]/following::div[14]</value>
+      <webElementGuid>f8b36640-7cc3-41fe-993f-d85a675b03b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Register Import'])[1]/preceding::div[3]</value>
+      <webElementGuid>0a95e585-cb9e-472e-b004-bd83fc9012ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]</value>
+      <webElementGuid>66941a25-93dc-425f-b370-ca29f62bef81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'mat-tab-label-0-1' and (text() = 'Customer Register' or . = 'Customer Register')]</value>
+      <webElementGuid>5a641360-aa41-4179-bf99-f6ab192f331a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

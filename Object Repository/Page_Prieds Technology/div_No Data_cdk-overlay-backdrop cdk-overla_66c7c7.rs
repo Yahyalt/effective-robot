@@ -6,12 +6,12 @@
    <elementGuidId>fc5e99ab-33a2-4a74-be6b-5bb2ea4d4c52</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello,'])[1]/preceding::div[1]</value>
+         <key>CSS</key>
+         <value>div.mat-select-arrow-wrapper.ng-tns-c240-44</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>div.style-smallphone > div > div</value>
+         <key>XPATH</key>
+         <value>//mat-select[@id='createcustomer-customerregister-customermanagementmatselect-salesmanid-createcustomer']/div/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>2326fd60-1f12-482a-b2ac-ad3bc18078d3</webElementGuid>
+      <webElementGuid>978c17ec-b701-476c-8b29-9b52f76337b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>cdk-overlay-backdrop cdk-overlay-transparent-backdrop cdk-overlay-backdrop-showing</value>
-      <webElementGuid>332717b3-8db1-49ec-a283-e7a9a31305d4</webElementGuid>
+      <value>mat-select-arrow-wrapper ng-tns-c240-44</value>
+      <webElementGuid>2e7968b2-55b1-4811-9857-1d78f63278ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/app-root[1]/app-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;style-main&quot;]/div[@class=&quot;style-smallphone&quot;]/div[1]/div[1]</value>
-      <webElementGuid>80dc8865-46b0-4a4f-bc3a-df7f87a500e9</webElementGuid>
+      <value>id(&quot;createcustomer-customerregister-customermanagementmatselect-salesmanid-createcustomer&quot;)/div[@class=&quot;mat-select-trigger ng-tns-c240-44&quot;]/div[@class=&quot;mat-select-arrow-wrapper ng-tns-c240-44&quot;]</value>
+      <webElementGuid>5e3000fd-8158-4df0-b8b0-67e09cab2d39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,6 +58,102 @@
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-select[@id='createcustomer-customerregister-customermanagementmatselect-salesmanid-createcustomer']/div/div[2]</value>
+      <webElementGuid>3dc05206-7e5e-49ed-b74f-c76f4757207d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salesman ID'])[1]/following::div[1]</value>
+      <webElementGuid>1fba196d-4632-461d-a651-7999b0722897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer ID'])[1]/following::div[17]</value>
+      <webElementGuid>7ac2a696-3f2f-4d06-a8c8-35ff513c63f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salesman ID'])[2]/preceding::div[2]</value>
+      <webElementGuid>af56d737-484d-4772-8c75-22a348b0d3f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Name'])[1]/preceding::div[13]</value>
+      <webElementGuid>45e55305-0876-4b72-a584-a13c9b24eef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-select/div/div[2]</value>
+      <webElementGuid>d50ada77-7282-4ad1-bab5-8d9af0b2774c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-select[@id='mat-select-0']/div/div[2]</value>
+      <webElementGuid>ae0229b9-08fb-4ac4-8595-546d57859d5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::div[1]</value>
+      <webElementGuid>e0c48f75-a4db-4511-97a8-7f8312e0a2ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Data'])[96]/following::div[30]</value>
+      <webElementGuid>45243b25-86e9-43aa-896a-6cbe59b1116a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Language'])[1]/preceding::div[2]</value>
+      <webElementGuid>ae2fda45-8f47-4726-b1d8-c6bc1ec03fc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Support/Help'])[1]/preceding::div[5]</value>
+      <webElementGuid>f612a9a9-3faa-4bf3-a5dc-aae1fd3bcca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/mat-select/div/div[2]</value>
+      <webElementGuid>6e424d1a-5d24-4629-8cc8-f13b7063a3e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>

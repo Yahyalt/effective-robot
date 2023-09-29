@@ -6,12 +6,12 @@
    <elementGuidId>57435847-c86e-4668-a653-1953609fec64</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//img</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>img.style-people</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>dba6979b-a326-47e4-9b50-6741d00d9bbf</webElementGuid>
+      <webElementGuid>7e9c7466-45fa-42ff-b62a-25fd54552d1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>../../assets/img/login/prieds-people.png</value>
-      <webElementGuid>6f712246-140f-4c9d-a463-85bed0372e3d</webElementGuid>
+      <webElementGuid>79e5a0a6-c3ea-471d-a0d7-a24b21940256</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>style-people</value>
-      <webElementGuid>cd9114cb-23d1-43ba-afd9-20343ed8464f</webElementGuid>
+      <webElementGuid>643b76c0-7aad-424c-aaef-4e9ca1857b02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;style-main&quot;]/div[@class=&quot;style-smallphone&quot;]/div[1]/div[1]/img[@class=&quot;style-people&quot;]</value>
-      <webElementGuid>4cf3872a-c55f-4aa9-b5a4-095a99a56d13</webElementGuid>
+      <webElementGuid>a45ae043-9fab-465a-85a3-b3c259a07004</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>2ea5c038-aa55-409a-b80b-647105a6e852</webElementGuid>
+      <webElementGuid>32df1eaf-b60e-41c7-b0ca-b6b2e8da051a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '../../assets/img/login/prieds-people.png']</value>
-      <webElementGuid>de44db59-8e45-47cb-bd76-ec170eaa6c30</webElementGuid>
+      <webElementGuid>14539d3b-dae6-4df1-bc39-e2031a01f3ad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

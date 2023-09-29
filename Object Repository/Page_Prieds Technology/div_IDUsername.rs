@@ -6,12 +6,12 @@
    <elementGuidId>e6375ff0-cab6-4ccb-acbb-f99e291e7d7d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/following::div[3]</value>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c165-0</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>div.mat-form-field-flex.ng-tns-c165-0</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/following::div[12]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>dc53de30-dba9-443b-8dab-2ca956bd081b</webElementGuid>
+      <webElementGuid>6291e10e-022b-4330-aa87-6d25c3e85ea8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-form-field-flex ng-tns-c165-0</value>
-      <webElementGuid>cb10e031-95bb-4e23-9af5-64b26de2d813</webElementGuid>
+      <value>mat-form-field-infix ng-tns-c165-0</value>
+      <webElementGuid>6f072b81-daf5-47c8-89bc-d7d3798cc87c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,63 +38,23 @@
       <name>text</name>
       <type>Main</type>
       <value>ID/Username</value>
-      <webElementGuid>be833463-70f3-4a0f-a0f3-8ddade06a12c</webElementGuid>
+      <webElementGuid>212e578a-8bb4-4f4e-aee5-8a140f07bdc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/app-root[1]/app-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;style-main&quot;]/div[@class=&quot;style-smallphone&quot;]/div[2]/div[1]/mat-card[@class=&quot;mat-card mat-focus-indicator main-box&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/div[@class=&quot;username-password-form&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c165-0 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c165-0&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c165-0&quot;]</value>
-      <webElementGuid>5fa6dfc8-f5cd-410c-b0cd-da02af0bf782</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/app-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;style-main&quot;]/div[@class=&quot;style-smallphone&quot;]/div[2]/div[1]/mat-card[@class=&quot;mat-card mat-focus-indicator main-box&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/div[@class=&quot;username-password-form&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c165-0 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c165-0&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c165-0&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c165-0&quot;]</value>
+      <webElementGuid>9050b7d1-d810-4434-81bb-04ae6608a422</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/following::div[3]</value>
-      <webElementGuid>d8ba7c65-2876-4605-a2ca-ebc9f4461e55</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='welcome!'])[1]/following::div[6]</value>
-      <webElementGuid>0fc4fba9-a6e2-4e34-8639-99b5b867f1b8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[21]</value>
-      <webElementGuid>0adf9926-74cd-4fc3-8cc5-128eb0336494</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//mat-form-field/div/div</value>
-      <webElementGuid>02154b84-7787-4e94-8dee-8a86a8951887</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[(text() = 'ID/Username' or . = 'ID/Username')]</value>
-      <webElementGuid>874ed250-3366-4fa0-bef6-b2206582df0e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/following::div[12]</value>
-      <webElementGuid>80fa662e-f269-4db6-8c91-4f93ac28a968</webElementGuid>
+      <webElementGuid>eb8d4c8a-d445-4210-84b8-37656083c0b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='welcome!'])[1]/following::div[15]</value>
-      <webElementGuid>f4cf2b7a-3569-46f4-b468-74739d601ddf</webElementGuid>
+      <webElementGuid>63fb83e3-9ce1-4ff6-ae21-3699f91f8500</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[12]</value>
-      <webElementGuid>9d405bd0-230a-4db9-b96a-bf1657c16c02</webElementGuid>
+      <webElementGuid>fbf2aa70-0e2f-4480-bce1-a54f6e0f1bee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +78,46 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]</value>
-      <webElementGuid>574a1424-8680-45fe-b8ba-6a8a9e942466</webElementGuid>
+      <webElementGuid>86b46843-3e76-49c8-a36f-60a066652f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ID/Username' or . = 'ID/Username')]</value>
+      <webElementGuid>5d47aad8-dcf2-43a5-b36e-4d027b718698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/following::div[3]</value>
+      <webElementGuid>e4bf5f14-8117-42e0-9f5d-294c61f681aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='welcome!'])[1]/following::div[6]</value>
+      <webElementGuid>a9a538f7-196d-4a8f-9f72-91945c59ba6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[21]</value>
+      <webElementGuid>d5ba02ff-9498-44f8-96ef-6e27f73b6e47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field/div/div</value>
+      <webElementGuid>f41422cf-eda8-4d7c-b259-139630ba0cc0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

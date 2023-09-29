@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>regist new cust but empty all field except tier</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f11c27e7-ca09-44ee-87cd-487097a8d845</testCaseGuid>
+</TestCaseEntity>

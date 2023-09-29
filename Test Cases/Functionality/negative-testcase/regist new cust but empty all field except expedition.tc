@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>regist new cust but empty all field except expedition</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe249783-17a8-477a-88b7-120c0f680384</testCaseGuid>
+</TestCaseEntity>

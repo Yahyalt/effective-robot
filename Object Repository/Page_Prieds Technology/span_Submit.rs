@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>d795dfdc-37ef-4e39-8289-e67262aefc93</webElementGuid>
+      <webElementGuid>d12802e2-a4e8-4ae5-911d-b6dbc77ce699</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-button-wrapper</value>
-      <webElementGuid>fddf344f-0dfe-4b2f-a556-f94228dc14fd</webElementGuid>
+      <webElementGuid>b2c20e08-57a4-413a-ab73-dbc97fb58f6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Submit </value>
-      <webElementGuid>d5028501-9774-4db0-91ce-41604c085fbf</webElementGuid>
+      <webElementGuid>22f0bcb5-30e3-401f-afda-633f89bc25bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;createcustomer-customerregister-customermanagementbutton-inputcustomerbiodata-createcustomer&quot;)/span[@class=&quot;mat-button-wrapper&quot;]</value>
-      <webElementGuid>9fcf2637-e146-43af-a79b-6ba5570ba0f0</webElementGuid>
+      <webElementGuid>bc1c874b-07d1-4342-afb3-28e889a6d319</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='createcustomer-customerregister-customermanagementbutton-inputcustomerbiodata-createcustomer']/span</value>
-      <webElementGuid>4054ed81-5917-4d91-987e-5750e1bde241</webElementGuid>
+      <webElementGuid>6c67b28c-7991-4454-a2c5-2e90724c4f15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Generate ID'])[1]/following::span[1]</value>
-      <webElementGuid>5d2ed8b1-4a47-455a-9df8-0f5566a00976</webElementGuid>
+      <webElementGuid>b1cbb452-8df1-46d1-b188-abceca93e9ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Support/Help'])[1]/preceding::span[1]</value>
-      <webElementGuid>8ec0c72b-fd9e-463c-9996-5d1836b4222c</webElementGuid>
+      <webElementGuid>db0d9208-4193-42a6-8da9-676651433fee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Language'])[1]/preceding::span[1]</value>
-      <webElementGuid>fc43b272-0a0b-406d-bd3f-8a7b92d7d237</webElementGuid>
+      <webElementGuid>3d31142a-5212-4182-ac6a-ec63cd8191bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Submit']/parent::*</value>
-      <webElementGuid>74c281e7-7a9a-4fa9-9d47-af694a8a1566</webElementGuid>
+      <webElementGuid>b4d0c92a-d665-4aa4-8053-136d8228b614</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/button[2]/span</value>
-      <webElementGuid>0a815fb1-dc7f-4a32-97d9-3c25d165c815</webElementGuid>
+      <webElementGuid>36be54a4-44ee-4cbc-a116-fba0ab6b88fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' Submit ' or . = ' Submit ')]</value>
-      <webElementGuid>d347745e-1d5d-4712-8236-8a42996cda7b</webElementGuid>
+      <webElementGuid>d709bc49-1828-4020-934c-7d58b38b6c5d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

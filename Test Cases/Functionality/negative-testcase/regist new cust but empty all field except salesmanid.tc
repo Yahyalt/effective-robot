@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>regist new cust but empty all field except salesmanid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec85fc5a-6aa6-4f8d-801d-a2026b45e9b7</testCaseGuid>
+</TestCaseEntity>

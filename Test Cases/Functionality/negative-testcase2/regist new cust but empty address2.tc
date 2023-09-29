@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>regist new cust but empty address2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1d25910-662e-44f4-8c9c-398e627b1bfd</testCaseGuid>
+</TestCaseEntity>

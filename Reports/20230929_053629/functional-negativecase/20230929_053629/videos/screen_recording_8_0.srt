@@ -1,0 +1,28 @@
+1
+00:00:00,228 --> 00:00:00,229
+1. randomText = "umkm-redundant-" + RandomStringUtils.randomAlphanumeric(5)
+
+2
+00:00:00,229 --> 00:00:01,375
+5. openBrowser("")
+
+3
+00:00:01,376 --> 00:00:19,599
+9. navigateToUrl("https://sandbox.product.prieds.com/")
+
+4
+00:00:19,600 --> 00:00:20,326
+13. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2")
+
+5
+00:00:20,328 --> 00:00:20,790
+17. setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g==")
+
+6
+00:00:20,791 --> 00:00:21,155
+21. click(findTestObject("Object Repository/Page_Prieds Technology/button_Login"))
+
+7
+00:00:21,155 --> 00:00:57,894
+25. click(findTestObject("Object Repository/Page_Prieds Technology/div_Master"))
+

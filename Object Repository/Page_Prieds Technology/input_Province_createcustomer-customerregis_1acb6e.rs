@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b3da35e6-638b-4858-8456-808a6053416c</webElementGuid>
+      <webElementGuid>1341b42c-82ee-4414-ae4e-710de75c902e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Expedition</value>
-      <webElementGuid>3a50636c-f00f-4520-a8e6-034e35ac1ccb</webElementGuid>
+      <webElementGuid>b5b69ba5-eef4-4915-a46a-73f83cdd80b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-input-element mat-form-field-autofill-control mat-autocomplete-trigger ng-tns-c165-55 cdk-text-field-autofill-monitored ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>8fadeac8-a9d0-4b47-bdf2-dc52243535a5</webElementGuid>
+      <value>mat-input-element mat-form-field-autofill-control mat-autocomplete-trigger ng-tns-c165-58 cdk-text-field-autofill-monitored ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>b0d4d268-3ae3-4793-8b6a-eefbf733aecd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>createcustomer-customerregister-customermanagementinput-preferedexpedition-createcustomer</value>
-      <webElementGuid>82f4900e-a0c9-4fbd-b995-a64d40424ed2</webElementGuid>
+      <webElementGuid>5909e4f7-ea37-43a1-a453-2a21ea852046</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b5e9c920-793d-4fbc-9ee1-f0104622b540</webElementGuid>
+      <webElementGuid>30a1ebc7-7d5d-4d70-802e-682d18e7fdd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>efa4cca1-e110-41aa-84ea-5374baba6fbc</webElementGuid>
+      <webElementGuid>8513056f-db4f-4f1d-9657-507e501ce7ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>30ef7b7e-e2b5-40b0-8607-560371729142</webElementGuid>
+      <webElementGuid>b83cf6db-35cd-4502-8006-bd2c630f2c2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>c645a3d8-f24f-4307-bc18-40651a1125d1</webElementGuid>
+      <webElementGuid>174a9ce9-ff50-4af7-b7ef-4576d26998f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>3b48d4a1-9076-4545-9846-1550fe34142f</webElementGuid>
+      <webElementGuid>6ba482e2-d75a-407c-9003-3bfb62aa6de5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>70561ac0-85d1-4ece-9567-faafb138001c</webElementGuid>
+      <webElementGuid>3607527f-4c42-4703-8de4-17b96df1ba47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c8bd2599-912d-429a-a7ea-36ad7494b8b9</webElementGuid>
+      <webElementGuid>a3becdcc-c6f0-4484-aa9b-8b6ae5a2a56c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;createcustomer-customerregister-customermanagementinput-preferedexpedition-createcustomer&quot;)</value>
-      <webElementGuid>d7a4da1f-975b-49e1-a7e7-e3737c6ffcbd</webElementGuid>
+      <webElementGuid>6ecdf042-d92a-48e7-80f3-60e0a8878483</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='createcustomer-customerregister-customermanagementinput-preferedexpedition-createcustomer']</value>
-      <webElementGuid>8e14898d-2038-406d-b457-91495ad14ab0</webElementGuid>
+      <webElementGuid>7233f45d-5548-4e73-94a3-1fbb19a2432b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-tab-body[@id='mat-tab-content-0-1']/div/app-create-customer/div/mat-card/mat-card-content/div[2]/div[2]/mat-form-field[6]/div/div/div[3]/input</value>
-      <webElementGuid>25baf0d1-ecbf-478c-9855-a2994506be50</webElementGuid>
+      <webElementGuid>eb705285-74a9-44f2-95d6-3e824d677221</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/mat-form-field[6]/div/div/div[3]/input</value>
-      <webElementGuid>3e468809-fa9e-4d19-a517-804ac1f689fb</webElementGuid>
+      <webElementGuid>2020b520-c41b-4e00-8dad-adf821a49dac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Expedition' and @id = 'createcustomer-customerregister-customermanagementinput-preferedexpedition-createcustomer']</value>
-      <webElementGuid>5fb817e3-8ec1-4297-b2d4-54570f71d029</webElementGuid>
+      <webElementGuid>56acf879-f08f-4265-a60f-bd34d21bb586</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

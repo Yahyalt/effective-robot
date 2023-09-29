@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>0f7e791a-2119-4337-9f2c-9aff1a8bc420</webElementGuid>
+      <webElementGuid>089188e8-db90-4c43-9d98-71aa520760a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-option-text</value>
-      <webElementGuid>adf7a0c7-c8c6-4acd-bf36-049e55758448</webElementGuid>
+      <webElementGuid>6f0fdfce-2494-4c74-994e-44a45a6934a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> REYNER </value>
-      <webElementGuid>c5f6f148-9b72-47c6-8dff-af7eb51d1567</webElementGuid>
+      <webElementGuid>06fcf2be-9f5c-43c1-bda2-590ac588c272</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;createcustomer-customerregister-customermanagementREYNERmatoption-salesmanid-createcustomer&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
-      <webElementGuid>f461509c-4675-4e66-8386-a4119cd88ccd</webElementGuid>
+      <webElementGuid>0216784e-6502-4e51-8b6d-7fe47db1c3d3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-option[@id='createcustomer-customerregister-customermanagementREYNERmatoption-salesmanid-createcustomer']/span</value>
-      <webElementGuid>6d1b9df6-7486-4c72-9a00-3eb8f783b8e0</webElementGuid>
+      <webElementGuid>260654c8-70f2-4169-9d23-4d113f0a670d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ACCURATE'])[1]/following::span[1]</value>
-      <webElementGuid>7c4b3a9c-2de7-4881-9fd2-ee03bb9b3a13</webElementGuid>
+      <webElementGuid>c18bbd09-0607-4744-8c56-c17095a6b67e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::span[2]</value>
-      <webElementGuid>dc7af5a3-6ab1-4b2c-9037-776c48c68d96</webElementGuid>
+      <webElementGuid>a457fc5d-692f-4d98-bba4-76b7f5e0168d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Support/Help'])[1]/preceding::span[1]</value>
-      <webElementGuid>f5ffc129-827d-4316-8e6b-5e3057680f8a</webElementGuid>
+      <webElementGuid>b7a6ec91-ddc6-4dde-946d-f8804b786632</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Language'])[1]/preceding::span[1]</value>
-      <webElementGuid>4bf45563-d23a-4a2d-9a4d-5dfad95dc188</webElementGuid>
+      <webElementGuid>cd038821-7cf1-450d-8349-634b3cb396b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='REYNER']/parent::*</value>
-      <webElementGuid>c559e695-0b9a-4b19-80ed-b87b3e5f5d96</webElementGuid>
+      <webElementGuid>eb0204d1-7816-4f2d-957a-9dbda5bab26a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-option[2]/span</value>
-      <webElementGuid>ed502eec-9818-45cf-8f67-60c37ad451ae</webElementGuid>
+      <webElementGuid>6ef1d164-43f0-49c7-851a-40db3ce6bdbb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' REYNER ' or . = ' REYNER ')]</value>
-      <webElementGuid>bb74e8c8-99fa-48ce-95ee-2aa3b59c6208</webElementGuid>
+      <webElementGuid>727c14fe-35f4-49bf-8ace-ed900a7789e8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

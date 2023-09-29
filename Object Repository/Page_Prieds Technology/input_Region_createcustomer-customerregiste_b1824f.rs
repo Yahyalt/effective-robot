@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>32898aed-fd0b-4e26-8cb8-6e2a302709d2</webElementGuid>
+      <webElementGuid>c815ae28-7903-4285-a9bb-813eca599200</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Province</value>
-      <webElementGuid>51217814-a248-4641-8903-2eefc1d19773</webElementGuid>
+      <webElementGuid>5028a0f8-390f-46f5-9bae-7059a781fda0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-input-element mat-form-field-autofill-control ng-tns-c165-54 cdk-text-field-autofill-monitored ng-untouched ng-valid ng-dirty</value>
-      <webElementGuid>64addb92-b208-42b4-9255-1d0d278267d0</webElementGuid>
+      <value>mat-input-element mat-form-field-autofill-control ng-tns-c165-52 cdk-text-field-autofill-monitored ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>69da52fc-16cb-46ac-84ba-784fe7f979f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>createcustomer-customerregister-customermanagementinput-province-createcustomer</value>
-      <webElementGuid>4c6ac84d-13ca-4cdf-b326-417a8b175330</webElementGuid>
+      <webElementGuid>d9b6d76a-83e3-4f92-9c12-ee38445de843</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1cf88abd-b0b4-4ba7-91da-b52de48ceeeb</webElementGuid>
+      <webElementGuid>26d56715-fd16-4865-a0f7-3b41f428a5e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>644d1af6-5d7b-4d37-bbc3-b61a21b1abd5</webElementGuid>
+      <webElementGuid>b06cfaa2-2a31-4fe9-8c05-b69753771631</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;createcustomer-customerregister-customermanagementinput-province-createcustomer&quot;)</value>
-      <webElementGuid>a1c62e98-8dec-4991-a1fc-d3bd938f4be9</webElementGuid>
+      <webElementGuid>48c97903-b790-425e-b9d8-1bb93dc8b19f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='createcustomer-customerregister-customermanagementinput-province-createcustomer']</value>
-      <webElementGuid>bc2d1d45-beda-4de1-a9d6-af5194931e2e</webElementGuid>
+      <webElementGuid>f0846f11-25bd-4921-a915-0075e76d5643</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-tab-body[@id='mat-tab-content-0-1']/div/app-create-customer/div/mat-card/mat-card-content/div[2]/div[2]/mat-form-field[5]/div/div/div[3]/input</value>
-      <webElementGuid>cc63064d-f8b7-4321-9278-8e28416738fc</webElementGuid>
+      <webElementGuid>51295a89-c900-45e7-9e59-abd92e8e810c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/mat-form-field[5]/div/div/div[3]/input</value>
-      <webElementGuid>bf12efd0-3bd4-4127-aab7-7d407a9495e1</webElementGuid>
+      <webElementGuid>5531af84-d8e4-438c-8e1d-ac94c28024fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Province' and @id = 'createcustomer-customerregister-customermanagementinput-province-createcustomer']</value>
-      <webElementGuid>b8f5bc63-dfbe-4be4-aad2-81880d981e85</webElementGuid>
+      <webElementGuid>1c834177-dd81-4cc6-9b33-0ec0ed2ee26a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

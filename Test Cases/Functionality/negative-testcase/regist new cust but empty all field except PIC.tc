@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>regist new cust but empty all field except PIC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21287fd4-07a6-4814-8574-753db2f311c4</testCaseGuid>
+</TestCaseEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e4fddb74-1667-436c-9e9a-e289ebbc9319</webElementGuid>
+      <webElementGuid>4a3df616-066a-457b-bdae-a55b4f98ade9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-button-wrapper</value>
-      <webElementGuid>dc740b20-1710-4ae1-a6a1-1c4fc8827810</webElementGuid>
+      <webElementGuid>6eec0b8f-1833-4866-a5b6-14b0b358ed75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Generate ID </value>
-      <webElementGuid>0cbf99d7-4e51-4e34-ab7f-6b6ab2bd27f5</webElementGuid>
+      <webElementGuid>ac5e44c6-814a-497d-9092-dd7a0d55421b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;createcustomer-customerregister-customermanagementbutton-generatecustomerid-createcustomer&quot;)/span[@class=&quot;mat-button-wrapper&quot;]</value>
-      <webElementGuid>0dfa9346-8e24-4393-9550-48086c696bd4</webElementGuid>
+      <webElementGuid>d3b7cc38-52fc-442f-858f-2271773f91a9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='createcustomer-customerregister-customermanagementbutton-generatecustomerid-createcustomer']/span</value>
-      <webElementGuid>cb1aa14b-313b-4a1a-8e45-7e7b0761de02</webElementGuid>
+      <webElementGuid>930cae85-84e3-44c7-915a-65800d2c1a85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Max file size 3Mb. Please upload file with example .jpg .jpeg .png and .pdf format'])[1]/following::span[3]</value>
-      <webElementGuid>64b2cb66-231c-45c7-9dc4-ebba0454c180</webElementGuid>
+      <webElementGuid>abf80804-a557-41e3-a5ab-7e900dd27e7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::span[1]</value>
-      <webElementGuid>e8a675a0-d042-4056-9dc4-962f9c202229</webElementGuid>
+      <webElementGuid>ec2d61b8-397e-450f-8b0f-2fe1202e192b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Support/Help'])[1]/preceding::span[2]</value>
-      <webElementGuid>3a9ee8b4-f7b2-4607-841d-6428101eee3a</webElementGuid>
+      <webElementGuid>3a0a0229-04c4-4b73-b5bb-6f9018f07aa7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Generate ID']/parent::*</value>
-      <webElementGuid>350b7fe0-c2b8-4af0-bdea-f9a809af4679</webElementGuid>
+      <webElementGuid>899522ed-56b1-4a4a-b0e7-4889bcecb02a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/button/span</value>
-      <webElementGuid>9ce1f8cf-6d85-4513-a927-689d69313fc9</webElementGuid>
+      <webElementGuid>284a7bb2-004e-44fc-b0db-2bef95697170</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' Generate ID ' or . = ' Generate ID ')]</value>
-      <webElementGuid>5b740aa4-de21-42a1-acd7-231c5b5a0713</webElementGuid>
+      <webElementGuid>9b4ebacc-f0a4-444d-b39e-367fd1e2470b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

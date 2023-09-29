@@ -1,0 +1,56 @@
+1
+00:00:00,214 --> 00:00:00,214
+1. randomText = RandomStringUtils.randomNumeric(3)
+
+2
+00:00:00,215 --> 00:00:01,351
+5. openBrowser("")
+
+3
+00:00:01,353 --> 00:00:13,429
+9. navigateToUrl("https://sandbox.product.prieds.com/")
+
+4
+00:00:13,430 --> 00:00:14,152
+13. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2")
+
+5
+00:00:14,152 --> 00:00:14,538
+17. setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g==")
+
+6
+00:00:14,538 --> 00:00:14,912
+21. click(findTestObject("Object Repository/Page_Prieds Technology/button_Login"))
+
+7
+00:00:14,914 --> 00:00:28,732
+25. click(findTestObject("Object Repository/Page_Prieds Technology/div_Master"))
+
+8
+00:00:28,733 --> 00:00:29,441
+29. click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management"))
+
+9
+00:00:29,442 --> 00:00:34,056
+33. click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register"))
+
+10
+00:00:34,056 --> 00:00:35,776
+37. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Remark_createcustomer-customerregiste_e3ba5d"), "08." + randomText + ".554.2-123." + randomText)
+
+11
+00:00:35,776 --> 00:00:36,151
+41. click(findTestObject("Object Repository/Page_Prieds Technology/span_Submit"))
+
+12
+00:00:36,152 --> 00:00:36,619
+45. verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a"))
+
+13
+00:00:36,620 --> 00:00:36,958
+49. verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu"))
+
+14
+00:00:36,959 --> 00:00:37,647
+53. closeBrowser()
+

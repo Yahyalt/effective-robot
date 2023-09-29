@@ -15,21 +15,21 @@
       <guid>6259e2cb-aa4e-4730-9bb6-d84a8dadc88c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Functionality/register new customer</testCaseId>
+      <testCaseId>Test Cases/Functionality/positive-testcase/register new customer</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>f81b6de6-48a2-4615-9bc9-58d230d12dcf</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Functionality/search customer</testCaseId>
+      <testCaseId>Test Cases/Functionality/positive-testcase/search customer</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>e47fa02d-7fa6-457d-8e33-a6bcd3ff13ee</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Functionality/update customer</testCaseId>
+      <testCaseId>Test Cases/Functionality/positive-testcase/update customer</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

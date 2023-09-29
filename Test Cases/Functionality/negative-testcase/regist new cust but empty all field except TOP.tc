@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>regist new cust but empty all field except TOP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e17c008c-1881-4c8c-8ee4-71487aaf096a</testCaseGuid>
+</TestCaseEntity>

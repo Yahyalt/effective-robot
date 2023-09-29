@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Prieds Technology/span_Yes",
+      "brokenLocator": "//button[@id\u003d\u0027button-yes-confirmmodal\u0027]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Support/Help\u0027])[1]/preceding::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230929_072300/functional-negativecase2/20230929_072301/Object Repository/Page_Prieds Technology/span_Yes_neighbor.png"
+    }
+  ]
+}

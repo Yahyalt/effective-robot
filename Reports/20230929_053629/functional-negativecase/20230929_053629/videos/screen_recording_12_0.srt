@@ -1,0 +1,64 @@
+1
+00:00:00,234 --> 00:00:01,390
+1. openBrowser("")
+
+2
+00:00:01,391 --> 00:00:17,110
+5. navigateToUrl("https://sandbox.product.prieds.com/")
+
+3
+00:00:17,110 --> 00:00:17,742
+9. click(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"))
+
+4
+00:00:17,743 --> 00:00:18,126
+13. click(findTestObject("Object Repository/Page_Prieds Technology/img_Hello,_style-people"))
+
+5
+00:00:18,126 --> 00:00:18,487
+17. click(findTestObject("Object Repository/Page_Prieds Technology/div_IDUsername"))
+
+6
+00:00:18,487 --> 00:00:19,173
+21. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2")
+
+7
+00:00:19,173 --> 00:00:19,596
+25. setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g==")
+
+8
+00:00:19,597 --> 00:00:19,963
+29. click(findTestObject("Object Repository/Page_Prieds Technology/span_Login"))
+
+9
+00:00:19,963 --> 00:00:50,206
+33. click(findTestObject("Object Repository/Page_Prieds Technology/div_Master"))
+
+10
+00:00:50,206 --> 00:00:50,923
+37. click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management"))
+
+11
+00:00:50,924 --> 00:00:53,960
+41. click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Register"))
+
+12
+00:00:53,961 --> 00:00:54,578
+45. click(findTestObject("Object Repository/Page_Prieds Technology/span_Salesman ID"))
+
+13
+00:00:54,580 --> 00:00:55,406
+49. click(findTestObject("Object Repository/Page_Prieds Technology/span_ACCURATE"))
+
+14
+00:00:55,406 --> 00:00:56,539
+53. click(findTestObject("Object Repository/Page_Prieds Technology/button_Submit"))
+
+15
+00:00:56,539 --> 00:00:57,095
+57. verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img_concat(id(, , -img-snackbar, , ))_-img-_6a7c1a"))
+
+16
+00:00:57,097 --> 00:00:57,966
+61. verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Mohon Isi Customer ID Terlebih Dahulu"))
+

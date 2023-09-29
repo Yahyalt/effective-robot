@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>regist new cust but empty all field except region</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e41b6b86-75ed-4ac5-b835-d55f2adfc32e</testCaseGuid>
+</TestCaseEntity>

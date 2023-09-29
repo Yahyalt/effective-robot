@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>30b28de2-2d0d-4b2e-aa33-79f360d2ea26</webElementGuid>
+      <webElementGuid>baa42c25-004f-4650-bb52-9988b34516a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Master </value>
-      <webElementGuid>77a846f8-fba5-4196-9034-52e46aa5b858</webElementGuid>
+      <webElementGuid>bd12e97f-b941-4917-ad92-7d45d9a041b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Master&quot;)/span[@class=&quot;mat-button-wrapper&quot;]/div[1]/div[@class=&quot;menu-title-transition&quot;]/div[1]</value>
-      <webElementGuid>00418894-f527-409f-85bd-c303806dcc27</webElementGuid>
+      <webElementGuid>4abe2e34-4fd0-4b75-9b67-f30edb11a251</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='Master']/span/div/div/div</value>
-      <webElementGuid>22c1ed8c-8739-4fed-93bd-152f7b88a2f9</webElementGuid>
+      <webElementGuid>e6bdc5cf-d815-45c5-a690-fdc09d6ed491</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Warehouse'])[1]/following::div[5]</value>
-      <webElementGuid>0d8b1112-1214-45ea-91b6-25670e6fa466</webElementGuid>
+      <webElementGuid>d509ff12-3f7e-4c62-a5e5-e84e33f7a24a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales'])[1]/following::div[10]</value>
-      <webElementGuid>71f52803-e153-40be-b3fe-0218861491f5</webElementGuid>
+      <webElementGuid>d24f9ccb-e0d3-4001-a1a9-3f959436a23c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchasing'])[1]/preceding::div[4]</value>
-      <webElementGuid>ab1192fe-73b5-4d81-9bae-3cba564447d3</webElementGuid>
+      <webElementGuid>4456ab44-4e91-40da-8104-b731fca8e1b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounting'])[1]/preceding::div[9]</value>
-      <webElementGuid>d3b89aa8-aa95-4036-bfcd-0067af47a842</webElementGuid>
+      <webElementGuid>2c4b2379-6a9a-41ab-bb26-8d6f2c7b15c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Master']/parent::*</value>
-      <webElementGuid>8db14234-e0da-46a3-a067-018ef6b4e0ac</webElementGuid>
+      <webElementGuid>2b053ab1-b12a-4ac7-84aa-0bb3345f9560</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-menu-element[3]/button/span/div/div/div</value>
-      <webElementGuid>0845a03b-1d53-48ee-9cd6-066f21778d5d</webElementGuid>
+      <webElementGuid>5041fd9b-d69c-4158-ba03-2f7edf66f4a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' Master ' or . = ' Master ')]</value>
-      <webElementGuid>04bb098b-a853-428a-9b54-8cac232729e9</webElementGuid>
+      <webElementGuid>abb8102d-f29d-4ab3-9ced-e44a50f1e009</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
