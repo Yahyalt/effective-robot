@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Items per page 50 1  50 of 199</name>
+   <tag></tag>
+   <elementGuidId>81a3ba63-5d90-415f-94ca-2f50af6e3b50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-paginator-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-paginator[@id='paginatorstandalone-component']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c6f13d0c-38ca-43ef-8205-480fa8b0a6d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-paginator-container</value>
+      <webElementGuid>cf3a3a75-2f8c-435b-8e2b-5edeaa260d79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Items per page: 50 1 – 50 of 199 </value>
+      <webElementGuid>02370ba6-3bca-4b61-a6c5-fb41051446d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paginatorstandalone-component&quot;)/div[@class=&quot;mat-paginator-outer-container&quot;]/div[@class=&quot;mat-paginator-container&quot;]</value>
+      <webElementGuid>eca63628-122c-4694-a820-9c4714f6ea56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-paginator[@id='paginatorstandalone-component']/div/div</value>
+      <webElementGuid>36d59308-b6a3-4bf8-bf92-029feac5114d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::div[8]</value>
+      <webElementGuid>6000530d-7f98-4934-b645-9007e02e0f60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer ID'])[2]/preceding::div[24]</value>
+      <webElementGuid>197506e7-fa10-4864-8caa-cc273f5a44d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-paginator/div/div</value>
+      <webElementGuid>ebd39889-c63e-4a44-8d3e-c42cbaa9f1e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Items per page: 50 1 – 50 of 199 ' or . = ' Items per page: 50 1 – 50 of 199 ')]</value>
+      <webElementGuid>8223e731-bd24-429e-97bc-e0e8104d9978</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

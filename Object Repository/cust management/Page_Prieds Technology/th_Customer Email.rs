@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Customer Email</name>
+   <tag></tag>
+   <elementGuidId>715a245d-3a3b-4fe7-8bcc-1e775493271a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>th.mat-header-cell.cdk-header-cell.cdk-column-email.mat-column-email.mat-table-sticky.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='table-customelist-customermanagement']/thead/tr/th[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>31fba04f-9210-4758-9e60-8f15ca213b6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>columnheader</value>
+      <webElementGuid>5ff18fd5-e8e6-4ca0-808c-efb037b7edf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-header-cell cdk-header-cell cdk-column-email mat-column-email mat-table-sticky ng-star-inserted</value>
+      <webElementGuid>51e913b7-bb47-4841-ac34-68e3346aa9fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Customer Email </value>
+      <webElementGuid>05d123e1-5325-4b46-b1f2-2cfaff36d5c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table-customelist-customermanagement&quot;)/thead[1]/tr[@class=&quot;mat-header-row cdk-header-row ng-star-inserted&quot;]/th[@class=&quot;mat-header-cell cdk-header-cell cdk-column-email mat-column-email mat-table-sticky ng-star-inserted&quot;]</value>
+      <webElementGuid>3fda13c3-525f-4c06-bf6b-fcacc1ee509f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table-customelist-customermanagement']/thead/tr/th[4]</value>
+      <webElementGuid>65ce94e6-0eb1-41e2-b646-ae704b3f6778</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PIC'])[1]/following::th[1]</value>
+      <webElementGuid>b2afe5b4-5a9b-466c-8194-e6f9e188a76f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Name'])[2]/following::th[2]</value>
+      <webElementGuid>2e63a129-8f47-4736-bd1b-725309efcda3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/preceding::th[1]</value>
+      <webElementGuid>739af481-fe61-442f-9705-df0456e520d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salesman ID'])[1]/preceding::th[2]</value>
+      <webElementGuid>5780b0b1-a603-419e-b6a9-7deadeda741e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Customer Email']/parent::*</value>
+      <webElementGuid>bcb8a793-45f3-42f9-9bed-bada3ac94391</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[4]</value>
+      <webElementGuid>60778a7f-5a5d-4392-8e0f-62f6fa09d658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = ' Customer Email ' or . = ' Customer Email ')]</value>
+      <webElementGuid>05efc2bb-fd34-43fb-901f-ebc805bff143</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

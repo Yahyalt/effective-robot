@@ -1,0 +1,24 @@
+1
+00:00:00,272 --> 00:00:02,179
+1. openBrowser("")
+
+2
+00:00:02,179 --> 00:01:09,500
+5. navigateToUrl("https://sandbox.product.prieds.com/")
+
+3
+00:01:09,501 --> 00:01:10,278
+9. setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2")
+
+4
+00:01:10,279 --> 00:01:10,782
+13. setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g==")
+
+5
+00:01:10,783 --> 00:01:11,228
+17. click(findTestObject("Object Repository/Page_Prieds Technology/button_Login"))
+
+6
+00:01:11,229 --> 00:01:47,326
+21. verifyElementVisible(findTestObject("dashboard/Page_Prieds Technology/button_account_balance Accounting"))
+

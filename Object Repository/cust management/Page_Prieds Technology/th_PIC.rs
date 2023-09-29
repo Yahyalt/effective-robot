@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_PIC</name>
+   <tag></tag>
+   <elementGuidId>9c553aed-a55e-4374-977e-ddde6c616ed5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>th.mat-header-cell.cdk-header-cell.cdk-column-pic.mat-column-pic.mat-table-sticky.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='table-customelist-customermanagement']/thead/tr/th[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>eebe0f6b-88a3-4b27-b629-7180f979182b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>columnheader</value>
+      <webElementGuid>2c7a866c-d7e8-43c9-b6f6-77e2e666efca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-header-cell cdk-header-cell cdk-column-pic mat-column-pic mat-table-sticky ng-star-inserted</value>
+      <webElementGuid>4cf7c607-94a0-4738-8e2d-334266d91d1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> PIC </value>
+      <webElementGuid>12a12c39-b2f5-4e8f-863c-e49532acbad5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table-customelist-customermanagement&quot;)/thead[1]/tr[@class=&quot;mat-header-row cdk-header-row ng-star-inserted&quot;]/th[@class=&quot;mat-header-cell cdk-header-cell cdk-column-pic mat-column-pic mat-table-sticky ng-star-inserted&quot;]</value>
+      <webElementGuid>b61c3a5c-b44f-44ec-b419-f228f613192f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table-customelist-customermanagement']/thead/tr/th[3]</value>
+      <webElementGuid>493496ff-d3e4-4121-ac62-9cc061b62c8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Name'])[2]/following::th[1]</value>
+      <webElementGuid>7bb4f384-d3e8-4f80-97d0-95adf1ce04a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer ID'])[2]/following::th[2]</value>
+      <webElementGuid>2a85f666-db95-4e38-8562-1ad030020a90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Email'])[1]/preceding::th[1]</value>
+      <webElementGuid>9f35d017-2f22-4013-8d3c-a1d70be754af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/preceding::th[2]</value>
+      <webElementGuid>0b20094d-c48e-423c-9769-17e922038071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PIC']/parent::*</value>
+      <webElementGuid>2985fc4f-f97a-4e4b-8fe2-97257534489a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]</value>
+      <webElementGuid>9017bd0d-e892-41e3-b7ef-5483971a4e1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = ' PIC ' or . = ' PIC ')]</value>
+      <webElementGuid>860eddf5-12f9-4ff6-9f9d-09f0c5615327</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

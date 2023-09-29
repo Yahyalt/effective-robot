@@ -1,0 +1,59 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+user interface,Chrome 117.0.0.0,,,2023-09-29 08:17:40,2023-09-29 08:28:48,11m - 7.792s,FAILED
+,,,,,,,
+Test Cases/User Interface/Login page,Chrome 117.0.0.0,to make sure login page load properly,,2023-09-29 08:17:40,2023-09-29 08:19:16,1m - 35.772s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 08:17:41,2023-09-29 08:17:43,2.428s,PASSED
+"navigateToUrl(""https://sandbox.product.prieds.com/"")",Chrome 117.0.0.0,,,2023-09-29 08:17:43,2023-09-29 08:18:34,50.666s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Hello,welcomeSign InIDUsernamePasswordv_1847fc""))",Chrome 117.0.0.0,,,2023-09-29 08:18:34,2023-09-29 08:18:34,0.417s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/img_Hello,_style-people""))",Chrome 117.0.0.0,,,2023-09-29 08:18:34,2023-09-29 08:18:35,0.389s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_No Data_cdk-overlay-backdrop cdk-overla_66c7c7""))",Chrome 117.0.0.0,,,2023-09-29 08:18:35,2023-09-29 08:19:10,35.040s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/label_Hello,""))",Chrome 117.0.0.0,,,2023-09-29 08:19:10,2023-09-29 08:19:10,0.341s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/label_welcome""))",Chrome 117.0.0.0,,,2023-09-29 08:19:10,2023-09-29 08:19:10,0.345s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Hello,welcome""))",Chrome 117.0.0.0,,,2023-09-29 08:19:10,2023-09-29 08:19:11,0.339s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/img""))",Chrome 117.0.0.0,,,2023-09-29 08:19:11,2023-09-29 08:19:11,0.344s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Sign InIDUsernamePasswordvisibility_off_fea716""))",Chrome 117.0.0.0,,,2023-09-29 08:19:11,2023-09-29 08:19:11,0.362s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/mat-card_Sign InIDUsernamePasswordvisibilit_57b472""))",Chrome 117.0.0.0,,,2023-09-29 08:19:11,2023-09-29 08:19:12,0.341s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/label_Sign In""))",Chrome 117.0.0.0,,,2023-09-29 08:19:12,2023-09-29 08:19:12,0.345s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_IDUsername""))",Chrome 117.0.0.0,,,2023-09-29 08:19:12,2023-09-29 08:19:12,0.358s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Password""))",Chrome 117.0.0.0,,,2023-09-29 08:19:12,2023-09-29 08:19:13,0.341s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/button_Login""))",Chrome 117.0.0.0,,,2023-09-29 08:19:13,2023-09-29 08:19:13,0.364s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/div_Version 0.1.119""))",Chrome 117.0.0.0,,,2023-09-29 08:19:13,2023-09-29 08:19:13,0.358s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Prieds Technology/label_Need an Account Sign Up""))",Chrome 117.0.0.0,,,2023-09-29 08:19:13,2023-09-29 08:19:14,0.359s,PASSED
+Video,Chrome 117.0.0.0,,,2023-09-29 08:19:16,2023-09-29 08:19:16,0.001s,PASSED
+,,,,,,,
+Test Cases/User Interface/Dashboard page,Chrome 117.0.0.0,,,2023-09-29 08:24:43,2023-09-29 08:26:58,2m - 14.901s,FAILED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 08:24:43,2023-09-29 08:24:45,1.969s,PASSED
+"navigateToUrl(""https://sandbox.product.prieds.com/"")",Chrome 117.0.0.0,,,2023-09-29 08:24:45,2023-09-29 08:26:18,1m - 33.661s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""), ""testingwmslite2"")",Chrome 117.0.0.0,,,2023-09-29 08:26:18,2023-09-29 08:26:19,0.781s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Prieds Technology/input_IDUsername_password""), ""U8NeUUalMC6sqe9eTsnb2g=="")",Chrome 117.0.0.0,,,2023-09-29 08:26:19,2023-09-29 08:26:19,0.426s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/button_Login""))",Chrome 117.0.0.0,,,2023-09-29 08:26:19,2023-09-29 08:26:20,0.395s,PASSED
+"verifyElementVisible(findTestObject(""dashboard/Page_Prieds Technology/button_account_balance Accounting""))",Chrome 117.0.0.0,,,2023-09-29 08:26:20,2023-09-29 08:26:55,35.536s,FAILED
+Video,Chrome 117.0.0.0,,,2023-09-29 08:26:58,2023-09-29 08:26:58,0.001s,PASSED
+,,,,,,,
+Test Cases/User Interface/customer management page,Chrome 117.0.0.0,,,2023-09-29 08:26:58,2023-09-29 08:28:48,1m - 50.175s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 08:26:58,2023-09-29 08:27:00,1.924s,PASSED
+"navigateToUrl(""https://sandbox.product.prieds.com/"")",Chrome 117.0.0.0,,,2023-09-29 08:27:00,2023-09-29 08:27:46,45.942s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""))",Chrome 117.0.0.0,,,2023-09-29 08:27:46,2023-09-29 08:27:46,0.416s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/img_Hello,_style-people""))",Chrome 117.0.0.0,,,2023-09-29 08:27:46,2023-09-29 08:27:46,0.356s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_IDUsername""))",Chrome 117.0.0.0,,,2023-09-29 08:27:46,2023-09-29 08:27:47,0.397s,PASSED
+"setText(findTestObject(""Object Repository/Page_Prieds Technology/input_Sign In_username""), ""testingwmslite2"")",Chrome 117.0.0.0,,,2023-09-29 08:27:47,2023-09-29 08:27:48,0.795s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Prieds Technology/input_IDUsername_password""), ""U8NeUUalMC6sqe9eTsnb2g=="")",Chrome 117.0.0.0,,,2023-09-29 08:27:48,2023-09-29 08:27:48,0.531s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/span_Login""))",Chrome 117.0.0.0,,,2023-09-29 08:27:48,2023-09-29 08:27:49,0.476s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Master""))",Chrome 117.0.0.0,,,2023-09-29 08:27:49,2023-09-29 08:28:19,30.498s,PASSED
+"click(findTestObject(""Object Repository/Page_Prieds Technology/div_Customer Management""))",Chrome 117.0.0.0,,,2023-09-29 08:28:19,2023-09-29 08:28:20,0.710s,PASSED
+"verifyElementVisible(findTestObject(""cust management/Page_Prieds Technology/button_Download  expand_more""))",Chrome 117.0.0.0,,,2023-09-29 08:28:20,2023-09-29 08:28:41,21.047s,PASSED
+"verifyElementVisible(findTestObject(""cust management/Page_Prieds Technology/button_Search""))",Chrome 117.0.0.0,,,2023-09-29 08:28:41,2023-09-29 08:28:41,0.343s,PASSED
+"verifyElementVisible(findTestObject(""cust management/Page_Prieds Technology/div_Customer ID""))",Chrome 117.0.0.0,,,2023-09-29 08:28:41,2023-09-29 08:28:42,0.336s,PASSED
+"verifyElementVisible(findTestObject(""cust management/Page_Prieds Technology/div_Customer List""))",Chrome 117.0.0.0,,,2023-09-29 08:28:42,2023-09-29 08:28:42,0.340s,PASSED
+"verifyElementVisible(findTestObject(""cust management/Page_Prieds Technology/div_Customer Name""))",Chrome 117.0.0.0,,,2023-09-29 08:28:42,2023-09-29 08:28:42,0.327s,PASSED
+"verifyElementVisible(findTestObject(""cust management/Page_Prieds Technology/div_Customer Register""))",Chrome 117.0.0.0,,,2023-09-29 08:28:42,2023-09-29 08:28:43,0.328s,PASSED
+"verifyElementVisible(findTestObject(""cust management/Page_Prieds Technology/div_Customer Register Import""))",Chrome 117.0.0.0,,,2023-09-29 08:28:43,2023-09-29 08:28:43,0.327s,PASSED
+"verifyElementVisible(findTestObject(""cust management/Page_Prieds Technology/div_Items per page 50 1  50 of 199""))",Chrome 117.0.0.0,,,2023-09-29 08:28:43,2023-09-29 08:28:43,0.347s,PASSED
+"verifyElementVisible(findTestObject(""cust management/Page_Prieds Technology/kolom""))",Chrome 117.0.0.0,,,2023-09-29 08:28:43,2023-09-29 08:28:44,0.336s,PASSED
+"verifyElementVisible(findTestObject(""cust management/Page_Prieds Technology/kolom2""))",Chrome 117.0.0.0,,,2023-09-29 08:28:44,2023-09-29 08:28:44,0.325s,PASSED
+"verifyElementVisible(findTestObject(""cust management/Page_Prieds Technology/th_Actions""))",Chrome 117.0.0.0,,,2023-09-29 08:28:44,2023-09-29 08:28:44,0.326s,PASSED
+"verifyElementVisible(findTestObject(""cust management/Page_Prieds Technology/th_Customer Email""))",Chrome 117.0.0.0,,,2023-09-29 08:28:44,2023-09-29 08:28:45,0.339s,PASSED
+"verifyElementVisible(findTestObject(""cust management/Page_Prieds Technology/th_Customer ID""))",Chrome 117.0.0.0,,,2023-09-29 08:28:45,2023-09-29 08:28:45,0.343s,PASSED
+"verifyElementVisible(findTestObject(""cust management/Page_Prieds Technology/th_Customer Name""))",Chrome 117.0.0.0,,,2023-09-29 08:28:45,2023-09-29 08:28:45,0.330s,PASSED
+"verifyElementVisible(findTestObject(""cust management/Page_Prieds Technology/th_PIC""))",Chrome 117.0.0.0,,,2023-09-29 08:28:45,2023-09-29 08:28:46,0.360s,PASSED
+Video,Chrome 117.0.0.0,,,2023-09-29 08:28:48,2023-09-29 08:28:48,0.001s,PASSED

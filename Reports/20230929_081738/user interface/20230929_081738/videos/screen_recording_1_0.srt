@@ -1,0 +1,68 @@
+1
+00:00:00,329 --> 00:00:02,752
+1. openBrowser("")
+
+2
+00:00:02,759 --> 00:00:53,424
+5. navigateToUrl("https://sandbox.product.prieds.com/")
+
+3
+00:00:53,425 --> 00:00:53,842
+9. verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Hello,welcomeSign InIDUsernamePasswordv_1847fc"))
+
+4
+00:00:53,843 --> 00:00:54,232
+13. verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img_Hello,_style-people"))
+
+5
+00:00:54,233 --> 00:01:29,271
+17. verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_No Data_cdk-overlay-backdrop cdk-overla_66c7c7"))
+
+6
+00:01:29,272 --> 00:01:29,614
+21. verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/label_Hello,"))
+
+7
+00:01:29,614 --> 00:01:29,959
+25. verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/label_welcome"))
+
+8
+00:01:29,960 --> 00:01:30,298
+29. verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Hello,welcome"))
+
+9
+00:01:30,299 --> 00:01:30,642
+33. verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img"))
+
+10
+00:01:30,642 --> 00:01:31,003
+37. verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Sign InIDUsernamePasswordvisibility_off_fea716"))
+
+11
+00:01:31,004 --> 00:01:31,344
+41. verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/mat-card_Sign InIDUsernamePasswordvisibilit_57b472"))
+
+12
+00:01:31,346 --> 00:01:31,691
+45. verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/label_Sign In"))
+
+13
+00:01:31,691 --> 00:01:32,049
+49. verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_IDUsername"))
+
+14
+00:01:32,050 --> 00:01:32,390
+53. verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Password"))
+
+15
+00:01:32,391 --> 00:01:32,755
+57. verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/button_Login"))
+
+16
+00:01:32,755 --> 00:01:33,113
+61. verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Version 0.1.119"))
+
+17
+00:01:33,114 --> 00:01:33,473
+65. verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/label_Need an Account Sign Up"))
+

@@ -37,3 +37,33 @@ WebUI.click(findTestObject('Object Repository/Page_Prieds Technology/div_Master'
 
 WebUI.click(findTestObject('Object Repository/Page_Prieds Technology/div_Customer Management'))
 
+WebUI.verifyElementVisible(findTestObject('cust management/Page_Prieds Technology/button_Download  expand_more'))
+
+WebUI.verifyElementVisible(findTestObject('cust management/Page_Prieds Technology/button_Search'))
+
+WebUI.verifyElementVisible(findTestObject('cust management/Page_Prieds Technology/div_Customer ID'))
+
+WebUI.verifyElementVisible(findTestObject('cust management/Page_Prieds Technology/div_Customer List'))
+
+WebUI.verifyElementVisible(findTestObject('cust management/Page_Prieds Technology/div_Customer Name'))
+
+WebUI.verifyElementVisible(findTestObject('cust management/Page_Prieds Technology/div_Customer Register'))
+
+WebUI.verifyElementVisible(findTestObject('cust management/Page_Prieds Technology/div_Customer Register Import'))
+
+WebUI.verifyElementVisible(findTestObject('cust management/Page_Prieds Technology/div_Items per page 50 1  50 of 199'))
+
+WebUI.verifyElementVisible(findTestObject('cust management/Page_Prieds Technology/kolom'))
+
+WebUI.verifyElementVisible(findTestObject('cust management/Page_Prieds Technology/kolom2'))
+
+WebUI.verifyElementVisible(findTestObject('cust management/Page_Prieds Technology/th_Actions'))
+
+WebUI.verifyElementVisible(findTestObject('cust management/Page_Prieds Technology/th_Customer Email'))
+
+WebUI.verifyElementVisible(findTestObject('cust management/Page_Prieds Technology/th_Customer ID'))
+
+WebUI.verifyElementVisible(findTestObject('cust management/Page_Prieds Technology/th_Customer Name'))
+
+WebUI.verifyElementVisible(findTestObject('cust management/Page_Prieds Technology/th_PIC'))
+

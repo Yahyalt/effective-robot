@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Customer ID</name>
+   <tag></tag>
+   <elementGuidId>696168f7-86e1-490a-9995-bade45b46293</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c165-36</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-0-0']/div/div/mat-card/div/div/mat-form-field/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5b2b609f-eeca-435e-8890-781f15c966ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c165-36</value>
+      <webElementGuid>662a2d0f-da60-4f38-9301-be9b615f8a80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Customer ID </value>
+      <webElementGuid>8bafad65-05e3-4c51-a749-4f7f2a79cd57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-0-0&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c282-61 ng-trigger ng-trigger-translateTab&quot;]/div[@class=&quot;ng-star-inserted&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator&quot;]/div[1]/div[@class=&quot;mat-menu-trigger&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c165-36 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c165-36&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c165-36&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c165-36&quot;]</value>
+      <webElementGuid>e237094b-cd2e-4181-a75b-917f5c1e8ff2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-0-0']/div/div/mat-card/div/div/mat-form-field/div/div/div</value>
+      <webElementGuid>cc2d7845-fd64-458f-906a-2f4ee2ee2d20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Register Import'])[1]/following::div[10]</value>
+      <webElementGuid>a85c577d-3283-46fb-a886-df78ed72dd45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Register'])[1]/following::div[12]</value>
+      <webElementGuid>f2b9ec55-5a2e-45e0-b47a-4a720461c96c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Name'])[1]/preceding::div[5]</value>
+      <webElementGuid>436058c1-7673-4332-9082-5d095c9f6f65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field/div/div/div</value>
+      <webElementGuid>5f3144d8-cc96-4b3f-85bb-6bf6e1d38f57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Customer ID ' or . = ' Customer ID ')]</value>
+      <webElementGuid>ba0cadd4-7669-4505-bc5e-fcf0d75ab454</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

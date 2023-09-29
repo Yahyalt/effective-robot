@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Prieds Technology/div_No Data_cdk-overlay-backdrop cdk-overla_66c7c7",
+      "brokenLocator": "//mat-select[@id\u003d\u0027createcustomer-customerregister-customermanagementmatselect-salesmanid-createcustomer\u0027]/div/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Hello,\u0027])[1]/preceding::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230929_081738/user interface/20230929_081738/Object Repository/Page_Prieds Technology/div_No Data_cdk-overlay-backdrop cdk-overla_66c7c7_neighbor.png"
+    }
+  ]
+}

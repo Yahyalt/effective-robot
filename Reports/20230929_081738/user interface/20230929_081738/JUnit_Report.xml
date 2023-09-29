@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="user interface" time="667.792" tests="3" failures="1" errors="0">
+   <testsuite name="user interface" tests="3" failures="1" errors="0" time="667.792" skipped="0" timestamp="2023-09-29 08:17:40" hostname="LENOVO - LAPTOP-6D1EASRA" id="Test Suites/user interface">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LENOVO\\git\\effective-robot\\Reports\\20230929_081738\\user interface\\20230929_081738"/>
+         <property name="logFiles" value="C:\\Users\\LENOVO\\git\\effective-robot\\Reports\\20230929_081738\\user interface\\20230929_081738\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\LENOVO\\git\\effective-robot\\Reports\\20230929_081738\\user interface\\20230929_081738\\1695950463057.png, C:\\Users\\LENOVO\\git\\effective-robot\\Reports\\20230929_081738\\user interface\\20230929_081738\\1695950463441.png, C:\\Users\\LENOVO\\git\\effective-robot\\Reports\\20230929_081738\\user interface\\20230929_081738\\1695950569251.png, C:\\Users\\LENOVO\\git\\effective-robot\\Reports\\20230929_081738\\user interface\\20230929_081738\\1695950569612.png, C:\\Users\\LENOVO\\git\\effective-robot\\Reports\\20230929_081738\\user interface\\20230929_081738\\1695950680420.png, C:\\Users\\LENOVO\\git\\effective-robot\\Reports\\20230929_081738\\user interface\\20230929_081738\\1695950680731.png, C:\\Users\\LENOVO\\git\\effective-robot\\Reports\\20230929_081738\\user interface\\20230929_081738\\1695950815394.png, C:\\Users\\LENOVO\\git\\effective-robot\\Reports\\20230929_081738\\user interface\\20230929_081738\\1695950815673.png"/>
+         <property name="hostName" value="LENOVO - LAPTOP-6D1EASRA"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 117.0.0.0"/>
+         <property name="hostAddress" value="192.168.97.213"/>
+         <property name="sessionId" value="e2da1784e4c233a23b58775c4bb8f2cb"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/User Interface/Login page" time="95.772" classname="Test Cases/User Interface/Login page" status="PASSED">
+         <system-out><![CDATA[2023-09-29 08:17:40 - [TEST_CASE][PASSED] - Test Cases/User Interface/Login page: Test Cases/User Interface/Login page
+
+2023-09-29 08:17:41 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 08:17:41 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 08:17:41 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 08:17:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 08:17:43 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 08:18:34 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 08:18:34 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Hello,welcomeSign InIDUsernamePasswordv_1847fc")): Object 'Object Repository/Page_Prieds Technology/div_Hello,welcomeSign InIDUsernamePasswordv_1847fc' is visible
+
+2023-09-29 08:18:34 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Hello,welcomeSign InIDUsernamePasswordv_1847fc' is visible
+
+2023-09-29 08:18:34 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img_Hello,_style-people")): Object 'Object Repository/Page_Prieds Technology/img_Hello,_style-people' is visible
+
+2023-09-29 08:18:35 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/img_Hello,_style-people' is visible
+
+2023-09-29 08:18:35 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_No Data_cdk-overlay-backdrop cdk-overla_66c7c7")): Object 'Object Repository/Page_Prieds Technology/div_No Data_cdk-overlay-backdrop cdk-overla_66c7c7' is visible
+
+2023-09-29 08:19:06 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //mat-select[@id='createcustomer-customerregister-customermanagementmatselect-salesmanid-createcustomer']/div/div[2]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-09-29 08:19:06 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Prieds Technology/div_No Data_cdk-overlay-backdrop cdk-overla_66c7c7'. Try using Self-healing.
+
+2023-09-29 08:19:06 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//mat-select[@id='createcustomer-customerregister-customermanagementmatselect-salesmanid-createcustomer']/div/div[2]'.
+
+2023-09-29 08:19:06 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Salesman ID'])[1]/following::div[1]'.
+
+2023-09-29 08:19:07 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Customer ID'])[1]/following::div[17]'.
+
+2023-09-29 08:19:07 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Salesman ID'])[2]/preceding::div[2]'.
+
+2023-09-29 08:19:07 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Customer Name'])[1]/preceding::div[13]'.
+
+2023-09-29 08:19:07 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//mat-select/div/div[2]'.
+
+2023-09-29 08:19:08 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//mat-select[@id='mat-select-0']/div/div[2]'.
+
+2023-09-29 08:19:08 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::div[1]'.
+
+2023-09-29 08:19:08 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='No Data'])[96]/following::div[30]'.
+
+2023-09-29 08:19:08 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Language'])[1]/preceding::div[2]'.
+
+2023-09-29 08:19:09 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Support/Help'])[1]/preceding::div[5]'.
+
+2023-09-29 08:19:09 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[3]/mat-select/div/div[2]'.
+
+2023-09-29 08:19:09 - [MESSAGE][INFO] - [SELF-HEALING] Working Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Hello,'])[1]/preceding::div[1]'.
+
+2023-09-29 08:19:10 - [MESSAGE][INFO] - [SELF-HEALING] Screenshot: C:/Users/LENOVO/git/effective-robot/Reports/Self-healing/Object Repository/Page_Prieds Technology/div_No Data_cdk-overlay-backdrop cdk-overla_66c7c7_neighbor.png
+
+2023-09-29 08:19:10 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Prieds Technology/div_No Data_cdk-overlay-backdrop cdk-overla_66c7c7' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Hello,'])[1]/preceding::div[1]'.
+
+2023-09-29 08:19:10 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_No Data_cdk-overlay-backdrop cdk-overla_66c7c7' is visible
+
+2023-09-29 08:19:10 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/label_Hello,")): Object 'Object Repository/Page_Prieds Technology/label_Hello,' is visible
+
+2023-09-29 08:19:10 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/label_Hello,' is visible
+
+2023-09-29 08:19:10 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/label_welcome")): Object 'Object Repository/Page_Prieds Technology/label_welcome' is visible
+
+2023-09-29 08:19:10 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/label_welcome' is visible
+
+2023-09-29 08:19:10 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Hello,welcome")): Object 'Object Repository/Page_Prieds Technology/div_Hello,welcome' is visible
+
+2023-09-29 08:19:11 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Hello,welcome' is visible
+
+2023-09-29 08:19:11 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/img")): Object 'Object Repository/Page_Prieds Technology/img' is visible
+
+2023-09-29 08:19:11 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/img' is visible
+
+2023-09-29 08:19:11 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Sign InIDUsernamePasswordvisibility_off_fea716")): Object 'Object Repository/Page_Prieds Technology/div_Sign InIDUsernamePasswordvisibility_off_fea716' is visible
+
+2023-09-29 08:19:11 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Sign InIDUsernamePasswordvisibility_off_fea716' is visible
+
+2023-09-29 08:19:11 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/mat-card_Sign InIDUsernamePasswordvisibilit_57b472")): Object 'Object Repository/Page_Prieds Technology/mat-card_Sign InIDUsernamePasswordvisibilit_57b472' is visible
+
+2023-09-29 08:19:12 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/mat-card_Sign InIDUsernamePasswordvisibilit_57b472' is visible
+
+2023-09-29 08:19:12 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/label_Sign In")): Object 'Object Repository/Page_Prieds Technology/label_Sign In' is visible
+
+2023-09-29 08:19:12 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/label_Sign In' is visible
+
+2023-09-29 08:19:12 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_IDUsername")): Object 'Object Repository/Page_Prieds Technology/div_IDUsername' is visible
+
+2023-09-29 08:19:12 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_IDUsername' is visible
+
+2023-09-29 08:19:12 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Password")): Object 'Object Repository/Page_Prieds Technology/div_Password' is visible
+
+2023-09-29 08:19:13 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Password' is visible
+
+2023-09-29 08:19:13 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/button_Login")): Object 'Object Repository/Page_Prieds Technology/button_Login' is visible
+
+2023-09-29 08:19:13 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/button_Login' is visible
+
+2023-09-29 08:19:13 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/div_Version 0.1.119")): Object 'Object Repository/Page_Prieds Technology/div_Version 0.1.119' is visible
+
+2023-09-29 08:19:13 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/div_Version 0.1.119' is visible
+
+2023-09-29 08:19:13 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Prieds Technology/label_Need an Account Sign Up")): Object 'Object Repository/Page_Prieds Technology/label_Need an Account Sign Up' is visible
+
+2023-09-29 08:19:14 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Prieds Technology/label_Need an Account Sign Up' is visible
+
+2023-09-29 08:19:16 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/User Interface/Login page' .
+
+2023-09-29 08:19:16 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/User Interface/Login page' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User Interface/Dashboard page" time="134.901" classname="Test Cases/User Interface/Dashboard page" status="FAILED">
+         <failure type="FAILED" message="Test Cases/User Interface/Dashboard page FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/dashboard/Page_Prieds Technology/button_account_balance Accounting' is visible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$1.call(Unknown Source)
+	at Dashboard page.run(Dashboard page:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695950258134.run(TempTestSuite1695950258134.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/dashboard/Page_Prieds Technology/button_account_balance Accounting' located by '//button[@id='Accounting']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+"/>
+         <system-out><![CDATA[2023-09-29 08:24:43 - [TEST_CASE][FAILED] - Test Cases/User Interface/Dashboard page: Test Cases/User Interface/Dashboard page FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/dashboard/Page_Prieds Technology/button_account_balance Accounting' is visible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$1.call(Unknown Source)
+	at Dashboard page.run(Dashboard page:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695950258134.run(TempTestSuite1695950258134.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/dashboard/Page_Prieds Technology/button_account_balance Accounting' located by '//button[@id='Accounting']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+
+
+2023-09-29 08:24:43 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 08:24:43 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-09-29 08:24:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 08:24:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 08:24:45 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 08:24:45 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 08:26:18 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 08:26:18 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 08:26:19 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 08:26:19 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 08:26:19 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 08:26:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/button_Login")): Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 08:26:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/button_Login' is clicked on
+
+2023-09-29 08:26:20 - [TEST_STEP][FAILED] - verifyElementVisible(findTestObject("dashboard/Page_Prieds Technology/button_account_balance Accounting")): Unable to verify object 'Object Repository/dashboard/Page_Prieds Technology/button_account_balance Accounting' is visible (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/dashboard/Page_Prieds Technology/button_account_balance Accounting' is visible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$1.call(Unknown Source)
+	at Dashboard page.run(Dashboard page:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695950258134.run(TempTestSuite1695950258134.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/dashboard/Page_Prieds Technology/button_account_balance Accounting' located by '//button[@id='Accounting']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+)
+
+2023-09-29 08:26:51 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //button[@id='Accounting']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-09-29 08:26:51 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/dashboard/Page_Prieds Technology/button_account_balance Accounting'. Try using Self-healing.
+
+2023-09-29 08:26:51 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//button[@id='Accounting']'.
+
+2023-09-29 08:26:52 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Purchasing'])[1]/following::button[1]'.
+
+2023-09-29 08:26:52 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Master'])[1]/following::button[2]'.
+
+2023-09-29 08:26:52 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Approval Documents'])[1]/preceding::button[1]'.
+
+2023-09-29 08:26:53 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//app-menu-element[5]/button'.
+
+2023-09-29 08:26:53 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//button[@id = 'Accounting' and (text() = 'account_balance Accounting ' or . = 'account_balance Accounting ')]'.
+
+2023-09-29 08:26:54 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[@id = 'Accounting' and (text() = 'account_balance Accounting ' or . = 'account_balance Accounting ')]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-09-29 08:26:55 - [MESSAGE][INFO] - Unable to find the element located by 'By.cssSelector: #Accounting'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-09-29 08:26:55 - [MESSAGE][FAILED] - Web element with id: 'Object Repository/dashboard/Page_Prieds Technology/button_account_balance Accounting' located by '//button[@id='Accounting']' not found (Root cause: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/dashboard/Page_Prieds Technology/button_account_balance Accounting' located by '//button[@id='Accounting']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$1.call(Unknown Source)
+	at Dashboard page.run(Dashboard page:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695950258134.run(TempTestSuite1695950258134.groovy:36)
+)
+[[ATTACHMENT|C:\\Users\\LENOVO\\git\\effective-robot\\Reports\\20230929_081738\\user interface\\20230929_081738\\1695950815394.png]]
+
+2023-09-29 08:26:55 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/dashboard/Page_Prieds Technology/button_account_balance Accounting' is visible (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/dashboard/Page_Prieds Technology/button_account_balance Accounting' is visible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$1.call(Unknown Source)
+	at Dashboard page.run(Dashboard page:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695950258134.run(TempTestSuite1695950258134.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/dashboard/Page_Prieds Technology/button_account_balance Accounting' located by '//button[@id='Accounting']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+)
+[[ATTACHMENT|C:\\Users\\LENOVO\\git\\effective-robot\\Reports\\20230929_081738\\user interface\\20230929_081738\\1695950815673.png]]
+
+2023-09-29 08:26:58 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/User Interface/Dashboard page' .
+
+2023-09-29 08:26:58 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/User Interface/Dashboard page' .]]></system-out>
+         <system-err><![CDATA[2023-09-29 08:24:43 - [TEST_CASE][FAILED] - Test Cases/User Interface/Dashboard page: Test Cases/User Interface/Dashboard page FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/dashboard/Page_Prieds Technology/button_account_balance Accounting' is visible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$1.call(Unknown Source)
+	at Dashboard page.run(Dashboard page:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695950258134.run(TempTestSuite1695950258134.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/dashboard/Page_Prieds Technology/button_account_balance Accounting' located by '//button[@id='Accounting']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User Interface/customer management page" time="110.175" classname="Test Cases/User Interface/customer management page" status="PASSED">
+         <system-out><![CDATA[2023-09-29 08:26:58 - [TEST_CASE][PASSED] - Test Cases/User Interface/customer management page: Test Cases/User Interface/customer management page
+
+2023-09-29 08:26:58 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 08:26:58 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-09-29 08:26:58 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 08:26:58 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 08:27:00 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 08:27:00 - [TEST_STEP][PASSED] - navigateToUrl("https://sandbox.product.prieds.com/"): Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 08:27:46 - [MESSAGE][PASSED] - Navigate to 'https://sandbox.product.prieds.com/' successfully
+
+2023-09-29 08:27:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username")): Object: 'Object Repository/Page_Prieds Technology/input_Sign In_username' is clicked on
+
+2023-09-29 08:27:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/input_Sign In_username' is clicked on
+
+2023-09-29 08:27:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/img_Hello,_style-people")): Object: 'Object Repository/Page_Prieds Technology/img_Hello,_style-people' is clicked on
+
+2023-09-29 08:27:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/img_Hello,_style-people' is clicked on
+
+2023-09-29 08:27:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_IDUsername")): Object: 'Object Repository/Page_Prieds Technology/div_IDUsername' is clicked on
+
+2023-09-29 08:27:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_IDUsername' is clicked on
+
+2023-09-29 08:27:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Prieds Technology/input_Sign In_username"), "testingwmslite2"): Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 08:27:48 - [MESSAGE][PASSED] - Text 'testingwmslite2' is set on object 'Object Repository/Page_Prieds Technology/input_Sign In_username'
+
+2023-09-29 08:27:48 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Prieds Technology/input_IDUsername_password"), "U8NeUUalMC6sqe9eTsnb2g=="): Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 08:27:48 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Prieds Technology/input_IDUsername_password'
+
+2023-09-29 08:27:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/span_Login")): Object: 'Object Repository/Page_Prieds Technology/span_Login' is clicked on
+
+2023-09-29 08:27:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/span_Login' is clicked on
+
+2023-09-29 08:27:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Master")): Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 08:28:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Master' is clicked on
+
+2023-09-29 08:28:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Prieds Technology/div_Customer Management")): Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 08:28:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Prieds Technology/div_Customer Management' is clicked on
+
+2023-09-29 08:28:20 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("cust management/Page_Prieds Technology/button_Download  expand_more")): Object 'Object Repository/cust management/Page_Prieds Technology/button_Download  expand_more' is visible
+
+2023-09-29 08:28:41 - [MESSAGE][PASSED] - Object 'Object Repository/cust management/Page_Prieds Technology/button_Download  expand_more' is visible
+
+2023-09-29 08:28:41 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("cust management/Page_Prieds Technology/button_Search")): Object 'Object Repository/cust management/Page_Prieds Technology/button_Search' is visible
+
+2023-09-29 08:28:41 - [MESSAGE][PASSED] - Object 'Object Repository/cust management/Page_Prieds Technology/button_Search' is visible
+
+2023-09-29 08:28:41 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("cust management/Page_Prieds Technology/div_Customer ID")): Object 'Object Repository/cust management/Page_Prieds Technology/div_Customer ID' is visible
+
+2023-09-29 08:28:42 - [MESSAGE][PASSED] - Object 'Object Repository/cust management/Page_Prieds Technology/div_Customer ID' is visible
+
+2023-09-29 08:28:42 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("cust management/Page_Prieds Technology/div_Customer List")): Object 'Object Repository/cust management/Page_Prieds Technology/div_Customer List' is visible
+
+2023-09-29 08:28:42 - [MESSAGE][PASSED] - Object 'Object Repository/cust management/Page_Prieds Technology/div_Customer List' is visible
+
+2023-09-29 08:28:42 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("cust management/Page_Prieds Technology/div_Customer Name")): Object 'Object Repository/cust management/Page_Prieds Technology/div_Customer Name' is visible
+
+2023-09-29 08:28:42 - [MESSAGE][PASSED] - Object 'Object Repository/cust management/Page_Prieds Technology/div_Customer Name' is visible
+
+2023-09-29 08:28:42 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("cust management/Page_Prieds Technology/div_Customer Register")): Object 'Object Repository/cust management/Page_Prieds Technology/div_Customer Register' is visible
+
+2023-09-29 08:28:43 - [MESSAGE][PASSED] - Object 'Object Repository/cust management/Page_Prieds Technology/div_Customer Register' is visible
+
+2023-09-29 08:28:43 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("cust management/Page_Prieds Technology/div_Customer Register Import")): Object 'Object Repository/cust management/Page_Prieds Technology/div_Customer Register Import' is visible
+
+2023-09-29 08:28:43 - [MESSAGE][PASSED] - Object 'Object Repository/cust management/Page_Prieds Technology/div_Customer Register Import' is visible
+
+2023-09-29 08:28:43 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("cust management/Page_Prieds Technology/div_Items per page 50 1  50 of 199")): Object 'Object Repository/cust management/Page_Prieds Technology/div_Items per page 50 1  50 of 199' is visible
+
+2023-09-29 08:28:43 - [MESSAGE][PASSED] - Object 'Object Repository/cust management/Page_Prieds Technology/div_Items per page 50 1  50 of 199' is visible
+
+2023-09-29 08:28:43 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("cust management/Page_Prieds Technology/kolom")): Object 'Object Repository/cust management/Page_Prieds Technology/kolom' is visible
+
+2023-09-29 08:28:44 - [MESSAGE][PASSED] - Object 'Object Repository/cust management/Page_Prieds Technology/kolom' is visible
+
+2023-09-29 08:28:44 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("cust management/Page_Prieds Technology/kolom2")): Object 'Object Repository/cust management/Page_Prieds Technology/kolom2' is visible
+
+2023-09-29 08:28:44 - [MESSAGE][PASSED] - Object 'Object Repository/cust management/Page_Prieds Technology/kolom2' is visible
+
+2023-09-29 08:28:44 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("cust management/Page_Prieds Technology/th_Actions")): Object 'Object Repository/cust management/Page_Prieds Technology/th_Actions' is visible
+
+2023-09-29 08:28:44 - [MESSAGE][PASSED] - Object 'Object Repository/cust management/Page_Prieds Technology/th_Actions' is visible
+
+2023-09-29 08:28:44 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("cust management/Page_Prieds Technology/th_Customer Email")): Object 'Object Repository/cust management/Page_Prieds Technology/th_Customer Email' is visible
+
+2023-09-29 08:28:45 - [MESSAGE][PASSED] - Object 'Object Repository/cust management/Page_Prieds Technology/th_Customer Email' is visible
+
+2023-09-29 08:28:45 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("cust management/Page_Prieds Technology/th_Customer ID")): Object 'Object Repository/cust management/Page_Prieds Technology/th_Customer ID' is visible
+
+2023-09-29 08:28:45 - [MESSAGE][PASSED] - Object 'Object Repository/cust management/Page_Prieds Technology/th_Customer ID' is visible
+
+2023-09-29 08:28:45 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("cust management/Page_Prieds Technology/th_Customer Name")): Object 'Object Repository/cust management/Page_Prieds Technology/th_Customer Name' is visible
+
+2023-09-29 08:28:45 - [MESSAGE][PASSED] - Object 'Object Repository/cust management/Page_Prieds Technology/th_Customer Name' is visible
+
+2023-09-29 08:28:45 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("cust management/Page_Prieds Technology/th_PIC")): Object 'Object Repository/cust management/Page_Prieds Technology/th_PIC' is visible
+
+2023-09-29 08:28:46 - [MESSAGE][PASSED] - Object 'Object Repository/cust management/Page_Prieds Technology/th_PIC' is visible
+
+2023-09-29 08:28:48 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/User Interface/customer management page' .
+
+2023-09-29 08:28:48 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/User Interface/customer management page' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-09-29 08:17:40 - [TEST_SUITE][FAILED] - user interface: Test Cases/User Interface/Dashboard page FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/dashboard/Page_Prieds Technology/button_account_balance Accounting' is visible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$1.call(Unknown Source)
+	at Dashboard page.run(Dashboard page:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695950258134.run(TempTestSuite1695950258134.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/dashboard/Page_Prieds Technology/button_account_balance Accounting' located by '//button[@id='Accounting']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2023-09-29 08:17:40 - [TEST_SUITE][FAILED] - user interface: Test Cases/User Interface/Dashboard page FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/dashboard/Page_Prieds Technology/button_account_balance Accounting' is visible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible(VerifyElementVisibleKeyword.groovy:97)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword.execute(VerifyElementVisibleKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(WebUiBuiltInKeywords.groovy:376)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementVisible$1.call(Unknown Source)
+	at Dashboard page.run(Dashboard page:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695950258134.run(TempTestSuite1695950258134.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Web element with id: 'Object Repository/dashboard/Page_Prieds Technology/button_account_balance Accounting' located by '//button[@id='Accounting']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.doCall(VerifyElementVisibleKeyword.groovy:89)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementVisibleKeyword$_verifyElementVisible_closure1.call(VerifyElementVisibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>
